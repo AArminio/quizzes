@@ -3715,7 +3715,7 @@
             ]
         ],
         [
-            "Seg\u00fan el teorma CAP",
+            "Seg\u00fan el teorema CAP",
             [
                 [
                     "La base de datos no puede almacenar m\u00e1s informaci\u00f3n que la suma del espacio de almacenamiento de sus nodos",
@@ -3983,6 +3983,82 @@
                 ],
                 [
                     "La complejidad distribuir una enorme cantidad de datos en los distintos volumenes o unidades de almacenamiento",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El acrónimo OLTP designa",
+            [
+                [
+                    "Un sistema de ficheros distribuído en los nodos de un clúster.",
+                    false
+                ],
+                [
+                    "Un sistema que está orientado a analítica descriptiva",
+                    false
+                ],
+                [
+                    "Un sistema que está orientado a generación de modelos predictivos",
+                    false
+                ],
+                [
+                    "Un sistema que está orientado a transacciones",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Una de las siguientes afirmaciones es cierta en relación a procesamiento paralelo de tareas",
+            [
+                [
+                    "Si conseguimos paralelizar una tarea, la potencia equivalente de cómputo es la suma de las potencias de cada nodo del cluster",
+                    false
+                ],
+                [
+                    "Algunas tareas no pueden paralelizarse para que se ejecuten más rápido usando varias máquinas",
+                    true
+                ],
+                [
+                    "Cualquier tarea siempre tiene al menos una parte que puede ejecutarse en paralelo para ganar tiempo",
+                    false
+                ],
+                [
+                    "Todas las tareas pueden paralelizarse para que se ejecuten más rápido usando varias máquinas",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Un dataset no debería contener ficheros de texto plano. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El lenguaje comúnmente empleado para interactuar con bases de datos se llama:",
+            [
+                [
+                    "XML",
+                    false
+                ],
+                [
+                    "MySQL",
+                    false
+                ],
+                [
+                    "SQL",
+                    true
+                ],
+                [
+                    "RDBMS",
                     false
                 ]
             ]
@@ -4381,6 +4457,61 @@
                 ],
                 [
                     "Que cada vez que escribimos un registro podemos actualizar el esquema",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Un árbol de directorio es:",
+            [
+                [
+                    "Una estructura que nos permite organizar ficheros dentro de carpetas.",
+                    true
+                ],
+                [
+                    "Una colección de nodos de árbol enlazados mediante aristas.",
+                    false
+                ],
+                [
+                    "Un conjunto de metadatos acerca de un fichero.",
+                    false
+                ],
+                [
+                    "Una estructura de datos almacenada en la memoria RAM del sistema",
+                    false
+                ]
+            ]
+        ],
+        [
+            "HDFS es un componente de Apache Hadoop. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En bases de datos distribuidas, sharding y replicación son:",
+            [
+                [
+                    "Inapropiados",
+                    false
+                ],
+                [
+                    "Compatibles",
+                    true
+                ],
+                [
+                    "Incompatibles",
+                    false
+                ],
+                [
+                    "Inconsistentes",
                     false
                 ]
             ]
