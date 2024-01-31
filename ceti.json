@@ -1,0 +1,4234 @@
+{
+  "Examen para PPS02": [
+    [
+      "El nivel 2 del ASVS est\u00e1 dirigido a",
+      [
+        [
+          "Software propietario",
+          false
+        ],
+        [
+          "Todo tipo de software",
+          false
+        ],
+        [
+          "Aplicaciones que manejen datos sensibles",
+          true
+        ],
+        [
+          "Entornos m\u00f3viles con transacciones econ\u00f3micas",
+          false
+        ]
+      ]
+    ],
+    [
+      "OWASP ofrece un Top de riesgos para m\u00f3viles y para web. \u00bfVerdadero o falso?",
+      [
+        "verdadero"
+      ]
+    ],
+    [
+      "\u00bfQh\u00e9 ventajas ofrece el software de fuentes abiertas?",
+      [
+        [
+          "Reducci\u00f3n de tiempos de acceso al dato",
+          false
+        ],
+        [
+          "Estabilidad, Seguridad, Colaboraci\u00f3n",
+          true
+        ],
+        [
+          "Sostenibilidad",
+          false
+        ],
+        [
+          "Modelo claro de desarrollo seguro",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es el TOP1 de OWASP?",
+      [
+        [
+          "Fallos Criptogr\u00e1ficos",
+          false
+        ],
+        [
+          "P\u00e9rdida de Control de Acceso al Dato",
+          true
+        ],
+        [
+          "Dise\u00f1o Inseguro",
+          false
+        ],
+        [
+          "Componentes vulnerables y obsoletos",
+          false
+        ]
+      ]
+    ],
+    [
+      "La idea y el movimiento detr\u00e1s del software de fuentes abiertas ha sido",
+      [
+        [
+          "Criticada por programadores expertos",
+          false
+        ],
+        [
+          "Criticada por la gran mayor\u00eda de las compa\u00f1ias de software",
+          false
+        ],
+        [
+          "Aceptada por algunos sectores muy especificos",
+          false
+        ],
+        [
+          "Ampliamente reconocida y aceptada tanto por empresas como por expertos programadores",
+          true
+        ]
+      ]
+    ],
+    [
+      "La fundaci\u00f3n OWASP es una fundaci\u00f3n con \u00e1nimo de lucro. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Cuando el c\u00f3digo es accesible los usuarios pueden acceder a \u00e9l, mejor\u00e1ndolo en muchos casos. \u00bfVerdadero o falso?",
+      [
+        "verdadero"
+      ]
+    ],
+    [
+      "El objetivo de las pruebas de aceptaci\u00f3n es verificar la sincronizaci\u00f3n entre m\u00f3dulos. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "El software de fuentes abiertas no tiene relaci\u00f3n con la seguridad. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Cuando estamos desarrollando software es recomendable",
+      [
+        [
+          "Saber que pruebas de software vamos a realizar",
+          false
+        ],
+        [
+          "Conocer el resultado de nuestro c\u00f3digo de manera exacta",
+          false
+        ],
+        [
+          "Conocer el n\u00famero de funciones que necesitamos",
+          false
+        ],
+        [
+          "Tener un entorno de desarrollo",
+          true
+        ]
+      ]
+    ],
+    [
+      "El codigo fuente no es m\u00e1s que un conjunto de caracteres sin orden ni estructura. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Podriamos definir el objetivo de OWASP como",
+      [
+        [
+          "Comprobar appliaciones web y m\u00f3viles para mejorar la seguridad del software",
+          false
+        ],
+        [
+          "Proporcionar una gu\u00eda de referencia identificando riesgos y controles para las apliaciones",
+          true
+        ],
+        [
+          "Comprobar aplicaciones web para mejorar la seguridad del softwware",
+          false
+        ],
+        [
+          "Ayudar en la comprobaci\u00f3n del software",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfExiste relaci\u00f3n entre los datos manejados y el nivel ASVS?",
+      [
+        [
+          "S\u00ed, seg\u00fan el tipo de dato manejado por la aplicaci\u00f3n",
+          true
+        ],
+        [
+          "S\u00ed, a mayor volumen de datos mayor nivel de ASVS",
+          false
+        ],
+        [
+          "Si, es inversamente proporcional",
+          false
+        ],
+        [
+          "No",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las aplicaciones de nivel 1 del ASVS no tienen que cumplir ning\u00fan requisito. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "En el TOP10 de OWASP est\u00e1 el ataque de Man-In-The-Middle. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "El TOP10 de OWASP tiene el objetivo de identificar riesgos. \u00bfVerdadero o falso?",
+      [
+        "verdadero"
+      ]
+    ],
+    [
+      "Los requisitos del ASVS se fijaron con el objetivo de tener una m\u00e9trica a nivel de seguridad. \u00bfVerdadero o falso?",
+      [
+        "verdadero"
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 controles se tienen en cuenta en el ASVS?",
+      [
+        [
+          "Importaciones del software",
+          false
+        ],
+        [
+          "Proceso compilaci\u00f3n",
+          false
+        ],
+        [
+          "Autenticaci\u00f3n y comunicaciones",
+          true
+        ],
+        [
+          "Flujo de programa",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es el objetivo de ASVS?",
+      [
+        [
+          "Evaluar aplicaciones",
+          false
+        ],
+        [
+          "Evaluar el c\u00f3digo para un software m\u00e1s seguro",
+          false
+        ],
+        [
+          "Elaborar el est\u00e1ndar obligatorio para las compa\u00f1ias de software",
+          false
+        ],
+        [
+          "Ayudar el desarrollo seguro y alinear necesidades entre todas las partes",
+          true
+        ]
+      ]
+    ],
+    [
+      "Los datos personales no condicionan los niveles del ASVS. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ]
+  ],
+  "Examen para AFI01": [
+    [
+      "\u00bfQu\u00e9 elementos m\u00ednimos debe de tener el documento de cadena de custodia?",
+      [
+        [
+          "Identificaci\u00f3n un\u00edvoca",
+          true
+        ],
+        [
+          "Registro de control",
+          true
+        ],
+        [
+          "C\u00f3digo fuente",
+          false
+        ],
+        [
+          "L\u00ednea de tiempo",
+          true
+        ]
+      ]
+    ],
+    [
+      "A nivel de herramientas f\u00edsicas necesitaremos",
+      [
+        [
+          "Baterias externas",
+          false
+        ],
+        [
+          "Palancas",
+          false
+        ],
+        [
+          "Cajas",
+          false
+        ],
+        [
+          "Cables y conectores",
+          true
+        ]
+      ]
+    ],
+    [
+      "No es necesario conocer o investigar cuanto tiempo ha estado el atacante dentro de la organizaci\u00f3n. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1les son las principales fuentes de informaci\u00f3n?",
+      [
+        [
+          "Dispositivos m\u00f3viles",
+          false
+        ],
+        [
+          "Dispositivos f\u00edsicos y fuentes l\u00f3gicas",
+          true
+        ],
+        [
+          "Discos duros",
+          false
+        ],
+        [
+          "Discos duros y dispositivos m\u00f3viles",
+          false
+        ]
+      ]
+    ],
+    [
+      "La cadena de custodia de las evidencias no tiene en cuenta las personas que han analizado la evidencia pero no la han modificado. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de los siguientes es un objetivo del an\u00e1lisis forense?",
+      [
+        [
+          "Saber qu\u00e9 ha pasado",
+          false
+        ],
+        [
+          "Todas las anteriores",
+          true
+        ],
+        [
+          "Tener claro la linea de tiempo de lo que ha sucedido",
+          false
+        ],
+        [
+          "investigar quien est\u00e1 detr\u00e1s del ataque",
+          false
+        ]
+      ]
+    ],
+    [
+      "Cuando investigamos un incidente a nivel forense deberemos",
+      [
+        [
+          "Comentar los detalles del caso con amigos y familiares",
+          false
+        ],
+        [
+          "Avisar a nuestros compa\u00f1eros de nuestra nueva asignaci\u00f3n de tarea",
+          false
+        ],
+        [
+          "Tener clara la metodolog\u00eda y los fases necesarias",
+          true
+        ],
+        [
+          "Comprar las herramientas necesarias",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las fuentes de informaci\u00f3n no tienen que estar relacionada con las preguntas que debemos responder . \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Despues de la fase de identificaci\u00f3n deberemos",
+      [
+        [
+          "Proceder a la adquisici\u00f3n de las evidencias debidamente documentadas",
+          true
+        ],
+        [
+          "Documentar el proceso seguido",
+          false
+        ],
+        [
+          "Avisar al coordinador del incidente",
+          false
+        ],
+        [
+          "Desplegar nuestras herramientas sobre el terreno",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 debemos de hacer cuando encontramos algo que nos llama la atenci\u00f3n en un escenario forense?",
+      [
+        [
+          "Comentarlo con el compa\u00f1ero",
+          false
+        ],
+        [
+          "Discernir en ese momento si es relevante o no",
+          false
+        ],
+        [
+          "Anotarlo",
+          true
+        ],
+        [
+          "Avisar a las autoridades",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los analistas forenses suelen llevar sus herramientas l\u00f3gicas en port\u00e1tiles o discos externos. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "El objetivo de un analista forense es poder contar la historia de lo que ha sucedido. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l ha sido uno de los factores del crecimiento de la necesidad de forenses inform\u00e1ticos?",
+      [
+        [
+          "Aumento de aplicaciones y servicios",
+          false
+        ],
+        [
+          "Todas las anteriores",
+          true
+        ],
+        [
+          "Transformaci\u00f3n digital",
+          false
+        ],
+        [
+          "Auge de los dispositivos m\u00f3viles",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQue punto es necesario en nuestro informe?",
+      [
+        [
+          "Detalle de las evidencias analizadas",
+          false
+        ],
+        [
+          "Informes de cadena de custodia",
+          false
+        ],
+        [
+          "Resumen ejecutivo",
+          true
+        ],
+        [
+          "Nuestra opini\u00f3n",
+          false
+        ]
+      ]
+    ],
+    [
+      "En una investigaci\u00f3n forense deberemos de reflejar en qu\u00e9 sistemas ha sucedido el ataque. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Una fuente de informaci\u00f3n es cualquier tipo de evidencia que pudiera aportar visibilidad. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 pasa si no se preserva la cadena de custodia?",
+      [
+        [
+          "Que no podremos responer las preguntas de manera correcta",
+          false
+        ],
+        [
+          "La evidencia podr\u00eda ser impugnada",
+          true
+        ],
+        [
+          "Que nos estaremos saltando varias fases y procesos",
+          false
+        ],
+        [
+          "Que ser\u00eda ilegal",
+          false
+        ]
+      ]
+    ],
+    [
+      "Necesitaremos de herramientas especificas tanto f\u00edsicas como l\u00f3gicas en el an\u00e1lisis forense. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Dentro del an\u00e1lisis forense podemos encontrar dos escenarios, dependiendo si el caso ser\u00e1 llevado ante un proceso judicial. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "No es necesario incluir todas las herramientas f\u00edsicas en el malet\u00edn forense, iremos ampliando seg\u00fan vaya progresando la investigaci\u00f3n. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ]
+  ],
+  "BRS01. Examen": [
+    [
+      "El bastionado de sistemas disminuye el n\u00famero de incidentes y su criticidad. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "El bastionado o hardening, busca principalmente",
+      [
+        [
+          "Reducir o mitigar las vulnerabilidades a trav\u00e9s de pol\u00edticas, medidas t\u00e9cnicas de seguridad, o cualquier otro mecanismo que lo consiga",
+          true
+        ],
+        [
+          "Dotar de capacidades a los usuarios para que identifiquen las amenazas",
+          false
+        ],
+        [
+          "Aumentar y mitigar las vulnerabilidades a trav\u00e9s de pol\u00edticas, medidas t\u00e9cnicas de seguridad, o cualquier otro mecanismo que lo consiga",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1l de los siguientes no es un malware",
+      [
+        [
+          "Rootkit",
+          false
+        ],
+        [
+          "Phishing",
+          true
+        ],
+        [
+          "Keylogger",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las tecnolog\u00edas m\u00e1s populares, tienen menos vulnerabilidades. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "De cara a saber donde aplicar los esfuerzos de bastionado. \u00bfQu\u00e9 se debe realizar previamente al bastionado?",
+      [
+        [
+          "An\u00e1lisis de riesgos",
+          true
+        ],
+        [
+          "An\u00e1lisis de costes",
+          false
+        ],
+        [
+          "Pruebas de estr\u00e9s",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn qu\u00e9 3 elemento se apoya la ciberseguridad?",
+      [
+        [
+          "Paquetes, tramas y segmentos",
+          false
+        ],
+        [
+          "Procesos, personas y tecnolog\u00edas",
+          true
+        ],
+        [
+          "Instalaciones, c\u00e1maras y tornos de acceso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La medidas organizativas no forman parte de la medidas de bationado. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La aplicaci\u00f3n de medidas de seguridad es una medida t\u00e9cnica que SOLO se aplica durante el proceso de instalaci\u00f3n del sisema. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La seguridad se ha implementado desde los or\u00edgenes de los primeros ordenadores. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfPara cu\u00e1l de las siguientes amenazas se deben habilitar medidas de protecci\u00f3n sobre informaci\u00f3n contra un insider?",
+      [
+        [
+          "Rotura de un equipo",
+          false
+        ],
+        [
+          "Fuga de informaci\u00f3n",
+          true
+        ],
+        [
+          "Phishing",
+          false
+        ]
+      ]
+    ],
+    [
+      "Para el paradigma Zero Trust los usuarios de confianza tambi\u00e9n pasar a ser no confiables y es necesario verificar su legitimidad. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "El RGPD indica establecer acciones t\u00e9cnicas de seguridad sobre los sistemas que albergan datos personales. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Con qu\u00e9 otro nombre se conoce el bastionado de sistemas",
+      [
+        [
+          "Hardware",
+          false
+        ],
+        [
+          "Hardening",
+          true
+        ],
+        [
+          "Hardcode",
+          false
+        ]
+      ]
+    ],
+    [
+      "En t\u00e9rminos hist\u00f3ricos y en el contexto de la ciberseguridad, \u00bfCu\u00e1ndo podemos decir que el control y la seguridad sobre los activos comienza a ser cada vez m\u00e1s complejo?",
+      [
+        [
+          "Al comienzo de los a\u00f1os 80",
+          false
+        ],
+        [
+          "En la d\u00e9cada del 2000",
+          true
+        ],
+        [
+          "En los a\u00f1os 90",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un centro de respuesta a incidentes de seguridad tambi\u00e9n es conocido con las siglas",
+      [
+        [
+          "CRIST",
+          false
+        ],
+        [
+          "CSITR",
+          false
+        ],
+        [
+          "CSIRT",
+          true
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1l no es una amenaza en ciberseguridad",
+      [
+        [
+          "Phishing",
+          false
+        ],
+        [
+          "Malware",
+          false
+        ],
+        [
+          "Smurfing blue attack",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es el nombre de uno de los primeros virus?",
+      [
+        [
+          "Wannacry",
+          false
+        ],
+        [
+          "Ryuk",
+          false
+        ],
+        [
+          "Creeper",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es uno de las riesgos asociados al Zero Trust?",
+      [
+        [
+          "La seguridad de los sistemas obsoletos",
+          false
+        ],
+        [
+          "El volumen de datos de los sistemas",
+          false
+        ],
+        [
+          "Difusi\u00f3n del per\u00edmetro",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfPor qu\u00e9 motivo puede ser necesario realizar acciones de bastionado en los sistemas?",
+      [
+        [
+          "Mejora de la productividad laboral",
+          false
+        ],
+        [
+          "Mejorar el ROI (Retorno de la inversi\u00f3n)",
+          false
+        ],
+        [
+          "Requerimientos legales",
+          true
+        ]
+      ]
+    ],
+    [
+      "La ciberseguridad est\u00e1 condicionada por el negocio. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ]
+  ],
+  "BRS02. Examen": [
+    [
+      "Una caracter\u00edstica del an\u00e1lisis de riesgos ser\u00eda",
+      [
+        [
+          "Se ha de limitar el alcance",
+          true
+        ],
+        [
+          "Tiene que considerar toda la organizaci\u00f3n incluso donde no hay TICs",
+          false
+        ],
+        [
+          "\u00danicamente se han de analizar los riesgos de las empresas clientes",
+          false
+        ],
+        [
+          "Est\u00e1n definidas en la norma ISO170002",
+          false
+        ]
+      ]
+    ],
+    [
+      "\"El residuo se convierte en recurso. Todo el material biodegradable vuelve a la naturaleza y el no biodegradable se reutiliza\" es un principio fundamental de la econom\u00eda circular \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 elemento no forma parte de la caracterizaci\u00f3n de un procedimiento?",
+      [
+        [
+          "Propietario",
+          false
+        ],
+        [
+          "Capacidad",
+          true
+        ],
+        [
+          "Cliente",
+          false
+        ],
+        [
+          "Objetivo del proceso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un IDS es una herramienta de tipo reactivo \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La limitaci\u00f3n del alcance, nunca se debe considerar en una an\u00e1lisis de riesgos. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Las fases de un an\u00e1lisis de riesgos son",
+      [
+        [
+          "Escaneo, mitigaci\u00f3n y valoraci\u00f3n",
+          false
+        ],
+        [
+          "Reconocimiento, mitigaci\u00f3n y valoraci\u00f3n",
+          true
+        ],
+        [
+          "Reconocimiento, mitigaci\u00f3n e indicadores",
+          false
+        ],
+        [
+          "Disposici\u00f3n, mitigaci\u00f3n y valoraci\u00f3n",
+          false
+        ]
+      ]
+    ],
+    [
+      "Dentro de los modelos de madurez CMM \u00bfCu\u00e1l no estar\u00eda incluido?",
+      [
+        [
+          "Definido",
+          false
+        ],
+        [
+          "Administrado",
+          false
+        ],
+        [
+          "Inexistente",
+          false
+        ],
+        [
+          "En ejecuci\u00f3n",
+          true
+        ]
+      ]
+    ],
+    [
+      "Una copia de seguridad por s\u00ed sola, sin verificaci\u00f3n, ya es una medida de protecci\u00f3n con la que una organizaci\u00f3n puede considerarse medianamente protegida. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfEl NIST Framework se puede considerar como un marco de buenas pr\u00e1cticas en ciberseguridad? \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "En la econom\u00eda circular, las materias multimaterial son m\u00e1s f\u00e1ciles de reciclar. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 elemento forma parte de la caracterizaci\u00f3n de un procedimiento?",
+      [
+        [
+          "Climatolog\u00eda",
+          false
+        ],
+        [
+          "Propietario",
+          true
+        ],
+        [
+          "Capacidad",
+          false
+        ],
+        [
+          "Sociedad",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un DLP es una medida",
+      [
+        [
+          "Medida global",
+          false
+        ],
+        [
+          "Medida t\u00e9cnica",
+          true
+        ],
+        [
+          "Ninguna es correcta",
+          false
+        ],
+        [
+          "Medida humana",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las herramientas que en caso de que se materialice un incidente, puedan llevar a cabo alguna acci\u00f3n que permita contenerlo, eliminarlo o corregir la situaci\u00f3n se denominan",
+      [
+        [
+          "Sin\u00e9rgicas",
+          false
+        ],
+        [
+          "Preventivas",
+          false
+        ],
+        [
+          "Preventivas y reactivas",
+          false
+        ],
+        [
+          "reactivas",
+          true
+        ]
+      ]
+    ],
+    [
+      "Las gu\u00edas de buenas pr\u00e1cticas y los est\u00e1ndares se han dise\u00f1ado con el mismo prop\u00f3sito \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La copia de seguridad se considera una de las claves de los planes de contingencia. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La respuesta a incidentes y las actualizaciones son pol\u00edticas de tipo",
+      [
+        [
+          "T\u00e9cnico",
+          true
+        ],
+        [
+          "Ninguna respuesta es correcta",
+          false
+        ],
+        [
+          "Organizativa",
+          false
+        ],
+        [
+          "Organizativa y t\u00e9cnica",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un EDR es una medida t\u00e9cnica de car\u00e1cter",
+      [
+        [
+          "Preventiva y reactiva",
+          true
+        ],
+        [
+          "Exclusivamente reactiva",
+          false
+        ],
+        [
+          "Preventiva y de ejecuci\u00f3n",
+          false
+        ],
+        [
+          "Exclusivamente preventiva",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un activo de un sistema inform\u00e1tico",
+      [
+        [
+          "Es un elemento de hardware",
+          false
+        ],
+        [
+          "Es un elemento de software",
+          false
+        ],
+        [
+          "Es una amenaza para el sistema",
+          false
+        ],
+        [
+          "Puede ser una persona, un software o un hardware",
+          true
+        ]
+      ]
+    ],
+    [
+      "Las buenas pr\u00e1cticas son de obligado cumplimiento \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Un IDS es herramienta que actualmente tiene muy poca utilidad \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ]
+  ],
+  "BRS03. Examen": [
+    [
+      "Para usar tokens necesito un elemento f\u00edsico como un m\u00f3vil \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "En la actualidad, usar un m\u00e9todo de acceso basado en un \u00fanico factor, se puede considerar arriesgado \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Radio Frecuency IDentification se corresponde con el acr\u00f3nimo",
+      [
+        [
+          "RFIDy",
+          false
+        ],
+        [
+          "RFDI",
+          false
+        ],
+        [
+          "RFID",
+          true
+        ],
+        [
+          "RDIF",
+          false
+        ]
+      ]
+    ],
+    [
+      "Algunas alternativas a los sistemas de autenticaci\u00f3n multifactor son",
+      [
+        [
+          "Multifactor adaptativo y SSO",
+          true
+        ],
+        [
+          "Ninguno de los anteriores",
+          false
+        ],
+        [
+          "FA2 y SSO",
+          false
+        ],
+        [
+          "Multifactor adaptativo y SOS",
+          false
+        ]
+      ]
+    ],
+    [
+      "El acr\u00f3nimo para definir el doble factor de autenticaci\u00f3n es",
+      [
+        [
+          "FA2",
+          false
+        ],
+        [
+          "2FA",
+          true
+        ],
+        [
+          "MFA",
+          false
+        ],
+        [
+          "A2F",
+          false
+        ]
+      ]
+    ],
+    [
+      "La ubicaci\u00f3n es un elemento del MFA adaptativo \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las siglas RFID significan",
+      [
+        [
+          "Ninguna es correcta",
+          false
+        ],
+        [
+          "Radio Frecuency IDentation",
+          false
+        ],
+        [
+          "Radio Frecuency IDentity",
+          false
+        ],
+        [
+          "Radio Frecuency IDentification",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l no estar\u00eda incluida como fase en el control de acceso?",
+      [
+        [
+          "persistencia",
+          true
+        ],
+        [
+          "Autenticaci\u00f3n",
+          false
+        ],
+        [
+          "Autorizaci\u00f3n",
+          false
+        ],
+        [
+          "Identificaci\u00f3n",
+          false
+        ]
+      ]
+    ],
+    [
+      "Algunos de los elementos que pueden provocar falsos positivos a la hora de la autorizaci\u00f3n son",
+      [
+        [
+          "OTP",
+          false
+        ],
+        [
+          "Biom\u00e9tricos",
+          true
+        ],
+        [
+          "Tokens",
+          false
+        ],
+        [
+          "Ninguna es correcta",
+          false
+        ]
+      ]
+    ],
+    [
+      "La voz y el iris son caracter\u00edsticas que incardinan en la",
+      [
+        [
+          "Biometr\u00eda exclusivamente",
+          true
+        ],
+        [
+          "Biometr\u00eda y contrase\u00f1a",
+          false
+        ],
+        [
+          "Biometr\u00eda y tokens",
+          false
+        ],
+        [
+          "Es un elemento de software",
+          false
+        ]
+      ]
+    ],
+    [
+      "El mecanismo l\u00f3gico de identificaci\u00f3n en los primeros tiempos se basaba en",
+      [
+        [
+          "IP y MAC",
+          false
+        ],
+        [
+          "IP y contrase\u00f1a",
+          false
+        ],
+        [
+          "Usuario e IP",
+          false
+        ],
+        [
+          "Usuario y contrase\u00f1a",
+          true
+        ]
+      ]
+    ],
+    [
+      "El MFA adaptativo tiene en consideraci\u00f3n cuestiones como",
+      [
+        [
+          "La hora de acostarse",
+          false
+        ],
+        [
+          "El tipo de m\u00f3vil con el que accedemos y aplicaciones instaladas",
+          false
+        ],
+        [
+          "Ninguna respuesta es correcta",
+          false
+        ],
+        [
+          "La ubicaci\u00f3n",
+          true
+        ]
+      ]
+    ],
+    [
+      "Existen soluciones sin coste para la implementaci\u00f3n de OTP \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "El mecanismo l\u00f3gico de identificaci\u00f3n en los primeros tiempos se basaba en usuario y contrase\u00f1a. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Es posible acceder a informaci\u00f3n de usuarios y contrase\u00f1as mediante la descarga de bases de datos de brechas de seguridad \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La dupla IP y contrase\u00f1a se us\u00f3 en los primeros tiempos para autorizarse en los sistemas. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Cu\u00e1les son los tipos de autenticaci\u00f3n multifactor m\u00e1s populares",
+      [
+        [
+          "MFA y 2FA",
+          true
+        ],
+        [
+          "Ninguno de los anteriores",
+          false
+        ],
+        [
+          "2AF y MMA",
+          false
+        ],
+        [
+          "FMA y 2AF",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los tres tipos de factores son",
+      [
+        [
+          "Algo que se, algo que soy y algo que tengo",
+          true
+        ],
+        [
+          "Algo que se, algo que soy y algo que ten\u00eda",
+          false
+        ],
+        [
+          "Algo que se, algo que soy y algo que vendo",
+          false
+        ],
+        [
+          "Algo que conoc\u00eda, algo que soy y algo que tengo",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los sistemas biom\u00e9tricos de autenticaci\u00f3n son fiables al 100% por el avance tecnol\u00f3gico. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Los RFID, por sus caracter\u00edsticas, nunca son usados como mecanismos de identificaci\u00f3n. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ]
+  ],
+  "BRS04. Examen": [
+    [
+      "La segmentaci\u00f3n por roles y la modificaci\u00f3n peri\u00f3dica de una contrase\u00f1a forman parte de",
+      [
+        [
+          "De los marcos de confianza",
+          false
+        ],
+        [
+          "De los est\u00e1ndares de seguridad",
+          false
+        ],
+        [
+          "Una correcta gesti\u00f3n de credenciales",
+          true
+        ],
+        [
+          "Las dimensiones de la seguridad",
+          false
+        ]
+      ]
+    ],
+    [
+      "RADIUS y TACACS son protocolos orientados a la autenticaci\u00f3n, autorizaci\u00f3n y conteo \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los certificados de la tecnolog\u00eda PKI son independientes y no necesitan de intermediarios para su validaci\u00f3n \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Los grupos por defecto en los servidores y con car\u00e1cter general son",
+      [
+        [
+          "De distribuci\u00f3n y de seguridad",
+          true
+        ],
+        [
+          "De administraci\u00f3n y de autenticaci\u00f3n",
+          false
+        ],
+        [
+          "Ninguno de los anteriores",
+          false
+        ],
+        [
+          "De seguridad y de administraci\u00f3n",
+          false
+        ]
+      ]
+    ],
+    [
+      "Uno de los usos m\u00e1s extendidos de la tecnolog\u00eda PKI es la firma digital \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las contrase\u00f1as harcodeadas no son un problema en la gesti\u00f3n de acceso \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La firma electr\u00f3nica se puede llevar a cabo a trav\u00e9s de",
+      [
+        [
+          "Clave p\u00fablica certificada con certificado autofirmado",
+          false
+        ],
+        [
+          "Contrase\u00f1a exclusivamente",
+          false
+        ],
+        [
+          "Contrase\u00f1as y datos biom\u00e9tricos",
+          true
+        ],
+        [
+          "Contrase\u00f1as y firma manuscrita en papel",
+          false
+        ]
+      ]
+    ],
+    [
+      "Para cubrir las carencias en seguridad de RADIUS se creo TACACS \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Uno de los principales problemas de un servidor RADIUS es usa el protocolo **** en su implementaci\u00f3n",
+      [
+        [
+          "ICMP",
+          false
+        ],
+        [
+          "UDP",
+          true
+        ],
+        [
+          "SMTP",
+          false
+        ],
+        [
+          "Ninguna respuesta es correcta",
+          false
+        ]
+      ]
+    ],
+    [
+      "La implementaci\u00f3n NAC es \u00fatil para entornos",
+      [
+        [
+          "BYOD, el acceso de terceros y para IoT",
+          true
+        ],
+        [
+          "Solo para el acceso de terceros",
+          false
+        ],
+        [
+          "Para IoT exclusivamente",
+          false
+        ],
+        [
+          "Ninguno de los anteriores",
+          false
+        ]
+      ]
+    ],
+    [
+      "Para cubrir las necesidades de protocolos de tipo AAA, Cisco creo",
+      [
+        [
+          "DIAMETER",
+          false
+        ],
+        [
+          "FreeRadius",
+          false
+        ],
+        [
+          "TACACS",
+          true
+        ],
+        [
+          "Ninguna respuesta es correcta",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un certificado web que se ha expedido, ya no es posible revocarlo, habr\u00eda que adquirir uno nuevo \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "El robo de contrase\u00f1as es un resultado de una gesti\u00f3n ineficaz de credenciales \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "DIAMETER no es compatible con RADIUS \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Los problemas m\u00e1s comunes en el uso de credenciales son",
+      [
+        [
+          "Las contrase\u00f1as seguras exclusivamente",
+          false
+        ],
+        [
+          "Ninguna es correcta",
+          false
+        ],
+        [
+          "contrase\u00f1as por defecto y compartir contrase\u00f1as",
+          true
+        ],
+        [
+          "Contrase\u00f1as por defecto y las contrase\u00f1as seguras",
+          false
+        ]
+      ]
+    ],
+    [
+      "Una de las caracter\u00edsticas de los gestores de credenciales es que pueden ser",
+      [
+        [
+          "Exclusivamente comerciales",
+          false
+        ],
+        [
+          "Ninguna respuesta es correcta",
+          false
+        ],
+        [
+          "No son opensource",
+          false
+        ],
+        [
+          "Multidispositivo",
+          true
+        ]
+      ]
+    ],
+    [
+      "En un servidor RADIUS todas las peticiones viajan cifradas \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La t\u00e9cnica \"Pass the hash\" es utilizada para la obtenci\u00f3n de cuentas privilegiadas \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La firma electr\u00f3nica es un concepto electr\u00f3nico que no tiene validez legal \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Algunas de las soluciones NAC opensource son",
+      [
+        [
+          "FreeNAC y WordFence",
+          false
+        ],
+        [
+          "FreeNAC y PacketFence",
+          true
+        ],
+        [
+          "FreeNAC y FenceFirewall",
+          false
+        ],
+        [
+          "Ninguna respuesta es correcta",
+          false
+        ]
+      ]
+    ]
+  ],
+  "Examen para HE01": [
+    [
+      "\u00bfQu\u00e9 es el est\u00e1ndar CVSS?",
+      [
+        [
+          "Un framework de trabajo que nos indica el tipo de vulnerabilidades a comprobar en una auditor\u00eda",
+          false
+        ],
+        [
+          "Un est\u00e1ndar para medir la superficie de ataque",
+          false
+        ],
+        [
+          "Un est\u00e1ndar de calidad",
+          false
+        ],
+        [
+          "Un est\u00e1ndar para la medir la criticidad de una vulnerabilidad",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de las siguientes labores de la fase de Pre-engagement NO es una labor organizativa?",
+      [
+        [
+          "Identificar el entorno y enfoque de las pruebas",
+          false
+        ],
+        [
+          "Delimitar el alcance de la auditor\u00eda",
+          false
+        ],
+        [
+          "Establecer un canal de comunicaci\u00f3n para las incidencias graves",
+          true
+        ],
+        [
+          "Designar personas de contacto durante el tiempo de auditor\u00eda",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1l de las siguientes herramientas no es un proxy de interceptaci\u00f3n",
+      [
+        [
+          "Shellter",
+          true
+        ],
+        [
+          "ZAP",
+          false
+        ],
+        [
+          "Echo Mirage",
+          false
+        ],
+        [
+          "Burp",
+          false
+        ]
+      ]
+    ],
+    [
+      "En que portal podemos buscar exploits espec\u00edficos para una versi\u00f3n de software en concreto",
+      [
+        [
+          "Shodan",
+          false
+        ],
+        [
+          "Censys",
+          false
+        ],
+        [
+          "Exploit-db",
+          true
+        ],
+        [
+          "LinkedIn",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQue es la DarkWeb?",
+      [
+        [
+          "Redes privadas utilizadas por los ciberdelincuentes para ofrecer sus servicios, vender informaci\u00f3n previamente robada, vulnerabilidades no reportadas a los fabricantes",
+          true
+        ],
+        [
+          "Contenido utilizado por los ciberdelincuentes pero que se encuentra disponible de manera p\u00fablica en internet",
+          false
+        ],
+        [
+          "Todo el contenido privado que no se encuentra a disposici\u00f3n del p\u00fablico en general",
+          false
+        ],
+        [
+          "Contenido que se encuentra disponible de manera p\u00fablica en internet",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de las siguientes t\u00e9cnicas no forma parte de la fase de reconocimiento activo?",
+      [
+        [
+          "Enumeraci\u00f3n SMB (o enumeraci\u00f3n NetBIOS)",
+          false
+        ],
+        [
+          "Enumeraci\u00f3n SMTP",
+          false
+        ],
+        [
+          "Enumeraci\u00f3n SNMP",
+          false
+        ],
+        [
+          "B\u00fasqueda de informaci\u00f3n en redes sociales",
+          true
+        ]
+      ]
+    ],
+    [
+      "Indica cual es la afirmaci\u00f3n correcta",
+      [
+        [
+          "Los roles dedicados a la gesti\u00f3n se apoyan en el informe ejecutivo para interpretar los riesgos de la vulnerabilidad",
+          true
+        ],
+        [
+          "El informe t\u00e9cnico detalla los pasos de como explotar una vulnerabilidad, pero no su resoluci\u00f3n",
+          false
+        ],
+        [
+          "Los roles dedicados a la gesti\u00f3n se apoyan en el informe t\u00e9cnico de auditor\u00eda para tomar decisiones",
+          false
+        ],
+        [
+          "El mecanismo utilizado para medir la criticidad de las vulnerabilidades se realiza seg\u00fan el criterio del auditor",
+          false
+        ]
+      ]
+    ],
+    [
+      "Cual es la afirmaci\u00f3n m\u00e1s correcta para definir un ciberdelincuente/cibercriminal",
+      [
+        [
+          "Persona con altas capacidades t\u00e9cnicas en seguridad con fines sociales, ecol\u00f3gicos, humanitarios o que tenga repercusi\u00f3n en la defensa de los derechos humanos",
+          false
+        ],
+        [
+          "Experto de las tecnolog\u00edas de comunicaci\u00f3n e informaci\u00f3n que utiliza sus conocimientos t\u00e9cnicos para encontrar y resolver un problema concreto relacionado con la seguridad de la informaci\u00f3n",
+          false
+        ],
+        [
+          "Persona con altas capacidades t\u00e9cnicas en seguridad con fines lucrativos utilizando los fallos de seguridad localizados",
+          true
+        ],
+        [
+          "Persona con altas capacidades t\u00e9cnicas",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los sistemas de tipo Keylogger extraen informaci\u00f3n almacenada en la memoria RAM de un sistema operativo Microsoft Windows. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1l de las siguientes afirmaciones es correcta",
+      [
+        [
+          "Las auditor\u00edas de tipo autom\u00e1tico no generan muchos falsos positivos",
+          false
+        ],
+        [
+          "Una auditor\u00eda que haga uso de pruebas autom\u00e1ticas va a localizar las mismas vulnerabilidades que se localizar\u00edan en una auditor\u00eda con pruebas manuales",
+          false
+        ],
+        [
+          "El objetivo de los test de intrusi\u00f3n es llegar a comprometer un sistema a trav\u00e9s de una vulnerabilidad",
+          true
+        ],
+        [
+          "En los test de intrusi\u00f3n \u00fanicamente se confirman vulnerabilidades",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 tipo de informaci\u00f3n podemos recopilar en las redes sociales?",
+      [
+        [
+          "Activos pertenecientes a las empresas",
+          false
+        ],
+        [
+          "Direccionamiento IP y servicios expuestos en el per\u00edmetro de la empresa",
+          false
+        ],
+        [
+          "Averiguar tecnolog\u00edas utilizadas en la compa\u00f1\u00eda",
+          true
+        ],
+        [
+          "Averiguar credenciales de usuarios",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cual de las siguientes afirmaciones NO es correcta para una auditor\u00eda de tipo \"Test de intrusi\u00f3n\"",
+      [
+        [
+          "Las pruebas se realizan por un auditor de manera manual apoy\u00e1ndose en herramientas espec\u00edficas. Tambi\u00e9n se contempla el uso de sistemas secundarios para ciertos tipos de pruebas",
+          false
+        ],
+        [
+          "Tienen como objetivo comprobar el grado real de amenaza que podr\u00eda producirse al aprovecharse de las vulnerabilidades localizadas durante la auditor\u00eda y verificar el impacto espec\u00edfico que tendr\u00edan sobre la compa\u00f1\u00eda",
+          false
+        ],
+        [
+          "Debido a la forma en la que se detectan las vulnerabilidades, se producen muchos falsos positivos",
+          true
+        ],
+        [
+          "Tratan de comprometer el sistema remoto a trav\u00e9s de una vulnerabilidad identificada",
+          false
+        ]
+      ]
+    ],
+    [
+      "Durante la presentaci\u00f3n de resultados \u00fanicamente se presentan los resultados de la auditir\u00eda, pero no se resuelven dudas ni se dan recomendaciones para solventar las vulnerabilidades. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es la fase de pruebas que se encarga de recopilar informaci\u00f3n a cerca de los activos a auditar?",
+      [
+        [
+          "Reconocimiento",
+          true
+        ],
+        [
+          "",
+          false
+        ],
+        [
+          "Escaneo",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1l de las siguientes herramientas es utilizada para automatizar la b\u00fasqueda de vectores de elevaci\u00f3n de privilegios en sistemas Linux",
+      [
+        [
+          "PrivescCheck",
+          false
+        ],
+        [
+          "LinescCheck",
+          false
+        ],
+        [
+          "WinPeas",
+          false
+        ],
+        [
+          "LinPEAS",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1les son las caracter\u00edsticas del principio de integridad?",
+      [
+        [
+          "Requiere que la informaci\u00f3n sea accesible \u00fanicamente a las personas que se encuentran autorizadas",
+          false
+        ],
+        [
+          "Requiere que la informaci\u00f3n se mantenga inalterada ante incidentes o accesos malintencionados",
+          true
+        ],
+        [
+          "Requiere que el sistema inform\u00e1tico se mantenga accesible sin sufrir ninguna degradaci\u00f3n o interrupci\u00f3n en el servicio",
+          false
+        ],
+        [
+          "Requiere que no haya malas intenciones en el acceso a los activos",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cual de las siguientes opciones NO pertenece a la Fase de \"Seguimiento de las pruebas\"",
+      [
+        [
+          "Se decidir\u00e1 en qu\u00e9 activos o secciones incrementar el esfuerzo en las pr\u00f3ximas semanas",
+          false
+        ],
+        [
+          "Se comunicar\u00e1n los problemas que pudieran haber surgido desde la reuni\u00f3n anterior",
+          false
+        ],
+        [
+          "Se comunicar\u00e1n al cliente los hallazgos localizados desde la reuni\u00f3n anterior",
+          false
+        ],
+        [
+          "Se comunicar\u00e1n todas las vulnerabilidades detectadas y se proceder\u00e1 al cierre de la auditor\u00eda",
+          true
+        ]
+      ]
+    ],
+    [
+      "La herramienta msfvenom se utiliza para generar payloads y shellcodes. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cual de las siguientes opciones es una afirmaci\u00f3n correcta para la Fase de Explotaci\u00f3n",
+      [
+        [
+          "Se utilizan t\u00e9cnicas para poder aumentar el nivel de privilegios en este sistema",
+          false
+        ],
+        [
+          "Se detectan vulnerabilidades que puedan existir en los sistemas y servicios",
+          false
+        ],
+        [
+          "El objetivo es lograr un primer acceso o de privilegios en los activos",
+          true
+        ],
+        [
+          "Se recopila informaci\u00f3n acerca de los activos a auditar",
+          false
+        ]
+      ]
+    ],
+    [
+      "En las pruebas de caja negra nunca se proporcionan usuarios de acceso al activo a auditar. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ]
+  ],
+  "Examen para HE02": [
+    [
+      "Las antenas Omnidireccionales suelen tener menor alcance de se\u00f1al que las antenas direccionales \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1les de las siguientes caracter\u00edsticas de una red inal\u00e1mbrica se pueden averiguar monitorizando las redes Wi-FI? (Respuesta m\u00faltiple)",
+      [
+        [
+          "Canales en los que opera el Punto de Acceso",
+          true
+        ],
+        [
+          "Nombres de las redes Wi-Fi",
+          true
+        ],
+        [
+          "Tipo de red Wi-Fi",
+          true
+        ],
+        [
+          "Direcci\u00f3n MAC de los Puntos de Acceso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La banda inal\u00e1mbrica de 2,4GHz soporta mayor velocidad de conexi\u00f3n que la banda de 5GHz \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La banda inal\u00e1mbrica de los 5GHz (Respuesta m\u00faltiple)",
+      [
+        [
+          "Sufre menos interferencias que la banda de 2,4GHZ",
+          true
+        ],
+        [
+          "Dispone de m\u00e1s canales de frecuencia que la banda de los 2,4GHz",
+          true
+        ],
+        [
+          "Tiene mayor velocidad de conexi\u00f3n que la banda de 2,4GHZ",
+          true
+        ],
+        [
+          "Tiene mayor rango de cobertura que la banda de los 2,4GHz",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 es un paquete de tipo Probe Request?",
+      [
+        [
+          "Un paquete, enviado por un Punto de Acceso, que tiene informaci\u00f3n de las caracter\u00edasticas de la red inal\u00e1mbrica",
+          false
+        ],
+        [
+          "Un paquete, enviado por un dispositivo cliente, para averiguar si existe en su alcance alguna otra red inal\u00e1mbrica de la cu\u00e1l conoce la clave de acceso",
+          true
+        ],
+        [
+          "Un paquete, enviado por un dispositivo cliente, que tiene informaci\u00f3n de las caracter\u00edasticas de la red inal\u00e1mbrica",
+          false
+        ],
+        [
+          "Un paquete, enviado por un Punto de Acceso, para averiguar si existe en su alcance alguna otra red inal\u00e1mbrica que pueda causar interferencias en la banda en la que opera",
+          false
+        ]
+      ]
+    ],
+    [
+      "La CA que genera los certificados del Punto de Acceso leg\u00edtimo se puede desplegar en el cliente mediante el uso de GPO (Group Policy Object) en sistemas Microsoft. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1les de las siguientes afirmaciones son correctas en el caso de las redes de tipo WEP (Respuesta m\u00faltiple)",
+      [
+        [
+          "La longitud de la clave de accso es de entre 5 y 13 caracteres",
+          true
+        ],
+        [
+          "La longitud m\u00ednima de la clave de acceso es de 8 caracteres",
+          false
+        ],
+        [
+          "Las redes de tipo WEP NO son vulnerables ante ataques estad\u00edsticos para averiguar la clave de acceso",
+          false
+        ],
+        [
+          "Las redes de tipo WEP son vulnerables ante ataques estad\u00edsticos para averiguar la clave de acceso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Las redes de tipo WEP se encuentran en desuso. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un Beacon Frame es un paquete de informaci\u00f3n que env\u00eda el Punto de Acceso Wi-FI con informaci\u00f3n de las caracter\u00edsticas de la red que publica \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de las siguientes herramientas se utiliza para suplantar un portal cautivo?",
+      [
+        [
+          "hostapd-wpe",
+          false
+        ],
+        [
+          "Wifiphisher",
+          true
+        ],
+        [
+          "aireplay-ng",
+          false
+        ],
+        [
+          "airodump-ng",
+          false
+        ]
+      ]
+    ],
+    [
+      "Para ampliar el radio de cobertura de un Punto de Acceso falso se pueden utilizar altenas omnidireccionales externas de mayor potencia",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1l de las siguientes afirmaciones es correcta con respecto al ataque en redes tipo WPA/WPA2-Enterprise",
+      [
+        [
+          "El ataque consiste en monitorizar un Punto de Acceso leg\u00edtimo de la red y esperar los intentos de autenticaci\u00f3n de los usuarios leg\u00edtimos. Estos intentos de autenticaci\u00f3n se pueden utilizar para obtener las credenciales de los usuarios mediante un proceso de cracking",
+          false
+        ],
+        [
+          "El ataque consiste en establecer un Punto de Acceso falso y esperar los intentos de autenticaci\u00f3n de los usuarios leg\u00edtimos. Estos intentos de autenticaci\u00f3n se pueden utilizar para obtener las credenciales de los usuarios mediante un proceso de cracking",
+          true
+        ],
+        [
+          "El ataque se puede llevar a cabo aunque los usuarios se autentiquen en la red haciendo uso de un certificado de cliente",
+          false
+        ],
+        [
+          "El ataque se puede llevar a cabo aunque los usuarios validen los certificados de los Puntos de Acceso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1les de las siguientes maneras se pueden utilizar para poner una tarjeta Wi-Fi en modo monitor (Respuesta m\u00faltiple)",
+      [
+        [
+          "Es el modo de operaci\u00f3n por defecto de las tarjetas Wi-Fi, no es necesario realizar ninguna acci\u00f3n adicional",
+          false
+        ],
+        [
+          "Haciendo uso de la herramienta airmon-ng",
+          true
+        ],
+        [
+          "En versiones actuales de la herramienta airodump-ng la tarjeta se pone en modo monitor de manera autom\u00e1tica sin necesidad de modificar el modo de operaci\u00f3n de la tarjeta previamente",
+          true
+        ],
+        [
+          "Haciendo uso del comando iwconfig",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de los siguientes tipos de redes Wi-Fi se considera adecuada para una buena gesti\u00f3n de los usuarios que pueden acceder a la red?",
+      [
+        [
+          "OPEN",
+          false
+        ],
+        [
+          "WPA2-PSK",
+          false
+        ],
+        [
+          "WPA2-Enterprise",
+          true
+        ],
+        [
+          "WEP",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las redes de tipo WPA/WPA2-PSK permiten la trazabilidade de los usuarios a nivel de red. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Las redes de tipo OPEN Permiten acceder a la red Wi-Fi sin contrase\u00f1a, pero ofrecen un cifrado de canal en capa 2 del modelo OSI \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "En una misma red inal\u00e1mbrica no puede haber m\u00e1s de un punto de acceso \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Indica cu\u00e1l de las siguientes premisas son necesarias para poder ejecutar con \u00e9xito un ataque de Punto de Acceso falso en una red de tipo WPA/WPA2-Enterprise (Respuesta m\u00faltiple)",
+      [
+        [
+          "El dispositivo cliente no tiene que validar el certificado del Punto de Acceso",
+          true
+        ],
+        [
+          "La autenticaci\u00f3n de los usuarios ha de realizarse mediante credenciales usuario/contrase\u00f1a",
+          true
+        ],
+        [
+          "La autenticaci\u00f3n de los usuarios ha de realizarse mediante certificados de cliente",
+          false
+        ],
+        [
+          "El dispositivo cliente tiene que validar el certificado del Punto de Acceso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Indica cual es el m\u00e9todo utilizado para intentar obtener la clave de acceso de una red WPA/WPA2-PSK en la que no hay conectado ning\u00fan cliente",
+      [
+        [
+          "Establecer un punto de acceso falso con hostapd-wpe",
+          false
+        ],
+        [
+          "Capturar el PMKID y realizar un proceso de cracking offline",
+          true
+        ],
+        [
+          "Capturar numerosos vectores de inicializaci\u00f3n de la red",
+          false
+        ],
+        [
+          "Capturar el 4-way-handshake y realizar un proceso de cracking offline",
+          false
+        ]
+      ]
+    ],
+    [
+      "La CA que genera los certificados del Punto de Acceso leg\u00edtimo se puede desplegar en el cliente mediante el uso de MDM (Mobile Device Management) en sistemas Linux, macOS, Android e iOS. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ]
+  ],
+  "Examen para IC01": [
+    [
+      "\u00bfCu\u00e1l es la mejor alternativa de recuperaci\u00f3n en caso de infecci\u00f3n por ransomware?",
+      [
+        [
+          "Para el rescate, pero s\u00f3lo una vez",
+          false
+        ],
+        [
+          "Realizar copias de seguridad peri\u00f3dicas",
+          true
+        ],
+        [
+          "Ninguna de las anteriores",
+          false
+        ],
+        [
+          "Activar los escudos antimalware",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1les son las cuestiones clave en la protecci\u00f3n de la informaci\u00f3n?",
+      [
+        [
+          "Confidencialidad, Integridad y Disponibilidad",
+          true
+        ],
+        [
+          "Respaldo y Cifrado",
+          false
+        ],
+        [
+          "Acceso con credenciales",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las Reglas Pragm\u00e1ticas de la Ciberseguridad son las siguientes",
+      [
+        [
+          "Equipo Blanco, Equipo Rojo y Equipo Azul",
+          false
+        ],
+        [
+          "Bastionado, Blindaje y Reacci\u00f3n",
+          false
+        ],
+        [
+          "Alerta temprana, Equipos de Respuesta y An\u00e1lisis Post-Mortem",
+          false
+        ],
+        [
+          "Prevenci\u00f3n, Concienciaci\u00f3n y Respuesta",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 caracter\u00edstica principal debe tener un buen proceso de respaldo?",
+      [
+        [
+          "Que sea frecuente y completo",
+          false
+        ],
+        [
+          "Que no respalde tambi\u00e9n el malware",
+          true
+        ],
+        [
+          "Que no dependa de la versi\u00f3n del software de restauraci\u00f3n",
+          false
+        ],
+        [
+          "Que incorpore un algoritmo de cifrado",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un cortafuegos se puede implementar",
+      [
+        [
+          "S\u00f3lo mediante software",
+          false
+        ],
+        [
+          "Mediante software o hardware",
+          true
+        ],
+        [
+          "Ninguna de las anteriores",
+          false
+        ],
+        [
+          "S\u00f3lo mediante hardware",
+          false
+        ]
+      ]
+    ],
+    [
+      "Limitar la Superficie de Exposici\u00f3n a las Amenazas consiste en",
+      [
+        [
+          "Determinar los servicios que son estrictamente necesarios",
+          false
+        ],
+        [
+          "Implementar Medidas de Seguridad para Proteger el Acceso a la Informaci\u00f3n",
+          false
+        ],
+        [
+          "Todas las anteriores",
+          true
+        ],
+        [
+          "Limitar el n\u00famero de m\u00e1quinas de la LAN que tienen conexi\u00f3n directa con la WAN",
+          false
+        ]
+      ]
+    ],
+    [
+      "Para garantizar que los resultados de las auditor\u00edas supongan implantaci\u00f3n continua de mejoras en Ciberseguridad",
+      [
+        [
+          "Se debe adoptar s\u00f3lo un modelo de madurez",
+          false
+        ],
+        [
+          "Se debe seleccionar s\u00f3lo un esquema de mejora continua",
+          false
+        ],
+        [
+          "Cualquiera de las dos opciones anteriores es v\u00e1lida",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1les son las amenazas habituales de la informaci\u00f3n?",
+      [
+        [
+          "Todas las anteriores",
+          true
+        ],
+        [
+          "Hackers",
+          false
+        ],
+        [
+          "Intrusiones y Malware",
+          false
+        ],
+        [
+          "Ataques F\u00edsicos",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn qu\u00e9 consiste la Ciberseguridad?",
+      [
+        [
+          "En desarrollar aplicaciones antimalware",
+          false
+        ],
+        [
+          "En proteger los sistemas de informaci\u00f3n de una empresa",
+          false
+        ],
+        [
+          "En aplicar las estrategias de la seguridad cl\u00e1sica a la Cibern\u00e9tica",
+          true
+        ]
+      ]
+    ],
+    [
+      "La Cultura de Seguridad de la Informaci\u00f3n de una Empresa ata\u00f1e a",
+      [
+        [
+          "Sus clientes",
+          false
+        ],
+        [
+          "Sus empleados",
+          false
+        ],
+        [
+          "Sus proveedores",
+          false
+        ],
+        [
+          "Todos los anteriores",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 organismo publica peri\u00f3dicamente el Dec\u00e1logo B\u00e1sico de Ciberseguridad?",
+      [
+        [
+          "El INCIBE",
+          false
+        ],
+        [
+          "El CNI",
+          false
+        ],
+        [
+          "El CCN",
+          true
+        ],
+        [
+          "El CSIRT",
+          false
+        ]
+      ]
+    ],
+    [
+      "La Ingenier\u00eda Social es",
+      [
+        [
+          "Espionaje con Keyloggers",
+          false
+        ],
+        [
+          "Espionaje de cualquier tipo",
+          true
+        ],
+        [
+          "Espionaje con personas",
+          false
+        ],
+        [
+          "Espionaje con Stealers",
+          false
+        ]
+      ]
+    ],
+    [
+      "El Inventario de Activos de una Empresa contiene",
+      [
+        [
+          "La informaci\u00f3n relativa a su Entorno Inform\u00e1tico",
+          false
+        ],
+        [
+          "La informaci\u00f3n relativa a su Entorno Productivo",
+          false
+        ],
+        [
+          "Todo lo anterior",
+          true
+        ],
+        [
+          "Los equipos de comunicaciones de su red",
+          false
+        ]
+      ]
+    ],
+    [
+      "Para implementar la Ciberseguridad en una organizaci\u00f3n hay que",
+      [
+        [
+          "Implementar un SOC",
+          false
+        ],
+        [
+          "Adquirir el mejor antimalware",
+          false
+        ],
+        [
+          "Conocer el Nivel de Seguridad Existente y establecer el Nivel de Seguridad Objetivo",
+          true
+        ],
+        [
+          "Bastionar todos los servidores",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 informaci\u00f3n recoge la norma ISO/IEC 27001?",
+      [
+        [
+          "La Ley Org\u00e1nica de Protecci\u00f3n de Datos de Car\u00e1cter Personal",
+          false
+        ],
+        [
+          "Los requisitos para los sistemas de gesti\u00f3n de la seguridad de la informaci\u00f3n",
+          true
+        ],
+        [
+          "El reglamento general de protecci\u00f3n de datos",
+          false
+        ],
+        [
+          "Las consideraciones de seguridad perimetral en una organizaci\u00f3n",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los Procesos de Compliance tienen que ver con",
+      [
+        [
+          "Prevenci\u00f3n del Fraude",
+          false
+        ],
+        [
+          "Gesti\u00f3n de Permisos",
+          false
+        ],
+        [
+          "Cumplimiento Legal",
+          true
+        ],
+        [
+          "Fuga de Datos",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 organismo publica peri\u00f3dicamente el Kit de Concienciaci\u00f3n en Ciberseguridad?",
+      [
+        [
+          "El CNI",
+          false
+        ],
+        [
+          "El INCIBE",
+          true
+        ],
+        [
+          "El CCN",
+          false
+        ],
+        [
+          "El CSIRT",
+          false
+        ]
+      ]
+    ],
+    [
+      "Hydra es",
+      [
+        [
+          "Una herramienta de ataque a bases de datos",
+          false
+        ],
+        [
+          "Un constructor de diccionarios",
+          false
+        ],
+        [
+          "Una herramienta de ataque a ficheros cifrados",
+          false
+        ],
+        [
+          "Un network logon cracker",
+          true
+        ]
+      ]
+    ],
+    [
+      "En el Cifrado Asim\u00e9trico",
+      [
+        [
+          "Ambas claves pueden cifrar",
+          false
+        ],
+        [
+          "Se cifra con la clave p\u00fablica y se descifra con la clave privada",
+          true
+        ],
+        [
+          "Se cifra con la clave privada y se descifra con la p\u00fablica",
+          false
+        ],
+        [
+          "Ambas claves pueden descifrar",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es la forma m\u00e1s sencilla de concienciar de forma recurrente acerca de cuestiones de Ciberseguridad?",
+      [
+        [
+          "Instalar sistemas de alerta temprana",
+          false
+        ],
+        [
+          "Editar un Bolet\u00edn Interno y una Newsletter Externa",
+          true
+        ],
+        [
+          "Notificar los incidentes en tiempo real a los afectados",
+          false
+        ]
+      ]
+    ]
+  ],
+  "Examen para NDC01": [
+    [
+      "ACME se compromete con un cliente a contar con la certificaci\u00f3n ISO27001, este compromiso es",
+      [
+        [
+          "Obligatorio",
+          false
+        ],
+        [
+          "Voluntario",
+          false
+        ],
+        [
+          "Obligatorio contractual",
+          true
+        ],
+        [
+          "Buena pr\u00e1ctica",
+          false
+        ]
+      ]
+    ],
+    [
+      "Dentro de los c\u00f3digos \u00e9ticos, nos tendr\u00edamos que encontrar elementos de relacionados con la responsabilidad social corporativa. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La funci\u00f3n de cumplimiento normativo es puntual en el tiempo, con un inicio, un final y un resultado. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Los c\u00f3digos \u00e9ticos mejoran la percepci\u00f3n que tienen las personas sobre las empresas. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de las siguientes afirmaciones es correcta con respecto al compliance officer?",
+      [
+        [
+          "No tiene por qu\u00e9 conocer el negocio de la organizaci\u00f3n",
+          false
+        ],
+        [
+          "Debe certificar el sistema de gesti\u00f3n de cumplimiento",
+          false
+        ],
+        [
+          "Puede actuar de contacto con el regulador",
+          true
+        ],
+        [
+          "No es responsable de los incumplimientos de terceros subcontratados",
+          false
+        ]
+      ]
+    ],
+    [
+      "El compliance officer puede tener responsabilidad penal sobre un incumplimiento legal. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un c\u00f3digo \u00e9tico incluir\u00e1 elementos para",
+      [
+        [
+          "Especificar las medidas de protecci\u00f3n de la informaci\u00f3n posibles",
+          false
+        ],
+        [
+          "Establecer una correcta climatizaci\u00f3n del lugar de trabajo",
+          false
+        ],
+        [
+          "Establecer los principios y valores que rijan a una organizaci\u00f3n",
+          true
+        ],
+        [
+          "Conseguir salarios equitativos para todos los empleados",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las normas de seguridad de la informaci\u00f3n en ISO son de la familia",
+      [
+        [
+          "20000",
+          false
+        ],
+        [
+          "14000",
+          false
+        ],
+        [
+          "9000",
+          false
+        ],
+        [
+          "27000",
+          true
+        ]
+      ]
+    ],
+    [
+      "El cumplimiento de un c\u00f3digo \u00e9tico supone a una empresa un esfuerzo adicional al del cumplimiento de sus obligaciones legales. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La funci\u00f3n principal del compliance officer es",
+      [
+        [
+          "Ahorrar costes en la organizaci\u00f3n",
+          false
+        ],
+        [
+          "Que los responsables de la empresa no reciban sanciones penales",
+          false
+        ],
+        [
+          "Evitar p\u00e9rdidas por multas a la organizaci\u00f3n",
+          false
+        ],
+        [
+          "Identificar riesgos penales y velar por el cumplimiento de los requisitos legales y normativos",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de los siguientes elementos puede ser un tercero relacionado con una organizaci\u00f3n?",
+      [
+        [
+          "Empleados",
+          false
+        ],
+        [
+          "Directores",
+          false
+        ],
+        [
+          "Distribuidores",
+          true
+        ],
+        [
+          "Becarios",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 es m\u00e1s probable que nos encontremos en una pol\u00edtica de buen gobierno corporativo?",
+      [
+        [
+          "Cultura, valores y principios",
+          true
+        ],
+        [
+          "Pol\u00edticas de teletrabajo para los empleados",
+          false
+        ],
+        [
+          "Planes comerciales",
+          false
+        ],
+        [
+          "Procedimientos operativos de negocio",
+          false
+        ]
+      ]
+    ],
+    [
+      "Cuando se analiza un proveedor con un proceso de diligencia debida positivo, ya no es necesario monitorizarlo. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Las buenas pr\u00e1cticas son",
+      [
+        [
+          "Acciones recomendadas para llevar a cabo una actividad que han resultado satisfactorias para la organizaci\u00f3n",
+          true
+        ],
+        [
+          "Acciones que han salido bien en otras organizaciones",
+          false
+        ],
+        [
+          "Acciones que es probable sean positivas para la organizaci\u00f3n",
+          false
+        ],
+        [
+          "Acciones que salen bien tras intentos de ejecuci\u00f3n reiterados",
+          false
+        ]
+      ]
+    ],
+    [
+      "La cultura, valores y principios de la organizaci\u00f3n siempre deben contar con la existencia de",
+      [
+        [
+          "Una misi\u00f3n y visi\u00f3n de la organizaci\u00f3n",
+          true
+        ],
+        [
+          "Un procedimiento de altas y bajas de empleados",
+          false
+        ],
+        [
+          "Una estrategia comercial",
+          false
+        ],
+        [
+          "Un organigrama de la organizaci\u00f3n",
+          false
+        ]
+      ]
+    ],
+    [
+      "El objetivo del cumplimiento normativo en una empresa es",
+      [
+        [
+          "Que los empleados cumplan el horario establecido",
+          false
+        ],
+        [
+          "Justificar incumplimientos ante los supervisores",
+          false
+        ],
+        [
+          "Asegurar los beneficios a los responsables de las empresas",
+          false
+        ],
+        [
+          "Operar el negocio de acuerdo a las leyes existentes",
+          true
+        ]
+      ]
+    ],
+    [
+      "El \u00fanico est\u00e1ndar de seguridad de la informaci\u00f3n es ISO 27001. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Cual de estos elementos NO estar\u00e1 incluido en la documentaci\u00f3n sobre la estructura organizativa de la empresa.",
+      [
+        [
+          "L\u00edneas de reporte",
+          false
+        ],
+        [
+          "Programas formativos",
+          true
+        ],
+        [
+          "Organigrama de la organizaci\u00f3n",
+          false
+        ],
+        [
+          "Roles y responsabilidades",
+          false
+        ]
+      ]
+    ],
+    [
+      "El cumplimiento del RGPD es un compromiso",
+      [
+        [
+          "Voluntario",
+          false
+        ],
+        [
+          "Obligatorio legal",
+          true
+        ],
+        [
+          "Voluntario por normas y est\u00e1ndares",
+          false
+        ],
+        [
+          "Obligatorio por mandamiento judicial",
+          false
+        ]
+      ]
+    ],
+    [
+      "El compliance officer",
+      [
+        [
+          "Debe tener un salario elevado para evitar sobornos",
+          false
+        ],
+        [
+          "Debe ser consciente de la legislaci\u00f3n vigente que afecta a la organizaci\u00f3n",
+          true
+        ],
+        [
+          "Debe tener conocimientos de seguridad inform\u00e1tica",
+          false
+        ],
+        [
+          "Debe tener potestad de rescindir el contrato de un empleado",
+          false
+        ]
+      ]
+    ]
+  ],
+  "Examen para NDC02": [
+    [
+      "Una circunstancia desfavorable que, de ocurrir, tendr\u00e1 consecuencias negativas en la organizaci\u00f3n, es",
+      [
+        [
+          "Un riesgo",
+          false
+        ],
+        [
+          "Una vulnerabilidad",
+          false
+        ],
+        [
+          "Una amenaza",
+          true
+        ],
+        [
+          "Un impacto",
+          false
+        ]
+      ]
+    ],
+    [
+      "Cuando no se esta realizando acci\u00f3n alguna sobre un riesgo, \u00bfqu\u00e9 opci\u00f3n de tratamiento se esta tomando?",
+      [
+        [
+          "Mitigar",
+          false
+        ],
+        [
+          "Asumir",
+          true
+        ],
+        [
+          "Reducir",
+          false
+        ],
+        [
+          "Eliminar",
+          false
+        ]
+      ]
+    ],
+    [
+      "La norma ISO 37301:2021 es el est\u00e1ndar de la Organizaci\u00f3n Internacional de Estandarizaci\u00f3n que especifica los requisitos y establece una gu\u00eda para implementar, desarrollar, evaluar, mantener, auditar y mejorar un Sistema de Gesti\u00f3n de Cumplimiento eficaz en una organizaci\u00f3n. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "ACME ha tomado la decisi\u00f3n de no prestar servicios de prestamos dispositivos m\u00f3viles por los riesgos financieros que implica el proceso.\u00bfQu\u00e9 opci\u00f3n del tratamiento del riesgo se esta tomando?",
+      [
+        [
+          "Evitar",
+          true
+        ],
+        [
+          "Eliminar",
+          true
+        ],
+        [
+          "Mitigar",
+          false
+        ],
+        [
+          "Reducir",
+          false
+        ]
+      ]
+    ],
+    [
+      "Tras un informe de riesgos de seguridad de la informaci\u00f3n, el \u00e1rea de IT va a implantar una serie de medidas para aumentar la seguridad de un sistema. \u00bfQu\u00e9 opci\u00f3n de tratamiento se esta tomando?",
+      [
+        [
+          "Evitar",
+          false
+        ],
+        [
+          "Mitigar",
+          true
+        ],
+        [
+          "Eliminar",
+          false
+        ],
+        [
+          "Reducir",
+          false
+        ]
+      ]
+    ],
+    [
+      "La norma ISO 31000 es utilizada para gestionar riesgos de...",
+      [
+        [
+          "Seguridad de la informaci\u00f3n",
+          false
+        ],
+        [
+          "Riesgos de cumplimiento normativo",
+          false
+        ],
+        [
+          "Cualquier tipo de riesgo",
+          true
+        ],
+        [
+          "Riesgos Penales",
+          false
+        ]
+      ]
+    ],
+    [
+      "El producto del impacto por la probabilidad, es",
+      [
+        [
+          "Un riesgo",
+          true
+        ],
+        [
+          "Un impacto",
+          false
+        ],
+        [
+          "Una consecuencia",
+          false
+        ],
+        [
+          "Una vulnerabilidad",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn que ep\u00edgrafe del SGC se desarrollar\u00e1 el plan de comunicaci\u00f3n?",
+      [
+        [
+          "Planificaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Soporte al sistema de gesti\u00f3n",
+          true
+        ],
+        [
+          "Operaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Evaluaci\u00f3n de desempe\u00f1o",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn que documento del sistema de gesti\u00f3n de compliance se detallar\u00e1 la funci\u00f3n de la organizaci\u00f3n?",
+      [
+        [
+          "Liderazgo de la direcci\u00f3n",
+          false
+        ],
+        [
+          "Operaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Contexto de la organizaci\u00f3n",
+          true
+        ],
+        [
+          "Planificaci\u00f3n del sistema",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn que ep\u00edgrafe del SGC se llevar\u00e1 a cabo la auditor\u00eda sobre el sistema de gesti\u00f3n cumplimiento normativo de la organizaci\u00f3n?",
+      [
+        [
+          "Evaluaci\u00f3n de desempe\u00f1o",
+          true
+        ],
+        [
+          "Operaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Soporte al sistema de gesti\u00f3n",
+          false
+        ],
+        [
+          "Planificaci\u00f3n del sistema",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un ciberdelincuente mayor de edad ha sido detenido y acusado por causar da\u00f1os contra una empresa privada \u00bfA que juzgado acudir\u00e1?",
+      [
+        [
+          "Juzgado de lo penal",
+          true
+        ],
+        [
+          "Juzgado de lo social",
+          false
+        ],
+        [
+          "Juzgado de lo mercantil",
+          false
+        ],
+        [
+          "Juzgado de Paz",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn que ep\u00edgrafe del SGC se llevar\u00e1 a cabo el an\u00e1lisis de riesgos de cumplimiento normativo de la organizaci\u00f3n?",
+      [
+        [
+          "Contexto de la organizaci\u00f3n",
+          true
+        ],
+        [
+          "Planificaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Soporte al sistema de gesti\u00f3n",
+          false
+        ],
+        [
+          "Operaci\u00f3n del sistema",
+          false
+        ]
+      ]
+    ],
+    [
+      "La norma ISO 37301:2021 cuenta con 13 dominios y 2 anexos. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "La valoraci\u00f3n cuantitativa de un riesgo consiste en asignar un valor num\u00e9rico a un riesgo identificado. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn que ep\u00edgrafe del SGC se tratar\u00e1 el proceso de gesti\u00f3n de incidencias de cumplimiento?",
+      [
+        [
+          "Planificaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Evaluaci\u00f3n de desempe\u00f1o",
+          false
+        ],
+        [
+          "Operaci\u00f3n del sistema",
+          true
+        ],
+        [
+          "Soporte al sistema de gesti\u00f3n",
+          false
+        ]
+      ]
+    ],
+    [
+      "Cuando se contrata una p\u00f3liza de ciber riesgos. \u00bfQu\u00e9 opci\u00f3n de tratamiento se esta tomando?",
+      [
+        [
+          "Reducir",
+          false
+        ],
+        [
+          "Transferir",
+          true
+        ],
+        [
+          "Eliminar",
+          false
+        ],
+        [
+          "Mitigar",
+          false
+        ]
+      ]
+    ],
+    [
+      "Como si de un vehiculo privado se tratase, los barcos superpetroleros estan asegurados, por lo general por un consorcio de seguros. \u00bfQu\u00e9 opci\u00f3n de tratamiento de riesgos se estan tomando las aseguradoras?",
+      [
+        [
+          "Reducir",
+          false
+        ],
+        [
+          "Compartir",
+          true
+        ],
+        [
+          "Eliminar",
+          false
+        ],
+        [
+          "Evitar",
+          false
+        ]
+      ]
+    ],
+    [
+      "La primera norma ISO sobre cumplimiento normativo es la ISO 37301. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Una debilidad que presenta un activo o un proceso, es",
+      [
+        [
+          "Una vulnerabilidad",
+          true
+        ],
+        [
+          "Un impacto",
+          false
+        ],
+        [
+          "Una amenaza",
+          false
+        ],
+        [
+          "Un riesgo",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn que ep\u00edgrafe del SGC se detallan las acciones realizadas para dar respuesta a unas observaciones identificadas tras una auditor\u00eda al sistema de gesti\u00f3n de compliance?",
+      [
+        [
+          "Planificaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Mejora continua",
+          true
+        ],
+        [
+          "Operaci\u00f3n del sistema",
+          false
+        ],
+        [
+          "Soporte al sistema de gesti\u00f3n",
+          false
+        ]
+      ]
+    ]
+  ],
+  "Examen para PPS01": [
+    [
+      "Las pruebas deben centrarse en",
+      [
+        [
+          "s\u00f3lo probar que el programa hace lo que debe hacer",
+          false
+        ],
+        [
+          "s\u00f3lo probar datos v\u00e1lidos",
+          false
+        ],
+        [
+          "s\u00f3lo probar datos esperados",
+          false
+        ],
+        [
+          "probar que el programa hace lo que debe hacer y no hace lo que no debe hacer",
+          true
+        ]
+      ]
+    ],
+    [
+      "El objetivo de las pruebas de software es",
+      [
+        [
+          "Eliminar l\u00edneas de c\u00f3digo redundantes",
+          false
+        ],
+        [
+          "Garantizar la calidad del software",
+          true
+        ],
+        [
+          "Verificar que no usamos datos que no necesitamos",
+          false
+        ],
+        [
+          "Someter a pruebas de estr\u00e9s al c\u00f3dido fuente",
+          false
+        ]
+      ]
+    ],
+    [
+      "Linux est\u00e1 escrito principalmente en",
+      [
+        [
+          "Golang",
+          false
+        ],
+        [
+          "Lenguaje C",
+          true
+        ],
+        [
+          "Python",
+          false
+        ],
+        [
+          "Go",
+          false
+        ]
+      ]
+    ],
+    [
+      "Cuando estamos desarrollando software es recomendable",
+      [
+        [
+          "Conocer el n\u00famero de funciones que necesitamos",
+          false
+        ],
+        [
+          "Saber que pruebas de software vamos a realizar",
+          false
+        ],
+        [
+          "Conocer el resultado de nuestro c\u00f3digo de manera exacta",
+          false
+        ],
+        [
+          "Tener un entorno de desarrollo",
+          true
+        ]
+      ]
+    ],
+    [
+      "El uso de librer\u00edas y frameworks desde el punto de vista de la ciberseguridad puede exponer a las aplicaciones a una serie de riesgos y amenazas. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Las pruebas funcionales buscan emular un escenario concreto, a veces son llamadas pruebas de caja negra. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los lenguajes de bajo nivel son los m\u00e1s cercanos al binario. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La elecci\u00f3n de un lenguaje de programaci\u00f3n en un proyecto vendr\u00e1 condicionada o determinada por",
+      [
+        [
+          "Requisitos t\u00e9cnicos",
+          false
+        ],
+        [
+          "Todas las anteriores",
+          true
+        ],
+        [
+          "Rendimiento",
+          false
+        ],
+        [
+          "Tiempos de entrega",
+          false
+        ]
+      ]
+    ],
+    [
+      "El rendimiento general del lenguaje Python respecto al lenguaje C es",
+      [
+        [
+          "Bastante superior",
+          false
+        ],
+        [
+          "Siempre similar puesto que usan mismo int\u00e9rprete",
+          false
+        ],
+        [
+          "Inferior al depender de un int\u00e9rprete",
+          true
+        ],
+        [
+          "Depende del proyecto pero superior en general",
+          false
+        ]
+      ]
+    ],
+    [
+      "El lenguaje m\u00e1quina es un lenguaje a bajo nivel. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un algoritmo es la implementaci\u00f3n concreta de un programa en un lenguaje de programaci\u00f3n espec\u00edfico \u00bfverdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Podemos clasificar de forma sencilla cual es el lenguaje mas inseguro",
+      [
+        [
+          "No hay lenguajes inseguros",
+          false
+        ],
+        [
+          "Debido a su dise\u00f1o",
+          false
+        ],
+        [
+          "Debido a su implementaci\u00f3n",
+          false
+        ],
+        [
+          "No podemos hablar tanto de lenguajes inseguros sino de su implementaci\u00f3n o vol\u00famen de vulnerabilidades econtradas",
+          true
+        ]
+      ]
+    ],
+    [
+      "Podr\u00edamos definir el software c\u00f3mo",
+      [
+        [
+          "Programas e instrucciones para ejecutar tareas en un ordenador",
+          true
+        ],
+        [
+          "Conjunto de m\u00f3dulos mec\u00e1nicos de un ordenador",
+          false
+        ],
+        [
+          "Conjunto de instrucciones de un aplicativo",
+          false
+        ],
+        [
+          "Conjunto de m\u00f3dulos f\u00edsicos de un ordenador",
+          false
+        ]
+      ]
+    ],
+    [
+      "Si tuvi\u00e9ramos que clasificar el lenguaje de programaci\u00f3n con m\u00e1s vulnerabilidades ser\u00eda sin duda el lenguaje C. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Un programa compilado s\u00f3lo funciona para la plataforma para la que se ha compilado. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "El lenguaje intermedio se compila..",
+      [
+        [
+          "a un lenguaje intermedio que mas tarde se ejecuta en una m\u00e1quina virtual",
+          true
+        ],
+        [
+          "Con compiladores espec\u00edficos",
+          false
+        ],
+        [
+          "Nunca se compila",
+          false
+        ],
+        [
+          "Con conmpiladores especiales modulares",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 lenguaje de programaci\u00f3n es m\u00e1s apropiado para las plataformas m\u00f3viles IOS?",
+      [
+        [
+          "PHP",
+          false
+        ],
+        [
+          "Swift",
+          true
+        ],
+        [
+          "Ruby",
+          false
+        ],
+        [
+          "Java",
+          false
+        ]
+      ]
+    ],
+    [
+      "Uno de los h\u00e1ndicaps de Python es",
+      [
+        [
+          "Es un lenguaje obsoleto sin soporte",
+          false
+        ],
+        [
+          "Un lenguaje poco usado por la comunidad",
+          false
+        ],
+        [
+          "Su rendimiento se ve mermado debido a las limitaciones impuestas por el int\u00e9rprete",
+          true
+        ],
+        [
+          "Apenas tiene librerias",
+          false
+        ]
+      ]
+    ],
+    [
+      "El lenguaje C es uno de los lenguajes m\u00e1s antiguos y por tanto se ha usado durante m\u00e1s tiempo, por lo tanto a m\u00e1s tiempo expuesto mas vulnerabilidades encontradas. \u00bfVerdadero o Falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 lenguaje de programaci\u00f3n es m\u00e1s apropiado para las plataformas m\u00f3viles Android?",
+      [
+        [
+          "Java",
+          true
+        ],
+        [
+          "Ruby",
+          false
+        ],
+        [
+          "Swift",
+          false
+        ],
+        [
+          "PHP",
+          false
+        ]
+      ]
+    ]
+  ]
+}
