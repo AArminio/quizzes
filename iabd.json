@@ -4062,6 +4062,27 @@
                     false
                 ]
             ]
+        ],
+        [
+            "Según el principio SCV:",
+            [
+                [
+                    "Un sistema de procesamiento distribuído puede tener a la vez características de velocidad, consistencia y volumen.",
+                    false
+                ],
+                [
+                    "No podemos conseguir a la vez consistencia, aislamiento y tolerancia a particionamiento.",
+                    false
+                ],
+                [
+                    "Un sistema de procesamiento distribuído no puede tener a la vez características de velocidad, consistencia y volumen.",
+                    true
+                ],
+                [
+                    "No podemos almacenar datos a una velocidad más rápida de lo que se procesan.",
+                    false
+                ]
+            ]
         ]
     ],
     "SBD02": [
