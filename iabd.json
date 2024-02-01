@@ -5775,6 +5775,770 @@
             ]
         ]
     ],
+    "SAA01": [
+        [
+            "Los coches autónomos son un caso de",
+            [
+                [
+                    "Inteligencia artificial de Asimov",
+                    false
+                ],
+                [
+                    "Inteligencia artificial débil",
+                    true
+                ],
+                [
+                    "Inteligencia artificial general",
+                    false
+                ],
+                [
+                    "Inteligencia artificial fuerte",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El nombre del algoritmo KNN viene de:",
+            [
+                [
+                    "la media de los valores de K elementos",
+                    false
+                ],
+                [
+                    "el uso de K redes neuronales",
+                    false
+                ],
+                [
+                    "ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "los K vecinos más cercanos",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Blake Lemoine, un ingeniero de Google se refirió al sistema de IA en el que trabajaba, LaMDA, como una máquinapensante y sintiente, y Google ha confirmado que así es . ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La inteligencia artificial fuerte",
+            [
+                [
+                    "Es un modelo que está aún sin terminar",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Es un tipo de inteligencia artificial que hace muy bien una tarea concreta",
+                    false
+                ],
+                [
+                    "Es un tipo de inteligencia artificial que puede desarrollar tareas muy diferentes entre sí.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Gato, el nuevo modelo de Deepmind, puede llevar a cabo muchas tareas porque",
+            [
+                [
+                    "Es una inteligencia artificial fuerte.",
+                    false
+                ],
+                [
+                    "Ha sido entrenado con variables provenientes de diferentes contextos",
+                    true
+                ],
+                [
+                    "Hay alguien programando las soluciones detrás",
+                    false
+                ],
+                [
+                    "Está compuesto por muchos algoritmos diferentes conectados entre sí.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El Teorema de Bayes enunciado por el matemático inglés Thomas Bayes (1702-1761) es un sistema de cálculo de probabilidades pero hecho de forma inversa a cómo se calculan habitualmente. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La mayoría de los desarrollos actuales de inteligencia artificial",
+            [
+                [
+                    "Igualan las capacidades humanas",
+                    false
+                ],
+                [
+                    "No consiguen alcanzar el grado de capacidad humano",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "En inteligencia artificial estrecha, se suelen superar las capacidades humanas",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Desde el punto de vista de la filosofía respecto a la IA fuerte, se tiende a la idea:",
+            [
+                [
+                    "Hoy día se prefiere hablar de lógicas «de ayuda» a la creación o a la toma de decisiones más que demáquinas que remplazarían al hombre.",
+                    true
+                ],
+                [
+                    "Una IA fuerte acabará tarde o temprano con la humanidad",
+                    false
+                ],
+                [
+                    "En realidad, todos estamos en una simulación controlada por una IA fuerte, sin saberlo",
+                    false
+                ],
+                [
+                    "La IA fuerte es Dios",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La inteligencia artificial débil",
+            [
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Es un tipo de inteligencia artificial que hace muy bien una tarea concreta",
+                    true
+                ],
+                [
+                    "Es un modelo que está aún sin terminar.",
+                    false
+                ],
+                [
+                    "Es un tipo de inteligencia artificial que puede desarrollar tareas muy diferentes entre sí.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué dos campos de estudio convergen en la inteligencia artificial actual?",
+            [
+                [
+                    "La didáctica y la ética.",
+                    false
+                ],
+                [
+                    "La lógica y la ética.",
+                    false
+                ],
+                [
+                    "La psicología y la neurología.",
+                    false
+                ],
+                [
+                    "La estadística y el aprendizaje automático.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Las técnicas de aprendizaje automático, básicamente, miran el problema desde fuera y configuran sus propias reglas para emular el comportamiento del sistema. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La inteligencia artificial débil es un concepto totalmente diferente al de la inteligencia artificial estrecha. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El sistema Gato de Deepmind es la primera inteligencia artificial que se ha logrado desarrollar. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿La existencia de una inteligencia artificial fuerte implicaría el surgimiento de la conciencia artificial?",
+            [
+                [
+                    "Sí, ya hemos visto cómo la inteligencia artificial LaMDA tiene conciencia propia.",
+                    false
+                ],
+                [
+                    "No, las inteligencias artificiales fuertes que hay ahora mismo no tienen conciencia propia.",
+                    false
+                ],
+                [
+                    "Sí, son dos conceptos que van íntimamente ligados",
+                    false
+                ],
+                [
+                    "No, no está relacionado a priori",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Podemos ver sistemas basados en inteligencia artificial en",
+            [
+                [
+                    "La unidad de control de un vehículo autónomo.",
+                    false
+                ],
+                [
+                    "El sistema logístico de un gran operador como Amazon",
+                    false
+                ],
+                [
+                    "El sistema de control de tráfico aéreo internacional",
+                    false
+                ],
+                [
+                    "En películas y libros de ciencia ficción",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El Teorema de Bayes sirve para calcular",
+            [
+                [
+                    "Ese teorema no existe.",
+                    false
+                ],
+                [
+                    "cuántas veces se va a dar un fenómeno en la naturaleza",
+                    false
+                ],
+                [
+                    "la probabilidad de una causa, conocida su consecuencia",
+                    true
+                ],
+                [
+                    "la probabilidad de que algo ocurra",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es Gato, el nuevo modelo desarrollado por Deepmind?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Es un modelo de inteligencia artificial que resuelve las búsquedas que la gente hace en Google",
+                    false
+                ],
+                [
+                    "Es una inteligencia artificial generalista que puede llevar a cabo hasta 604 tareas diferentes",
+                    true
+                ],
+                [
+                    "Es un algoritmo de aprendizaje automático que analiza textos",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La inteligencia artificial fuerte y la inteligencia artificial general son lo mismo. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Según Andrew Ng, profesor de inteligencia artificial en Stanford",
+            [
+                [
+                    "El desarrollo del machine learning se ha basado en la disponibilidad de datos y la escalacomputacional.",
+                    true
+                ],
+                [
+                    "El machine learning es cosa del pasado",
+                    false
+                ],
+                [
+                    "El machine learning se ha desarrollado gracias al estudio de la evolución humana",
+                    false
+                ],
+                [
+                    "La inteligencia artificial solo es estadística con un toque estético",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Alexa, Siri o Google Assistant son ejemplos de",
+            [
+                [
+                    "Inteligencia artificial fuerte",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Inteligencia artificial general",
+                    false
+                ],
+                [
+                    "Inteligencia artificial débil",
+                    true
+                ]
+            ]
+        ]
+    ],
+    "SAA02": [
+        [
+            "Dentro de las técnicas de Aprendizaje Automático el uso de las Máquinas de Vector Soporte como clasificador seha visto incrementado en los últimos años debido a que sirven para resolver problemas de clasificación y regresión y que su rendimiento en los diferentes campos en los que se utilizan suele ser bastante alto, resultando ser uno de las técnicas más precisas. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los algoritmos de Regresión Lineal, Regresión Logística, Árbol de Decisión, Máquinas de Vector Soporte y Clustering son…",
+            [
+                [
+                    "Los cinco tipos de algoritmos que se usan en Aprendizaje Automático por Refuerzo.",
+                    false
+                ],
+                [
+                    "Los cinco tipos de algoritmo que se usan en Aprendizaje Automático Supervisado.",
+                    false
+                ],
+                [
+                    "Los cinco algoritmos que se usan en Aprendizaje Automático No Supervisado.",
+                    false
+                ],
+                [
+                    "Algunos de los tipos de algoritmos que más se utilizan en Aprendizaje Automático.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El algoritmo de Regresión Logística es más bien un algoritmo de clasificación que de regresión. ¿Verdadero oFalso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo funcionan los algoritmos de Árbol de Decisión?",
+            [
+                [
+                    "Ninguna de las respuestas anteriores es correcta",
+                    false
+                ],
+                [
+                    "Genera una red de subalgoritmos que compiten entre sí para encontrar la predicción más próxima a larealidad.",
+                    false
+                ],
+                [
+                    "Crea bifurcaciones, separando los datos en función de los diferentes datos, hasta que se llega a unadecisión concluyente en base a la predicción buscada.",
+                    true
+                ],
+                [
+                    "Separa en dos regiones diferenciadas los datos, a través de una función llamada sigmoide.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los entrenamientos con algoritmos de tipo Clustering se suelen usar…",
+            [
+                [
+                    "... las primeras fases de las tareas de Aprendizaje Automático, a fin de explorar los datos y detectar correlaciones inesperadas.",
+                    true
+                ],
+                [
+                    "... para problemas que buscan resolver de manera supervisada casos de clasificación.",
+                    false
+                ],
+                [
+                    "... después de haber encontrado modelos fiables a través de entrenamientos supervisados, para confirmar que los resultados obtenidos son realmente fiables.",
+                    false
+                ],
+                [
+                    "... para cuando no tenemos claro qué otros tipos de algoritmos son más apropiados para lo que queremos predecir.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la ventaja de los algoritmos de tipo Máquina de Vector Soporte respecto de los de Regresión Logística?",
+            [
+                [
+                    "No existe ninguna ventaja. De hecho se usan más los de Regresión Logística.",
+                    false
+                ],
+                [
+                    "Ambos tienen ventajas y desventajas. Cuando nos enfrentamos a problemas de clasificación se puedenutilizar ambos indistintamente.",
+                    false
+                ],
+                [
+                    "Los del tipo Máquina de Vector Soporte sirven para resolver problemas de clasificación (como los de Regresión Logística) pero también para problemas de regresión, por lo que abarcan problemas más complejos y con más variables.",
+                    true
+                ],
+                [
+                    "Los del tipo Máquina de Vector Soporte requieren menos recursos computacionales que los de Regresión Logística.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los algoritmos de Árbol de Decisión construyen un modelo de decisiones basadas en los atributos que presentanlos datos que entran en el modelo. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En los algoritmos de Clustering tipo G-Means el número de centroides…",
+            [
+                [
+                    "... da igual, pues el resultado es el mismo independientemente de este dato.",
+                    false
+                ],
+                [
+                    "... lo calcula de forma automática el propio algoritmo",
+                    true
+                ],
+                [
+                    "... lo tiene que definir el humano antes de iniciar el entrenamiento.",
+                    false
+                ],
+                [
+                    "... lo calcula el ser humano a través de la fórmula Cluster-Mean.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La Regresión Logística sirve para multitud de casos, variados, independientemente de la relación que exista entrelas variables y sin necesidad de que se dé una proporcionalidad lineal. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Matemáticamente la función logística que generan los algoritmos de Regresión Logística tiene forma de S.",
+            [
+                [
+                    "No, tiene forma de L.",
+                    false
+                ],
+                [
+                    "No siempre (a veces sí, pero otras veces no).",
+                    false
+                ],
+                [
+                    "No, en realidad tiene forma de U.",
+                    false
+                ],
+                [
+                    "Sí.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Si quisiéramos entrenar un modelo de Inteligencia Artificial a través de Aprendizaje Automático Supervisado quenos ayudara a saber si un correo electrónico es Spam o no lo es, el algoritmo óptimo que usaríamos sería…",
+            [
+                [
+                    "Árbol de Decisión.",
+                    false
+                ],
+                [
+                    "Regresión Lineal.",
+                    false
+                ],
+                [
+                    "Regresión Logística.",
+                    true
+                ],
+                [
+                    "Máquina de Vector Soporte.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Si quisiéramos estimar el precio que alcanzará un producto, el algoritmo más apropiado para entrenar el modelo de Inteligencia artificial sería:",
+            [
+                [
+                    "Regresión Lineal",
+                    true
+                ],
+                [
+                    "Máquinas de Vector Soporte",
+                    false
+                ],
+                [
+                    "Regresión Logística.",
+                    false
+                ],
+                [
+                    "Clustering.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué casos resulta más útil la Regresión Logística?",
+            [
+                [
+                    "Para los casos en los que no sabemos muy bien qué otro algoritmo utilizar",
+                    false
+                ],
+                [
+                    "Para generar grupos de instancias con datos similares",
+                    false
+                ],
+                [
+                    "Para los casos en los que existe una proporcionalidad lineal entre los valores del conjunto de predictores",
+                    false
+                ],
+                [
+                    "Para los casos en los que se desea predecir la presencia o ausencia de una característica o resultado.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "De entre los diferentes algoritmos del tipo Árbol de Decisión ¿Cuál es el más popular y utilizado?",
+            [
+                [
+                    "M5.",
+                    false
+                ],
+                [
+                    "Classification and Regression Tree (CART).",
+                    true
+                ],
+                [
+                    "Iterative Dichotomiser 3 (ID3).",
+                    false
+                ],
+                [
+                    "Decision Stump",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los algoritmos de Árbol de decisión trabajan muy bien…",
+            [
+                [
+                    "... tanto con datos del tipo de regresión como de clasificación.",
+                    true
+                ],
+                [
+                    "... únicamente con datos del tipo de clasificación",
+                    false
+                ],
+                [
+                    "... únicamente con datos del tipo de regresión",
+                    false
+                ],
+                [
+                    "... con datos de refuerzo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué tipo de Aprendizaje Automático pertenecen los algoritmos de tipo Clustering?",
+            [
+                [
+                    "Supervisado.",
+                    false
+                ],
+                [
+                    "Por Refuerzo.",
+                    false
+                ],
+                [
+                    "No Supervisado",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores respuestas es correcta",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los algoritmos del tipo SVM son apropiados para…",
+            [
+                [
+                    "Aprendizaje Automático No Supervisado.",
+                    false
+                ],
+                [
+                    "Aprendizaje Automático por Refuerzo",
+                    false
+                ],
+                [
+                    "Aprendizaje Automático Supervisado",
+                    true
+                ],
+                [
+                    "Ninguna de las respuestas anteriores es correcta.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En los algoritmos de Clustering tipo K-Means el número de centroides…",
+            [
+                [
+                    "... lo calcula de forma automática el propio algoritmo",
+                    false
+                ],
+                [
+                    "... lo tiene que definir el humano antes de iniciar el entrenamiento",
+                    true
+                ],
+                [
+                    "... da igual, pues el resultado es el mismo independientemente de este dato",
+                    false
+                ],
+                [
+                    "... lo calcula el ser humano a través de la fórmula Cluster-Mean.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué otro nombre reciben los algoritmos de tipo Clustering?",
+            [
+                [
+                    "No Supervisado",
+                    false
+                ],
+                [
+                    "Regresión.",
+                    false
+                ],
+                [
+                    "de Agrupación",
+                    true
+                ],
+                [
+                    "Clasificación",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El algoritmo de Regresión Logística…",
+            [
+                [
+                    "... estima valores discretos",
+                    true
+                ],
+                [
+                    "... estima valores reales",
+                    false
+                ],
+                [
+                    "... estima valores negativos",
+                    false
+                ],
+                [
+                    "... estima valores proporcionales",
+                    false
+                ]
+            ]
+        ]
+    ],
     "SAA03": [
         [
             "En el Aprendizaje Profundo el modelo no puede mejorarse a sí mismo de manera automática, es necesaria la intervención humana. ¿Verdadero o Falso?",
