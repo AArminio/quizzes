@@ -7715,5 +7715,737 @@
                 ]
             ]
         ]
+    ],
+    "PIA03": [
+        [
+            "¿Se puede ejecutar un cuaderno en Kaggle?",
+            [
+                [
+                    "No. Publican competiciones y se debe crear el cuaderno solución en otra herramienta.",
+                    false
+                ],
+                [
+                    "Sí, la plataforma ofrece un entorno con todo lo necesario para crear y ejecutar notebooks",
+                    true
+                ],
+                [
+                    "No, solo es una plataforma de la que descargarse datasets",
+                    false
+                ],
+                [
+                    "Sí, pero es necesario dar acceso http a un repositorio en Github.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La principal diferencia del IDE Replit respecto a VSC o Pycharm es",
+            [
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "No se puede trabajar de forma colaborativa",
+                    false
+                ],
+                [
+                    "Es un IDE online; se accede vía web",
+                    true
+                ],
+                [
+                    "Es un IDE que solo sirve para Python",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué empresa tecnológica pertenece Binder?",
+            [
+                [
+                    "Es un proyecto Open Source",
+                    true
+                ],
+                [
+                    "Google.",
+                    false
+                ],
+                [
+                    "Facebook.",
+                    false
+                ],
+                [
+                    "Microsoft.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El lenguaje Notebook es de tipo agnóstico, es decir, permite trabajar con diferentes lenguajes de programación de la misma manera y con las mismas ventajas. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Binder habilita una imagen del repositorio en un contenedor de Docker con las dependencias y especificaciones que se hayan recogido en el archivo jamaica.txt. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la principal razón por la que se utiliza un IDE frente a un Notebook cuando se está programando inteligencia artificial?",
+            [
+                [
+                    "Porque estamos integrando el modelo ya entrenado en un proyecto",
+                    true
+                ],
+                [
+                    "Porque no tenemos conexión a internet",
+                    false
+                ],
+                [
+                    "Porque es la opción más segura",
+                    false
+                ],
+                [
+                    "Porque no se puede utilizar Tensorflow en un notebook",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la principal ventaja de Google Colab frente a otros entornos notebook?",
+            [
+                [
+                    "Permite escribir celdas de código, combinadas con celdas de texto, en formato cuaderno",
+                    false
+                ],
+                [
+                    "Es gratuito.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Cuenta con un kernel preparado y mantenido, con todo actualizado, para los procesos habituales deciencia de datos.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El IDE Visual Studio Code es propiedad de",
+            [
+                [
+                    "Google",
+                    false
+                ],
+                [
+                    "Microsoft",
+                    true
+                ],
+                [
+                    "Amazon",
+                    false
+                ],
+                [
+                    "IBM",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los cuadernos hechos con Google Colab se almacenan por defecto en una carpeta de Drive de la cuenta deGoogle con la que han sido creados. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué recurso aporta Google Colab para la computación en su notebook?",
+            [
+                [
+                    "Memoria en Disco y RAM suficientes para un entrenamiento de un modelo normal",
+                    true
+                ],
+                [
+                    "Memoria en Disco, pero no memoria RAM",
+                    false
+                ],
+                [
+                    "La mitad de la capacidad de computación necesaria; la otra mitad la pone la máquina del usuario",
+                    false
+                ],
+                [
+                    "Aporta RAM suficiente, pero no aporta memoria de almacenamiento; por eso no se pueden cargardatasets directamente.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En Jupyter Notebook no se ejecutan ni se muestran gráficas o imágenes, para eso es necesario ejecutar el códigoen un IDE a parte. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Se pueden compartir los cuadernos de Google Colab?",
+            [
+                [
+                    "No. Son privados",
+                    false
+                ],
+                [
+                    "Sí, enviándolos por correo electrónico",
+                    false
+                ],
+                [
+                    "Sí, de la misma forma que se comparte cualquier documento de Drive",
+                    true
+                ],
+                [
+                    "No. Solo se pueden mostrar compartiendo pantalla",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Google Colab permite el uso de procesador GPU para los modelos que requieren más potencia de computación.¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El formato cuaderno o Notebook, se hecho muy común en el ámbito de:",
+            [
+                [
+                    "La automatización de QA.",
+                    false
+                ],
+                [
+                    "La Ciberseguridad",
+                    false
+                ],
+                [
+                    "Blockchain",
+                    false
+                ],
+                [
+                    "La Ciencia de Datos",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Los IDEs Visual Studio Code y Pycharm proveen de herramientas para:",
+            [
+                [
+                    "Refactorizar..",
+                    false
+                ],
+                [
+                    "Hacer tests.",
+                    false
+                ],
+                [
+                    "Depurar el código",
+                    false
+                ],
+                [
+                    "Todas las anteriores",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Google Colab no se puede usar de forma profesional; solo sirve para aprender o para el entrenamiento de modelos muy pequeños. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En Kaggle solo se pueden editar y ejecutar notebooks que han sido creados por usuarios avanzados, pero no crear notebooks desde cero. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En un cuaderno o notebook, se puede integrar código y el resultado de su ejecución, pero no texto ni lenguaje demarcación. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El proyecto Jupyter proviene del entorno de programación:",
+            [
+                [
+                    "Binder",
+                    false
+                ],
+                [
+                    "Pycharm",
+                    false
+                ],
+                [
+                    "Colab",
+                    false
+                ],
+                [
+                    "IPython",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El proyecto Jupyter, inicialmente, estaba orientado a tres lenguajes de programación. ¿Cual de los siguientes no estaba entre esos tres?",
+            [
+                [
+                    "Java",
+                    true
+                ],
+                [
+                    "Python",
+                    false
+                ],
+                [
+                    "Julia",
+                    false
+                ],
+                [
+                    "R",
+                    false
+                ]
+            ]
+        ]
+    ],
+    "PIA04": [
+        [
+            "¿Cuál fue el origen de la librería Matplotlib?",
+            [
+                [
+                    "Estaba dentro de la librería Tensorflow.",
+                    false
+                ],
+                [
+                    "Estaba en la librería estándar de Python",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Era un parche de IPython.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿En qué año se incluye el paquete Keras en la distribución de Tensorflow?",
+            [
+                [
+                    "2015",
+                    false
+                ],
+                [
+                    "2020",
+                    false
+                ],
+                [
+                    "2019",
+                    true
+                ],
+                [
+                    "2022",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué método utilizamos en Keras para fijar la función Loss y el optimizador (optimizer)?",
+            [
+                [
+                    "compile",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "tools",
+                    false
+                ],
+                [
+                    "functions",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la clase para generar un modelo de K-Nearest Neighbors con Scikit-learn?",
+            [
+                [
+                    "K_N_N()",
+                    false
+                ],
+                [
+                    "KNearestNeighbors()",
+                    false
+                ],
+                [
+                    "KNeighborsClassifier()",
+                    true
+                ],
+                [
+                    "K_Neighbors()",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La librería Matplotlib es muy extensa y útil, pero no permite hacer gráficas interactivas ni gráficas 3D",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de Pandas permite ver las dimensiones principales de un array?",
+            [
+                [
+                    "info.",
+                    false
+                ],
+                [
+                    "array.",
+                    false
+                ],
+                [
+                    "shape.",
+                    true
+                ],
+                [
+                    "dimensions.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué librería está especialmente enfocada en la fase del análisis de los datos en un proceso de ciencia de datos?",
+            [
+                [
+                    "Pandas.",
+                    true
+                ],
+                [
+                    "Matplotlib.",
+                    false
+                ],
+                [
+                    "Tensorflow.",
+                    false
+                ],
+                [
+                    "Scikit-learn.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de Pyplot permite representar un diagrama de barras?",
+            [
+                [
+                    "Ninguna, no se puede.",
+                    false
+                ],
+                [
+                    "thick_lines",
+                    false
+                ],
+                [
+                    "bar.",
+                    true
+                ],
+                [
+                    "plot.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La librería Pytorch fue creada por desarrolladores del FAIR, el Laboratorio de Investigación de Inteligencia Artificial de Facebook",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de Pandas nos muestra los principales valores estadísticos de un dataset?",
+            [
+                [
+                    "shape.",
+                    false
+                ],
+                [
+                    "info.",
+                    false
+                ],
+                [
+                    "describe",
+                    true
+                ],
+                [
+                    "stadistics",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué librería está especialmente enfocada en la visualización de los datos en un proceso de ciencia de datos?",
+            [
+                [
+                    "Pandas.",
+                    false
+                ],
+                [
+                    "Tensorflow.",
+                    false
+                ],
+                [
+                    "Matplotlib.",
+                    true
+                ],
+                [
+                    "Scikit-learn",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de Pandas permite la carga de los datos a partir de un fichero .csv?",
+            [
+                [
+                    "leer_csv(‘ruta archivo.csv’)",
+                    false
+                ],
+                [
+                    "Ninguno de los anteriores",
+                    false
+                ],
+                [
+                    "read_csv(‘ruta archivo.csv’)",
+                    true
+                ],
+                [
+                    "carga_csv(‘ruta archivo.csv’)",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La función head de Pandas nos muestra las 10 primeras líneas de un dataframe",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Pandas incluye la función plot para hacer representaciones sencillas",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La librería Tensorflow fue liberada por Google en 2015 con licencia Apache de código abierto a partir de undesarrollo interno.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de Pyplot sirve para crear gráficas de dispersión de puntos?",
+            [
+                [
+                    "plot",
+                    false
+                ],
+                [
+                    "scatter.",
+                    true
+                ],
+                [
+                    "histogram",
+                    false
+                ],
+                [
+                    "bar",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La librería Scikit-learn surgió como un proyecto de Google Summer of Code de la mano de David Cournapeau",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A través de qué clase se crea el objeto clave del tratamiento de los datos que aporta la librería Pandas?",
+            [
+                [
+                    "DataFrame",
+                    true
+                ],
+                [
+                    "DataPandas",
+                    false
+                ],
+                [
+                    "DataClase",
+                    false
+                ],
+                [
+                    "DataSet.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cual es la paquete que incluye Pytorch que agiliza bastante la programación de soluciones de inteligencia artifcial?",
+            [
+                [
+                    "Keras",
+                    false
+                ],
+                [
+                    "Scipy",
+                    false
+                ],
+                [
+                    "FastAI",
+                    true
+                ],
+                [
+                    "SQLite",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué llamamos librería, dentro de un framework o lenguaje de programación?",
+            [
+                [
+                    "A la estantería donde los programadores guardan los libros sobre programación",
+                    false
+                ],
+                [
+                    "Al conjunto de documentos que explican cómo programar en ese lenguaje.",
+                    false
+                ],
+                [
+                    "Al conjunto de clases y métodos o funciones escritas en ese lenguaje de programación, y que permitenrealizar determinadas tareas con menos líneas de código.",
+                    true
+                ],
+                [
+                    "A la tabla donde se recogen todas las palabras clave de ese lenguaje",
+                    false
+                ]
+            ]
+        ]
     ]
 }
