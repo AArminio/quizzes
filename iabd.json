@@ -8446,6 +8446,124 @@
                     false
                 ]
             ]
+        ],
+        [
+            "¿Qué librería está especialmente enfocada en la generación y entrenamiento de modelos sencillos de aprendizaje automático?",
+            [
+                [
+                    "Tkinter",
+                    false
+                ],
+                [
+                    "Matplotlib",
+                    false
+                ],
+                [
+                    "Scikit-learn",
+                    true
+                ],
+                [
+                    "Pandas",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En los procesos de entrenamiento de redes neuronales profundas, se suelen utilizar los métodos o funciones de Keras antes que los de Tensorflow, porque Keras ha simplificado bastante dichas tareas con menos líneas de código.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuántos registros muestra la función head de Pandas por defecto?",
+            [
+                [
+                    "10",
+                    false
+                ],
+                [
+                    "6",
+                    false
+                ],
+                [
+                    "5",
+                    true
+                ],
+                [
+                    "7",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la clase de la librería Keras que nos permite construir un modelo de deep learning con varias capas?",
+            [
+                [
+                    "Sequential",
+                    true
+                ],
+                [
+                    "Ninguna",
+                    false
+                ],
+                [
+                    "DeepModel",
+                    false
+                ],
+                [
+                    "LayersModel",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál fue el origen de la librería Scikit-learn?",
+            [
+                [
+                    "Ninguna de las anteriores",
+                    true
+                ],
+                [
+                    "Era parte de la librería Scipy",
+                    false
+                ],
+                [
+                    "Era parte de la librería estándar de Python.",
+                    false
+                ],
+                [
+                    "Estaba dentro de la librería Tensorflow.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué librería está especialmente enfocada en la generación y entrenamiento de redes neuronales profundas?",
+            [
+                [
+                    "Scikit-learn",
+                    false
+                ],
+                [
+                    "Tensorflow",
+                    true
+                ],
+                [
+                    "Pandas.",
+                    false
+                ],
+                [
+                    "Matplotlib",
+                    false
+                ]
+            ]
         ]
     ]
 }
