@@ -6147,6 +6147,90 @@
                     true
                 ]
             ]
+        ],
+        [
+            "En esencia una red convolucional lo que hace es…",
+            [
+                [
+                    "Ninguna de las respuestas anteriores es correcta",
+                    false
+                ],
+                [
+                    "...detectar los vectores directores que soportan los datos fundamentales de las instancias.",
+                    false
+                ],
+                [
+                    "...trata de buscar características locales en pequeños grupos de entradas (píxeles, secuencias de mediciones de audio, etc).",
+                    true
+                ],
+                [
+                    "...revolucionar los datos a la mayor velocidad de cómputo posible hasta que detecta los de mayor peso específico.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Se consideran redes neuronales las máquinas de vector soporte (SVM)?",
+            [
+                [
+                    "Ninguna de las respuestas anteriores es correcta.",
+                    false
+                ],
+                [
+                    "Sí.",
+                    false
+                ],
+                [
+                    "No, aunque tiene una estructura interna similar a las redes neuronales",
+                    true
+                ],
+                [
+                    "Depende del tipo de datos de entrada que empleemos.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El aprendizaje profundo se diferencia fundamentalmente del aprendizaje automático en…",
+            [
+                [
+                    "...que es más apropiado para problemas de entrenamiento por refuerzo.",
+                    false
+                ],
+                [
+                    "...que requiere menos esfuerzo de cómputo y memoria.",
+                    false
+                ],
+                [
+                    "...que no necesita depurar previamente los datos.",
+                    false
+                ],
+                [
+                    "...que el modelo sigue aprendiendo y mejorando su precisión cada vez que se utiliza.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En una red neuronal de retroalimentación (Feed Forward - FF)...",
+            [
+                [
+                    "...Los nodos forman un ciclo.",
+                    false
+                ],
+                [
+                    "...hay una conexión visible entre los nodos de la misma capa.",
+                    false
+                ],
+                [
+                    "...cada perceptrón o nodo está conectado con cada nodo de la capa siguiente o anterior.",
+                    true
+                ],
+                [
+                    "...las capas ocultas tienen conexión con el mundo exterior.",
+                    false
+                ]
+            ]
         ]
     ],
     "PIA01": [
