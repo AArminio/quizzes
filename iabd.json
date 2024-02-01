@@ -6598,5 +6598,358 @@
                 ]
             ]
         ]
+    ],
+    "PIA02": [
+        [
+            "¿Cuál, entre estos modelos, no pertenece a GPT3?",
+            [
+                [
+                    "Ada",
+                    false
+                ],
+                [
+                    "Newton",
+                    true
+                ],
+                [
+                    "Davinci 2",
+                    false
+                ],
+                [
+                    "Curie",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué llamamos intenciones o “intents” en Dialogflow?",
+            [
+                [
+                    "Acciones a realizar por un asistente virtual",
+                    false
+                ],
+                [
+                    "Cada unidad de computación de un algoritmo de aprendizaje automático",
+                    false
+                ],
+                [
+                    "Conciencia propia de la inteligencia artificial",
+                    false
+                ],
+                [
+                    "Las necesidades que subyacen en las preguntas o solicitudes de los usuarios",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Auto ML solo permite trabajar con modelos de datos tabulares para analítica avanzada y predicciones.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso ",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Google Cloud Platform es uno de los principales proveedores de computación en la nube que utilizan las empresas y organizaciones a nivel mundial.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso ",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la interfaz de trabajo en el servicio online de IBM para crear Inteligencia artificial con su modelo Watson?",
+            [
+                [
+                    "Watson IDE.",
+                    false
+                ],
+                [
+                    "Watson Studio.",
+                    true
+                ],
+                [
+                    "IBM Watson Panel.",
+                    false
+                ],
+                [
+                    "IBM interface.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuáles son las siglas del servicio de computación en la nube de Google?",
+            [
+                [
+                    "AWS",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "SaaS.",
+                    false
+                ],
+                [
+                    "GCP.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Entre los servicios de Azure Cognitive Services, hay uno enfocado en la detección de anomalías.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuáles son las siglas del servicio de computación en la nube de Amazon?",
+            [
+                [
+                    "PCG",
+                    false
+                ],
+                [
+                    "Kindle",
+                    false
+                ],
+                [
+                    "AWS",
+                    true
+                ],
+                [
+                    "GCP",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la API de Google Cloud Platform de procesamiento del lenguaje natural y creación de asistentes virtuales?",
+            [
+                [
+                    "DialogFlow",
+                    true
+                ],
+                [
+                    "Vision AI",
+                    false
+                ],
+                [
+                    "BigQuery",
+                    false
+                ],
+                [
+                    "Vertex AI",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Azure Cognitive Services está totalmente enfocado en procesamiento de datos y de texto, por lo que no cuenta con servicios de reconocimiento de imagen ni visión artificial.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿En qué categoría de Vision AI se pueden clasificar emociones?",
+            [
+                [
+                    "Properties",
+                    false
+                ],
+                [
+                    "Faces",
+                    true
+                ],
+                [
+                    "Objects",
+                    false
+                ],
+                [
+                    "Labels",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la API de Google Cloud Platform para reconocimiento de imágenes?",
+            [
+                [
+                    "DialogFlow",
+                    false
+                ],
+                [
+                    "Vision AI",
+                    true
+                ],
+                [
+                    "BigQuery",
+                    false
+                ],
+                [
+                    "Vertex AI",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se denomina la API de procesamiento del lenguaje natural de AWS?",
+            [
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Rekognition",
+                    false
+                ],
+                [
+                    "Comprehend",
+                    true
+                ],
+                [
+                    "Cognitive Services",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el nombre genérico que reciben los servicios cognitivos de IBM para crear aplicaciones de inteligencia artificial en la nube?",
+            [
+                [
+                    "GPT3",
+                    false
+                ],
+                [
+                    "Watson",
+                    true
+                ],
+                [
+                    "AutoML",
+                    false
+                ],
+                [
+                    "DeepBlue",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué aplicación de Google Cloud Platform nos permite crear un “chatbot”?",
+            [
+                [
+                    "BigQuery",
+                    false
+                ],
+                [
+                    "Vision AI",
+                    false
+                ],
+                [
+                    "DialogFlow",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Vision AI, en Google Cloud Platform, es capaz de detectar texto en las imágenes, incluso cuando es muy pequeño o está inclinado.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué categorías de problemas permite modelizar Auto ML?",
+            [
+                [
+                    "Imágenes y videos",
+                    false
+                ],
+                [
+                    "Datos tabulares",
+                    false
+                ],
+                [
+                    "Todas las anteriores",
+                    true
+                ],
+                [
+                    "Texto",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Vertex AI incluye la creación de un “endpoint” o acceso al modelo en formato API REST como parte del flujo de trabajo.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el servicio de AWS que nos permite crear y entrenar un modelo de aprendizaje automático utilizando notebooks?",
+            [
+                [
+                    "Comprehend",
+                    false
+                ],
+                [
+                    "SageMaker",
+                    true
+                ],
+                [
+                    "DynamoDB",
+                    false
+                ],
+                [
+                    "Rekognition",
+                    false
+                ]
+            ]
+        ]
     ]
 }
