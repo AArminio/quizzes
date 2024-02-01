@@ -4586,15 +4586,15 @@
             [
                 [
                     "Estamos realizando la transferencia de datos en el sentido inverso al com\u00fan",
-                    null
+                    false
                 ],
                 [
                     "Estamos realizando la transferencia de datos en el sentido inverso al que es l\u00f3gico",
-                    null
+                    false
                 ],
                 [
                     "Descargamos al OLTP de la carga de la anal\u00edtica",
-                    null
+                    true
                 ],
                 [
                     "Descargamos al OLAP de la carga transaccional",
@@ -4926,6 +4926,174 @@
                 ],
                 [
                     "Una herramienta de l\u00ednea de comandos que nos permite obtener datos desde bases de datos relacionales",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Cuando al almacenamiento de destino de un proceso ETL llegan datos nuevos:",
+            [
+                [
+                    "Los datos preexistentes se eliminan.",
+                    false
+                ],
+                [
+                    "Los datos preexistentes siempre se ven afectados.",
+                    false
+                ],
+                [
+                    "Los datos preexistentes pueden no verse afectados.",
+                    true
+                ],
+                [
+                    "Los datos preexistentes nunca se ven afectados.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una de las siguientes no es una de las principales características de Apache Flume",
+            [
+                [
+                    "Permite crear topologías para tratar los flujos de datos hasta llegar al resultado final",
+                    false
+                ],
+                [
+                    "Es tolerante a fallos",
+                    false
+                ],
+                [
+                    "Está basado en eventos y se adapta a fuentes en streaming",
+                    false
+                ],
+                [
+                    "Permite conectar con bases de datos relacionales.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Cuando el almacenamiento de destino de un proceso ETL permite guardar un registro histórico para cada posible dato:",
+            [
+                [
+                    "Podemos comprobar los distintos valores que ha ido teniendo el dato a lo largo del tiempo.",
+                    true
+                ],
+                [
+                    "Podemos acceder a los metadatos de cada dato desde el mismo interfaz de usario.",
+                    false
+                ],
+                [
+                    "En ningún caso puede guardarse un registro histórico debido a que los datos se eliminan siempre.",
+                    false
+                ],
+                [
+                    "En ningún caso puede guardarse un registro histórico debido a que los datos se sobreescriben siempre.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Las fases del proceso ETL son:",
+            [
+                [
+                    "Extraer, transformar, cargar.",
+                    true
+                ],
+                [
+                    "Exportar, transformar, cargar.",
+                    false
+                ],
+                [
+                    "Extraer, transformar, liberar.",
+                    false
+                ],
+                [
+                    "ETL no es ningún proceso que tenga que ver con tratamiento de datos.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una de las siguientes afirmaciones es correcta en relación a la fase de extracción del proceso ETL:",
+            [
+                [
+                    "Hay un número muy limitado de posibles fuentes de datos.",
+                    false
+                ],
+                [
+                    "Siempre se accede a una única fuente de datos.",
+                    false
+                ],
+                [
+                    "Existe gran variedad de posibles fuentes de datos, cada una con su formato y/o protocolo.",
+                    true
+                ],
+                [
+                    "Existe gran variedad de posibles fuentes de datos pero las herramientas ETL son compatibles con todas ellas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una de las siguientes no es una de las medidas de seguridad que deben aplicarse al tratar datos personales según el RGPD:",
+            [
+                [
+                    "La implementación de procesos de verificación y evaluación.",
+                    false
+                ],
+                [
+                    "La capacidad de restaurar los datos personales de forma rápida.",
+                    false
+                ],
+                [
+                    "La implementación de procesos que faciliten su tratamiento distribuido.",
+                    true
+                ],
+                [
+                    "La seudonimización de los datos personales.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Uno de los siguientes no es uno de los derechos del interesado en relación al tratamiento de sus datos, según el RGPD:",
+            [
+                [
+                    "Derecho a la portabilidad.",
+                    false
+                ],
+                [
+                    "Derecho a la elección del soporte en el que se almacenan.",
+                    true
+                ],
+                [
+                    "Derecho de rectificación",
+                    false
+                ],
+                [
+                    "Derecho al olvido.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El Gobierno de Datos incluye:",
+            [
+                [
+                    "Planficación, implementación y documentación.",
+                    false
+                ],
+                [
+                    "Planificación, ejecución y documentación.",
+                    false
+                ],
+                [
+                    "Ejecución, monitorización, documentación y seguimiento",
+                    false
+                ],
+                [
+                    "Planificación, ejecución y seguimiento.",
                     true
                 ]
             ]
