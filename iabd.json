@@ -1561,6 +1561,195 @@
                     false
                 ]
             ]
+        ],
+        [
+            "\u00bfQu\u00e9 se busca predecir en una regresi\u00f3n (en el contexto del Aprendizaje Autom\u00e1tico Supervisado)?",
+            [
+                [
+                    "Un valor num\u00e9rico",
+                    true
+                ],
+                [
+                    "Un conjunto de instancias con similitudes",
+                    false
+                ],
+                [
+                    "Una categoría predominante",
+                    false
+                ],
+                [
+                    "El precio de un inmueble",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Si quieres entrenar un modelo de Inteligencia Artificial mediante Aprendizaje Autom\u00e1tico para predecir un diagn\u00f3stico m\u00e9dico ¿qu\u00e9 problema utilizar\u00e1s?",
+            [
+                [
+                    "Regresi\u00f3n",
+                    false
+                ],
+                [
+                    "Clasificaci\u00f3n",
+                    true
+                ],
+                [
+                    "Clusterizaci\u00f3n",
+                    false
+                ],
+                [
+                    "Detecci\u00f3n de anomal\u00edas",
+                    false
+                ]
+            ]
+        ],
+        [
+            "\u00bfQu\u00e9 se busca predecir en una clasificaci\u00f3n (en el contexto del Aprendizaje Autom\u00e1tico Supervisado)?",
+            [
+                [
+                    "Una categor\u00eda predominante",
+                    false
+                ],
+                [
+                    "Un conjunto de instancias con similitudes",
+                    false
+                ],
+                [
+                    "Un valor num\u00e9rico",
+                    false
+                ],
+                [
+                    "La categor\u00eda a la que pertenece el campo objetivo de la instancia dada",
+                    true
+                ]
+            ]
+        ],
+        [
+            "\u00bfQu\u00e9 son las instancias cuando hablamos de Aprendizaje Autom\u00e1tico?",
+            [
+                [
+                    "Cada uno de los elementos que forman el conjunto de datos que se proporcionan para dicho Aprendizaje Autom\u00e1tico",
+                    true
+                ],
+                [
+                    "El conjunto de resultados que esperamos obtener",
+                    false
+                ],
+                [
+                    "Los documentos necesarios para solicitar el permiso de realizar dicho Aprendizaje Autom\u00e1tico",
+                    false
+                ],
+                [
+                    "El tiempo que hay que esperar para que la Inteligencia Artificial entrene el modelo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El Machine Learning (Aprendizaje Autom\u00e1tico) genera un gran inter\u00e9s en toda la sociedad, especialmente desde el año…",
+            [
+                [
+                    "2009",
+                    false
+                ],
+                [
+                    "2000",
+                    false
+                ],
+                [
+                    "2016",
+                    true
+                ],
+                [
+                    "2022",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué tres tipos de problemas se puede dividir el Aprendizaje Automático No Supervisado?",
+            [
+                [
+                    "Regresión, Clasificación y Refuerzo.",
+                    false
+                ],
+                [
+                    "Clustering, Detección de Anomalías y Asociaciones",
+                    true
+                ],
+                [
+                    "Similitudes, Diferencias y Asociaciones",
+                    false
+                ],
+                [
+                    "Árbol de decisión, Bayesianos y Reducción",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es lo que se busca en los problemas de Detección de Anomalías (en el contexto del Aprendizaje Automático No Supervisado)?",
+            [
+                [
+                    "Detectar instancias que se diferencian de las demás",
+                    true
+                ],
+                [
+                    "Detectar qué grupos o clusters son los más poblados",
+                    false
+                ],
+                [
+                    "Encontrar relaciones entre los diferentes valores que toman los campos de una instancia",
+                    false
+                ],
+                [
+                    "Reducir el coste del entrenamiento de la Inteligencia Artificial",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el objetivo del Aprendizaje Automático No Supervisado?",
+            [
+                [
+                    "Encontrar alguna estructura o forma de organizar los datos históricos no etiquetados previamente.",
+                    true
+                ],
+                [
+                    "Ser capaz de hacer predicciones a partir de los datos históricos proporcionados.",
+                    false
+                ],
+                [
+                    "Que los robots aprendan solos.",
+                    false
+                ],
+                [
+                    "Dominar el mundo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es objetivo del Culstering (en el contexto del Aprendizaje Automático No Supervisado)?",
+            [
+                [
+                    "Ordenar y limpiar las instancias defectuosas para hacer un posterior entrenamiento supervisado.",
+                    false
+                ],
+                [
+                    "Hacer predicciones.",
+                    false
+                ],
+                [
+                    "Generar un mapa clasificatorio.",
+                    false
+                ],
+                [
+                    "Generar agrupaciones o clusters buscando las instancias que son similares entre sí.",
+                    true
+                ]
+            ]
         ]
     ],
     "MIA05": [
