@@ -2949,7 +2949,7 @@
     ],
     "BDA04": [
         [
-            "Para monitorizar un cl\u00faster Hadoop, en primer lugar hay que ver las m\u00e9tricas relacionadas con el sistema operativo: CPU, memoria, disco y red. \u00bfVerdadero o falso?",
+            "Para monitorizar un clúster Hadoop, en primer lugar hay que ver las métricas relacionadas con el sistema operativo: CPU, memoria, disco y red. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -2962,7 +2962,7 @@
             ]
         ],
         [
-            "El servicio Namenode UI permite ver cu\u00e1nto espacio est\u00e1 ocupando HDFS. \u00bfVerdadero o falso?",
+            "El servicio Namenode UI permite ver cuánto espacio está ocupando HDFS. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -2975,7 +2975,7 @@
             ]
         ],
         [
-            "Ambari permite iniciar una instalaci\u00f3n de Hadoop en un conjunto de servidores. \u00bfVerdadero o falso?",
+            "Ambari permite iniciar una instalación de Hadoop en un conjunto de servidores. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -2988,7 +2988,7 @@
             ]
         ],
         [
-            "Ganglia se puede complementar con Nagios para la gesti\u00f3n de alertas. \u00bfVerdadero o falso?",
+            "Ganglia se puede complementar con Nagios para la gestión de alertas. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3001,7 +3001,7 @@
             ]
         ],
         [
-            "El servicio ResourceManager UI permite ver los logs de ejecuci\u00f3n de las aplicaciones. \u00bfVerdadero o falso?",
+            "El servicio ResourceManager UI permite ver los logs de ejecución de las aplicaciones. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3014,7 +3014,7 @@
             ]
         ],
         [
-            "El servicio ResourceManager UI es sencillo, pero permite monitorizar y modificar par\u00e1metros de configuraci\u00f3n de YARN. \u00bfVerdadero o falso?",
+            "El servicio ResourceManager UI es sencillo, pero permite monitorizar y modificar parámetros de configuración de YARN. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3027,7 +3027,7 @@
             ]
         ],
         [
-            "Ambari incluye toda o casi toda la funcionalidad de Namenode UI. \u00bfVerdadero o falso?",
+            "Ambari incluye toda o casi toda la funcionalidad de Namenode UI. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3040,7 +3040,7 @@
             ]
         ],
         [
-            "Ganglia permite parar los servidores del cl\u00faster, pero no permite parar servicios concretos de Hadoop, como HDFS o Hive. \u00bfVerdadero o falso?",
+            "Ganglia permite parar los servidores del clúster, pero no permite parar servicios concretos de Hadoop, como HDFS o Hive. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3053,7 +3053,7 @@
             ]
         ],
         [
-            "Desde Cloudera Manager podr\u00eda simular la ca\u00edda de un servidor para hacer pruebas de tolerancia a fallos. \u00bfVerdadero o falso?",
+            "Desde Cloudera Manager podría simular la caída de un servidor para hacer pruebas de tolerancia a fallos. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3066,7 +3066,7 @@
             ]
         ],
         [
-            "\u00bfC\u00f3mo se llama el principal fichero de configuraci\u00f3n para el servicio YARN?",
+            "¿Cómo se llama el principal fichero de configuración para el servicio YARN?",
             [
                 [
                     "yarn-config.xml",
@@ -3087,7 +3087,7 @@
             ]
         ],
         [
-            "Ganglia se ejecuta en un nodo master o en un nodo frontera de un cl\u00faster. \u00bfVerdadero o falso?",
+            "Ganglia se ejecuta en un nodo master o en un nodo frontera de un clúster. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3100,7 +3100,7 @@
             ]
         ],
         [
-            "\u00bfC\u00f3mo se llama el principal fichero de configuraci\u00f3n para el servicio Hive?",
+            "¿Cómo se llama el principal fichero de configuración para el servicio Hive?",
             [
                 [
                     "hive-site.xml",
@@ -3121,7 +3121,7 @@
             ]
         ],
         [
-            "En Ambari puedo tener cuadros de mando a medida para monitorizar las m\u00e9tricas de salud que m\u00e1s me interesen. \u00bfVerdadero o falso?",
+            "En Ambari puedo tener cuadros de mando a medida para monitorizar las métricas de salud que más me interesen. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3134,7 +3134,7 @@
             ]
         ],
         [
-            "\u00bfC\u00f3mo se llama el principal fichero de configuraci\u00f3n para el servicio HDFS?",
+            "¿Cómo se llama el principal fichero de configuración para el servicio HDFS?",
             [
                 [
                     "core-config.xml",
@@ -3155,7 +3155,7 @@
             ]
         ],
         [
-            "Cloudera Manager tiene m\u00e1s o menos la misma funcionalidad que Ambari. \u00bfVerdadero o falso?",
+            "Cloudera Manager tiene más o menos la misma funcionalidad que Ambari. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3168,7 +3168,7 @@
             ]
         ],
         [
-            "Utilizando el comando top se puede ver el consumo de memoria de los diferentes procesos en el sistema operativo. \u00bfVerdadero o falso?",
+            "Utilizando el comando top se puede ver el consumo de memoria de los diferentes procesos en el sistema operativo. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3181,7 +3181,7 @@
             ]
         ],
         [
-            "Ganglia es una herramienta de Apache y del ecosistema Hadoop espec\u00edfica para monitorizar cl\u00fasters de servidores. \u00bfVerdadero o falso?",
+            "Ganglia es una herramienta de Apache y del ecosistema Hadoop específica para monitorizar clústers de servidores. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3194,7 +3194,7 @@
             ]
         ],
         [
-            "El servicio ResourceManager UI permite modificar las colas de ejecuci\u00f3n de aplicaciones en YARN. \u00bfVerdadero o falso?",
+            "El servicio ResourceManager UI permite modificar las colas de ejecución de aplicaciones en YARN. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3207,7 +3207,7 @@
             ]
         ],
         [
-            "Cloudera Manager sal\u00edo al mercado varios a\u00f1os antes que Ambari. \u00bfVerdadero o falso?",
+            "Cloudera Manager salió al mercado varios años antes que Ambari. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3220,7 +3220,85 @@
             ]
         ],
         [
-            "Ambari ofrece la posibilidad de que aplicaciones externas se comuniquen con ella para arrancar o parar servicios de forma autom\u00e1tica. \u00bfVerdadero o falso?",
+            "Ambari ofrece la posibilidad de que aplicaciones externas se comuniquen con ella para arrancar o parar servicios de forma autom\u00e1tica. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El servicio Namenode UI es sencillo, pero permite monitorizar y modificar parámetros de configuración de HDFS. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Utilizando el comando vmstat se puede ver el consumo de CPU de los diferentes procesos en el sistema operativo. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Si no existiera Ambari o Cloudera Manager, habría que modificar la configuración de todos los ficheros de configuración a mano, por ejemplo, con el comando vi. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En Ambari se puede realizar la ingesta de unos ficheros como administrador, para que luego los usuarios del clúster puedan utilizarlos. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Utilizando el comando dstat se puede ver el consumo de red de los diferentes procesos en el sistema operativo. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El servicio Namenode UI permite navegar por el sistema de ficheros de HDFS. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
