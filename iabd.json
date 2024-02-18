@@ -9021,5 +9021,943 @@
                 ]
             ]
         ]
+    ],
+    "PIA05": [
+        [
+            "¿Cómo se llama la técnica que nos permite encontrar o identificar el mínimo de la función de coste en una iteración del entrenamiento?",
+            [
+                [
+                    "Aislamiento del mínimo.",
+                    false
+                ],
+                [
+                    "Retorno del jedi",
+                    false
+                ],
+                [
+                    "Derivada multivarianza.",
+                    false
+                ],
+                [
+                    "Descenso del gradiente.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la diferencia clave de una red neuronal profunda respecto a otros modelos vistos?",
+            [
+                [
+                    "La estructura por capas.",
+                    true
+                ],
+                [
+                    "El cálculo de la distancia a los K vecinos más cercanos",
+                    false
+                ],
+                [
+                    "La utilización de la descomposición por serie de Fourier.",
+                    false
+                ],
+                [
+                    "Que se ejecuta en un ordenador.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la operación que realiza el perceptrón?",
+            [
+                [
+                    "La función lineal.",
+                    true
+                ],
+                [
+                    "Multiplicar el coeficiente 'a' por 'y'.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Usar coeficientes de tipo irracional multiplicando a 'x'.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la unidad básica de una red neuronal?",
+            [
+                [
+                    "La ecuación cuadrática.",
+                    false
+                ],
+                [
+                    "La función de coste.",
+                    false
+                ],
+                [
+                    "Los coeficientes 'pesos' o 'weights'.",
+                    false
+                ],
+                [
+                    "El perceptrón.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál sería el orden de las capas en un modelo de DNN (red neuronal profunda)?",
+            [
+                [
+                    "Capa de entrada, capas internas y capa de salida.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Capa de entrada, capa de salida y capas de visualización.",
+                    false
+                ],
+                [
+                    "Capa de entrada, capa de cálculo del error y una nueva capa de entrada.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuándo es necesario utilizar la capa Flatten en un modelo de DNN?",
+            [
+                [
+                    "Cuando los datos de entrada no son un array de una dimensión.",
+                    true
+                ],
+                [
+                    "Cuando las variables de entrada no son números enteros.",
+                    false
+                ],
+                [
+                    "Si estamos en un problema de detección de anomalías.",
+                    false
+                ],
+                [
+                    "Si la siguiente capa es de tipo Flubber.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué tipo de problemas no sería necesario contar con función de activación en el perceptrón?",
+            [
+                [
+                    "En problemas con dos o tres variables de entrada.",
+                    false
+                ],
+                [
+                    "En general no es necesaria.",
+                    false
+                ],
+                [
+                    "En problemas de tipo lineal.",
+                    true
+                ],
+                [
+                    "En problemas de tipo exponencial.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué clase utilizamos para crear las capas de un modelo DNN (red neuronal profunda)?",
+            [
+                [
+                    "LogisticRegression.",
+                    false
+                ],
+                [
+                    "Sequential.",
+                    true
+                ],
+                [
+                    "Neural.",
+                    false
+                ],
+                [
+                    "Layer.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué clase utilizamos para crear una red neuronal simple?",
+            [
+                [
+                    "Layer.",
+                    false
+                ],
+                [
+                    "Dense.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Network.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de activación es la más utilizada?",
+            [
+                [
+                    "Todas ellas.",
+                    true
+                ],
+                [
+                    "Relu.",
+                    false
+                ],
+                [
+                    "Softmax.",
+                    false
+                ],
+                [
+                    "Sigmoid.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de coste es la más indicada para problemas de clasificación binaria?",
+            [
+                [
+                    "Categorical Crossentropy.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Binary Crossentropy.",
+                    true
+                ],
+                [
+                    "Sparse Categorical Crossentropy.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de coste es la más indicada para problemas de clasificación múltiple con variables de salida de tipo categórico en formato one-hot encoding?",
+            [
+                [
+                    "Sparse Categorical Crossentropy.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Categorical Crossentropy.",
+                    true
+                ],
+                [
+                    "Binary Crossentropy.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de coste es la más indicada para problemas de clasificación binaria o múltiple pero con variables de salida en formato de números enteros?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Sparse Categorical Crossentropy.",
+                    true
+                ],
+                [
+                    "Categorical Crossentropy.",
+                    false
+                ],
+                [
+                    "Binary Crossentropy.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué método permite configurar parámetros para el entrenamiento?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "compile()",
+                    true
+                ],
+                [
+                    "layer()",
+                    false
+                ],
+                [
+                    "training()",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué método se encarga de llevar a cabo el entrenamiento de la DNN?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "train()",
+                    false
+                ],
+                [
+                    "fit()",
+                    true
+                ],
+                [
+                    "summary()",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué parámetro clave debemos pasarle a una capa Dense obligatoriamente?",
+            [
+                [
+                    "y, el vector de los datos de salida.",
+                    false
+                ],
+                [
+                    "Weghts, el valor de partida para los coeficientes",
+                    false
+                ],
+                [
+                    "X, el vector de los datos de entrada",
+                    false
+                ],
+                [
+                    "Units, el número de perceptrones o neuronas de la red.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Que representa el parámetro epochs, en el método fit()?",
+            [
+                [
+                    "El número de neuronas del modelo.",
+                    false
+                ],
+                [
+                    "El número de capas del modelo",
+                    false
+                ],
+                [
+                    "El número de muestras en que dividimos el dataset",
+                    false
+                ],
+                [
+                    "El número de iteraciones de ejecución del optimizador.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué representa la función de coste o Loss?",
+            [
+                [
+                    "El valor medio del error entre las variables de salida del modelo y las etiquetas reales.",
+                    true
+                ],
+                [
+                    "El valor medio de las diferencias entre los valores de entrada al modelo",
+                    false
+                ],
+                [
+                    "El valor estimado de la capacidad de cómputo necesaria para resolver el problema",
+                    false
+                ],
+                [
+                    "El valor del coste en euros de ejecutar el modelo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué tipo de valor del ratio de aprendizaje puede provocar inestabilidad en el entrenamiento de un modelo?",
+            [
+                [
+                    "Es demasiado alto.",
+                    true
+                ],
+                [
+                    "Es igual al ratio de error",
+                    false
+                ],
+                [
+                    "Es de tipo asíncrono",
+                    false
+                ],
+                [
+                    "Es demasiado bajo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué valores van variando a medida que se va dando el entrenamiento y su configuración en cada iteración nos van dando un valor concreto de Loss?",
+            [
+                [
+                    "Los valores de y.",
+                    false
+                ],
+                [
+                    "Los coeficientes w o 'pesos' del modelo",
+                    true
+                ],
+                [
+                    "Los valores de X.",
+                    false
+                ],
+                [
+                    "Los valores de las potencias de X.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un problema de clasificación binaria, ¿cuántas neuronas o perceptrones debe tener la capa de salida?",
+            [
+                [
+                    "Diez.",
+                    false
+                ],
+                [
+                    "Una",
+                    true
+                ],
+                [
+                    "Ninguna.",
+                    false
+                ],
+                [
+                    "Dos.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un problema de clasificación binaria, qué función de activación se suele utilizar en la capa de salida?",
+            [
+                [
+                    "Sigmoid.",
+                    true
+                ],
+                [
+                    "Relu.",
+                    false
+                ],
+                [
+                    "Adam.",
+                    false
+                ],
+                [
+                    "MSE.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El número de neuronas que debe tener cada capa viene perfectamente determinado por una tabla que se puede consultar en la documentación de Keras.",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El objetivo del entrenamiento de una red neuronal profunda es encontrar el mínimo global de la función de coste o Loss.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El optimizador Adam presenta un mejor comportamiento general y se recomienda utilizarlo en tus primeros entrenamientos.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El optimizador RMSprop converge más lentamente hacia el mínimo.",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En deep learning, lo más común es recurrir a cálculos de entropía cruzada para la minimización del error.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La función de activación Relu se suele utilizar siempre en las capas internas de un modelo basado en redes neuronales profundas.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La función de activación se aplica sobre el resultado del cálculo lineal en el perceptrón.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Las funciones de activación permiten resolver problemas no lineales aplicando cálculos lineales, gracias al encendido o apagado de distintos perceptrones.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ]
+    ],
+    "PIA06": [
+        [
+            "¿Cuál de éstas es la técnica más utilizada y efectiva para prevenir el overfitting en un entrenamiento de red neuronal profunda?",
+            [
+                [
+                    "Droping.",
+                    false
+                ],
+                [
+                    "Dorop.",
+                    false
+                ],
+                [
+                    "Dropout.",
+                    true
+                ],
+                [
+                    "Drawning.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El dropout rate es un parámetro de la clase Dropout",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El “overfitting” se da en un modelo de deep learning cuando los pesos de la red neuronal han llegado al mejor valor posible y aciertan siempre al 100%.",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "TensorBoard permite visualizar las métricas de Loss y accuracy tras el entrenamiento pero también durante el mismo.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué consiste la técnica de prevención del overfitting conocida como dropout?",
+            [
+                [
+                    "En multiplicar por 2 las salidas de varias neuronas al azar.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "En deshacerse de la salida de algunas neuronas al azar en cada capa antes de que entren en la siguiente.",
+                    true
+                ],
+                [
+                    "En doblar la red varias veces para quedarnos con una sola capa.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función sirve para comprobar la precisión real de un modelo de deep learning en Keras?",
+            [
+                [
+                    "precission()",
+                    false
+                ],
+                [
+                    "evaluate()",
+                    true
+                ],
+                [
+                    "monitoring()",
+                    false
+                ],
+                [
+                    "comprobar()",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se identifican las dos técnicas de regularización más comunes en Keras?",
+            [
+                [
+                    "Todas las anteriores",
+                    false
+                ],
+                [
+                    "L1 y L2.",
+                    true
+                ],
+                [
+                    "R1 y R2.",
+                    false
+                ],
+                [
+                    "U1 y U2.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué rango de valores suele estar el dropout rate?",
+            [
+                [
+                    "Entre 10 y 50.",
+                    false
+                ],
+                [
+                    "Entre 0 y 100.",
+                    false
+                ],
+                [
+                    "Entre 0,1 y 0,2.",
+                    false
+                ],
+                [
+                    "Entre 0,2 y 0,5.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué técnica nos permite monitorizar el posible overfitting en un entrenamiento con Keras?",
+            [
+                [
+                    "Reservar datos de validación del dataset y utilizarlos en fit, como parámetro “validation_data”.",
+                    true
+                ],
+                [
+                    "Aumentar mucho el número de epochs.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Cambiar los datos de entrenamiento y los de test en cada epoch alternativamente.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál de estas funcionalidades es característica de Tensorboard?",
+            [
+                [
+                    "Representación del modelo de tipo grafo.",
+                    false
+                ],
+                [
+                    "Todas las anteriores.",
+                    true
+                ],
+                [
+                    "Monitorizar de forma visual las métricas del entrenamiento.",
+                    false
+                ],
+                [
+                    "Histogramas de los coeficientes del modelo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una de las mejores formas de prevenir el overfitting es contar con una gran cantidad de datos, para minimizar el efecto de las anomalías y que el modelo sea lo más general posible.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Aplicando la técnica de dropout, el loss de los datos de validación mejora se suele mantener en valores más bajos que en el caso de aplicar regularización a un modelo de deep learning.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Si iniciamos TensorBoard antes del entrenamiento, lo podremos monitorizar mientras éste va transcurriendo.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama la técnica que limita el valor de los coeficientes de una red neuronal profunda para evitar el overfitting?",
+            [
+                [
+                    "Regularización.",
+                    true
+                ],
+                [
+                    "Trasposición.",
+                    false
+                ],
+                [
+                    "Planificación.",
+                    false
+                ],
+                [
+                    "Rutarización.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama el efecto debido a un exceso de particularización de los coeficientes del modelo de deep learning durante el entrenamiento?",
+            [
+                [
+                    "Overfitting o sobre-entrenamiento.",
+                    true
+                ],
+                [
+                    "Difracción.",
+                    false
+                ],
+                [
+                    "Dispersión.",
+                    false
+                ],
+                [
+                    "Entonación.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Para qué sirve la técnica de Batch Normalization o normalización por lotes?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Para filtrar mejor las anomalías.",
+                    false
+                ],
+                [
+                    "Para depurar los errores del modelo.",
+                    false
+                ],
+                [
+                    "Para mejorar la convergencia del gradiente.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Es bueno, para evitar el overfitting en el deep learning, empezar por el modelo más reducido posible y luego ir aumentando capas o neuronas si es necesario?",
+            [
+                [
+                    "Sí, cuanto más pequeño el modelo, menos error acumula.",
+                    false
+                ],
+                [
+                    "No, da igual.",
+                    false
+                ],
+                [
+                    "Sí, un modelo muy reducido tiene menos tendencia a “almacenar” información muy específica del entrenamiento.",
+                    true
+                ],
+                [
+                    "No, lo mejor es empezar por una red con muchas capas y muchas neuronas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El dropout rate es la fracción de variables que quedan sin anular en la capa de red neuronal a la que se aplica el dropout",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama el kit de herramientas de visualización de parámetros de entrenamiento de modelos de deep learning lanzado por Tensorflow?",
+            [
+                [
+                    "VisualFlow.",
+                    false
+                ],
+                [
+                    "TensorPanel.",
+                    false
+                ],
+                [
+                    "PanelFlow.",
+                    false
+                ],
+                [
+                    "TensorBoard.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se aplica la técnica de dropout en Keras?",
+            [
+                [
+                    "Se incluye el parámetro dropout.",
+                    false
+                ],
+                [
+                    "No hace falta hacer nada, se aplica por defecto.",
+                    false
+                ],
+                [
+                    "Se añade una capa de la clase Dropout después de una de tipo Dense.",
+                    true
+                ],
+                [
+                    "Se llama a la extensión Apply_Dropout al principio del código del notebook.",
+                    false
+                ],
+                [
+                    "True en el método compile",
+                    false
+                ]
+            ]
+        ]
     ]
 }
