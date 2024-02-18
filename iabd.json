@@ -7453,6 +7453,380 @@
             ]
         ]
     ],
+    "SAA04": [
+        [
+            "¿Cómo representa gráficamente BigML un modelo entrenado con el algoritmo “cluster”?",
+            [
+                [
+                    "Con cuadrados",
+                    false
+                ],
+                [
+                    "Con círculos",
+                    true
+                ],
+                [
+                    "Con gráficas X/Y en las que se pueden mostrar diferentes categorías en relación con el campo objetivo",
+                    false
+                ],
+                [
+                    "Con un diagrama de árbol",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML, en los modelos de entrenados con el algoritmo “cluster” no es posible hacer una evaluación posterior del modelo",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Para qué sirve la vista Scatterplot de los datasets en la plataforma BigML?",
+            [
+                [
+                    "Es lo mismo que los histogramas, pero con una palabra más sofisticada",
+                    false
+                ],
+                [
+                    "Para nada. No existe esa vista en BigML",
+                    false
+                ],
+                [
+                    "Para repasar relaciones entre las diferentes categorías de nuestro dataset, confrontándolas de dos en dos y ver las gráficas que generan",
+                    true
+                ],
+                [
+                    "La vista Scatterplot no está accesible en el apartado del dataset. Pertenece al entorno de evaluación del modelo ya entrenado",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Siempre que hagamos un modelo de Inteligencia Artificial (tanto con BigML como con cualquier otra plataforma) es conveniente reservar un 20% de los datos sin usarlos en la fase de entrenamiento para poder hacer posteriormente una evaluación realista del modelo.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuántos MB (mega bytes) puede tener una base de datos como máximo para poder trabajar con ella en la versión gratuita de BigML?",
+            [
+                [
+                    "8MB",
+                    false
+                ],
+                [
+                    "12MB",
+                    false
+                ],
+                [
+                    "4MB",
+                    false
+                ],
+                [
+                    "16MB",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En BigML al terminar un entrenamiento de aprendizaje automático ves diferentes representaciones gráficas del modelo dependiendo del algoritmo que hayas utilizado en dicho entrenamiento.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "A mayor número de instancias y categorías en un dataset mayor es el tiempo de cálculo en el entrenamiento.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML puedes iniciar entrenamientos de dos formas:",
+            [
+                [
+                    "Ninguna de las respuestas anteriores son válidas",
+                    false
+                ],
+                [
+                    "Mentira, solo hay una única forma",
+                    false
+                ],
+                [
+                    "De manera rápida (usando parámetros genéricos por la propia plataforma) o definiendo tú los parámetros disponibles para cada algoritmo",
+                    true
+                ],
+                [
+                    "Supervisada y Por refuerzo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿BigML sirve para analizar los datos con los que se va a trabajar antes de hacer un entrenamiento de Aprendizaje Automático?",
+            [
+                [
+                    "Sí, aunque no es la función principal de la plataforma",
+                    true
+                ],
+                [
+                    "No",
+                    false
+                ],
+                [
+                    "No, aunque te puedes descargar el archivos para hacer ese análisis por tu cuenta",
+                    false
+                ],
+                [
+                    "Es la función principal de esta plataforma",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML la vista “confidence” que se puede visualizar en un modelo ya entrenado con el algoritmo de Árbol de Decisión representa:",
+            [
+                [
+                    "La confitería del modelo",
+                    false
+                ],
+                [
+                    "La confidencia del modelo",
+                    false
+                ],
+                [
+                    "Las respuestas anteriores son todas correctas",
+                    false
+                ],
+                [
+                    "La confiabilidad del modelo",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En la plataforma BigML podemos seleccionar varias categorías a la vez como campo objetivo para realizar un entrenamiento.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Para utilizar la plataforma BigML es obligatorio pagar una suscripción.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo te puedes crear una cuenta en BigML?",
+            [
+                [
+                    "Con tu usuario Google",
+                    false
+                ],
+                [
+                    "Con tu usuario GitHub",
+                    false
+                ],
+                [
+                    "Con tu usuario de Amazon",
+                    false
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo puedes trabajar en la plataforma BigML con bases de datos propias (aportadas por ti)?",
+            [
+                [
+                    "Enviando el archivo de dicha base de datos a los administradores de la plataforma por correo electrónico y solicitando que la den de alta en el apartado “Datasets”.",
+                    false
+                ],
+                [
+                    "Cargando directamente el archivo de dicha base de datos en el apartado “Datasets”.",
+                    false
+                ],
+                [
+                    "Cargando el archivo de dicha base de datos en el apartado “Source” y luego generando el dataset correspondiente.",
+                    true
+                ],
+                [
+                    "No se puede",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Es posible editar el nombre de las categorías de un dataset en BigML?",
+            [
+                [
+                    "Sí, después de haber hecho el entrenamiento.",
+                    false
+                ],
+                [
+                    "Sí, en cualquier fase.",
+                    false
+                ],
+                [
+                    "Sí, antes de lanzar el entrenamiento.",
+                    true
+                ],
+                [
+                    "No",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML, una vez terminado entrenamientos supervisados con algoritmo de Árbol de Decisión podemos hacer predicciones:",
+            [
+                [
+                    "Introduciendo dato a dato un nuevo caso.",
+                    false
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    true
+                ],
+                [
+                    "Cargando a través de una base de dato múltiples casos a la vez.",
+                    false
+                ],
+                [
+                    "Introduciendo a la vez todos los datos de una nueva instancia",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué necesitas en BigML para poder hacer la evaluación de un modelo ya entrenado?",
+            [
+                [
+                    "Mucha paciencia.",
+                    false
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    false
+                ],
+                [
+                    "Introducir el mismo caso varias veces seguidas para ver si salen resultados distintos.",
+                    false
+                ],
+                [
+                    "Una base de datos que incluya también el campo objetivo en el entrenamiento, para que la herramienta pueda comparar caso a caso el resultado real con el pronosticado por el modelo",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Podemos utilizar el mismo dataset para hacer entrenamientos con algoritmos diferentes?",
+            [
+                [
+                    "Sí, de hecho es habitual en muchos casos para comparar niveles de exactitud y precisión alcanzados, para quedarse con el mejor modelo.",
+                    true
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    false
+                ],
+                [
+                    "No es recomendable.",
+                    false
+                ],
+                [
+                    "No.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Puede haber datos erróneos o perdidos en un dataset aunque no nos lo indique BigML en la visualización de dicho dataset?",
+            [
+                [
+                    "Sí, cuando BigML falla",
+                    false
+                ],
+                [
+                    "Sí, cuando en la base de datos se hayan rellenado casillas vacías de forma automática con ceros u otra información genérica.",
+                    true
+                ],
+                [
+                    "No.",
+                    false
+                ],
+                [
+                    "Normalmente no.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML la vista “prediction” que se puede visualizar en un modelo ya entrenado con el algoritmo de Árbol de Decisión representa:",
+            [
+                [
+                    "Las tres respuestas anteriores son válidas",
+                    false
+                ],
+                [
+                    "Los valores del campo objetivo que ha encontrado para cada caso.",
+                    true
+                ],
+                [
+                    "La predicción del tiempo",
+                    false
+                ],
+                [
+                    "La relación entre los datos esperados respecto a los predichos en la fase del dataset.",
+                    false
+                ]
+            ]
+        ]
+    ],
     "PIA01": [
         [
             "¿Cual de estas opciones contribuye a enriquecer tu experiencia como desarrollador de IA?",
