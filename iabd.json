@@ -7825,6 +7825,158 @@
                     false
                 ]
             ]
+        ],
+        [
+            "En BigML solo puedes hacer entrenamientos a partir de los datasets que te ofrecen en la propia plataforma",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Si encuentro un dataset en la plataforma BigML que me gusta, ¿puedo descargar la base de datos correspondiente en formato .csv?",
+            [
+                [
+                    "Sí",
+                    true
+                ],
+                [
+                    "Solo si el dataset ha sido incorporado a la plataforma por los administradores de la misma.",
+                    false
+                ],
+                [
+                    "No",
+                    false
+                ],
+                [
+                    "Sí, solicitándolo por mail a los administradores de la plataforma.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es BigML?",
+            [
+                [
+                    "Un tipo de algoritmo para aprendizaje automático.",
+                    false
+                ],
+                [
+                    "Una herramienta para simular redes neuronales.",
+                    false
+                ],
+                [
+                    "Ninguna de las respuestas anteriores es correcta.",
+                    false
+                ],
+                [
+                    "Una plataforma online que permite plantear y resolver problemas de aprendizaje automático.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En un entrenamiento de tipo “no supervisado” en BigML realizado con el algoritmo “cluster” podemos decidir hacerlo con K-Means (eligiendo nosotros el número de clusters) o con G-Means (dejando al propio modelo que decida cuántos clusters definir).",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Existen tutoriales para aprender a utilizar BigML?",
+            [
+                [
+                    "Sí, en la propia plataforma hay un buen número de vídeos tutoriales.",
+                    true
+                ],
+                [
+                    "Sí, pero hechos por particulares y dispersos por Youtube.",
+                    false
+                ],
+                [
+                    "No se sabe.",
+                    false
+                ],
+                [
+                    "No.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Se puede dividir en BigML un dataset para realizar el entrenamiento con una parte de los datos y reservar la otra para hacer posteriormente una evaluación del modelo ya entrenado?",
+            [
+                [
+                    "Sí, pudiendo definir exactamente qué tanto porciento de datos dedicas en cada parte.",
+                    true
+                ],
+                [
+                    "No",
+                    false
+                ],
+                [
+                    "Sí, pero te obligan a que sea siempre una separación del 80% para entrenamiento y 20% para evaluación.",
+                    false
+                ],
+                [
+                    "Sólo si se solicita a los administradores de la plataforma cuando les envías la base de datos por mail.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué datos de las categorías de unl dataset podemos previsualizar antes de decidir adquirirlo?",
+            [
+                [
+                    "Ninguno. Vamos a ciegas.",
+                    false
+                ],
+                [
+                    "Su nombre, tipología, cantidad, datos perdidos, datos erróneos y un histograma de distribución.",
+                    true
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    false
+                ],
+                [
+                    "Su nombre y cantidad.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué significan los términos “Accuracy” y “Precision” que podemos encontrar en las evaluaciones de modelos ya entrenados en la plataforma BigML?",
+            [
+                [
+                    "Automático y Precisión.",
+                    false
+                ],
+                [
+                    "Exactitud y Precisión.",
+                    true
+                ],
+                [
+                    "Ajuste y Precisión.",
+                    false
+                ],
+                [
+                    "Salud y Precisión.",
+                    false
+                ]
+            ]
         ]
     ],
     "PIA01": [
