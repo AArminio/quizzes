@@ -1,7 +1,8 @@
 {
   "Cuestionario de Linux de Prueba": [
-    {
-      "Se\u00f1alar qu\u00e9 fichero representar\u00eda la partici\u00f3n primaria 2 del tercer disco duro": [
+    [
+      "Se\u00f1alar qu\u00e9 fichero representar\u00eda la partici\u00f3n primaria 2 del tercer disco duro",
+      [
         [
           "/dev/sdb3",
           false
@@ -23,9 +24,10 @@
           false
         ]
       ]
-    },
-    {
-      "\u00bfQu\u00e9 comando permite mostrar informaci\u00f3n sobre los usuarios del sistema?": [
+    ],
+    [
+      "\u00bfQu\u00e9 comando permite mostrar informaci\u00f3n sobre los usuarios del sistema?",
+      [
         [
           "finger ",
           true
@@ -47,9 +49,10 @@
           false
         ]
       ]
-    },
-    {
-      "\u00bfCu\u00e1l es el resultado del siguiente script?\n#!/bin/bash\nNUM=0\nuntil [ $NUM -gt 10 ]; do\n   echo \"\\$NUM: $NUM\"\n   let NUM=$NUM+1\ndone": [
+    ],
+    [
+      "\u00bfCu\u00e1l es el resultado del siguiente script?\n#!/bin/bash\nNUM=0\nuntil [ $NUM -gt 10 ]; do\n   echo \"\\$NUM: $NUM\"\n   let NUM=$NUM+1\ndone",
+      [
         [
           "Se escribe el valor de una variable 11 veces, despu\u00e9s de incrementar su valor.",
           false
@@ -71,9 +74,10 @@
           false
         ]
       ]
-    },
-    {
-      "Si se tiene un fichero llamado fich.txt con los siguientes permisos rwxrwxrwx y se quieres que todos los usuarios del sistema puedan leer el fichero, pero que solamente el propietario pueda escribir y ejecutar, \u00bfqu\u00e9 orden he de utilizar?": [
+    ],
+    [
+      "Si se tiene un fichero llamado fich.txt con los siguientes permisos rwxrwxrwx y se quieres que todos los usuarios del sistema puedan leer el fichero, pero que solamente el propietario pueda escribir y ejecutar, \u00bfqu\u00e9 orden he de utilizar?",
+      [
         [
           "Todas son correctas",
           false
@@ -95,9 +99,10 @@
           true
         ]
       ]
-    },
-    {
-      "\u00bfQu\u00e9 comandos est\u00e1n relacionados con el archivo \"/etc/group\"?": [
+    ],
+    [
+      "\u00bfQu\u00e9 comandos est\u00e1n relacionados con el archivo \"/etc/group\"?",
+      [
         [
           "Ninguna de las otras respuestas es correcta. ",
           false
@@ -119,9 +124,10 @@
           true
         ]
       ]
-    },
-    {
-      "\u00bfQu\u00e9 extensi\u00f3n deber\u00eda tener un fichero fich1.c cuando est\u00e1 comprimido y empaquetado?": [
+    ],
+    [
+      "\u00bfQu\u00e9 extensi\u00f3n deber\u00eda tener un fichero fich1.c cuando est\u00e1 comprimido y empaquetado?",
+      [
         [
           ".c.gz",
           false
@@ -143,9 +149,10 @@
           false
         ]
       ]
-    },
-    {
-      "\u00bfQu\u00e9 comando se debe ejecutar para poder ver por pantalla y guardar en el fichero fich1 la informaci\u00f3n que aparece en la columna 8 al ejecutar ps -ef (procesos en ejecuci\u00f3n)?": [
+    ],
+    [
+      "\u00bfQu\u00e9 comando se debe ejecutar para poder ver por pantalla y guardar en el fichero fich1 la informaci\u00f3n que aparece en la columna 8 al ejecutar ps -ef (procesos en ejecuci\u00f3n)?",
+      [
         [
           "ps -ef | cut -d' ' -f8 | tee > fich1",
           false
@@ -167,9 +174,10 @@
           false
         ]
       ]
-    },
-    {
-      "Para poner en primer plano un trabajo utilizar\u00e9 el comando": [
+    ],
+    [
+      "Para poner en primer plano un trabajo utilizar\u00e9 el comando",
+      [
         [
           "Ninguna de las otras respuestas es correcta",
           false
@@ -191,9 +199,10 @@
           false
         ]
       ]
-    },
-    {
-      "Las \u00f3rdenes ejecutadas mediante los tres formatos...:\n1 - ord1;ord2;ord3  \n2 - (ord1;ord2;ord3)\n3 - ord1 & ord2 & ord3": [
+    ],
+    [
+      "Las \u00f3rdenes ejecutadas mediante los tres formatos...:\n1 - ord1;ord2;ord3  \n2 - (ord1;ord2;ord3)\n3 - ord1 & ord2 & ord3",
+      [
         [
           "... tienen el mismo resultado la 1 y 2 y no funciona la 3.\n ",
           false
@@ -215,9 +224,10 @@
           false
         ]
       ]
-    },
-    {
-      "\u00bfCu\u00e1l es el resultado de ejecutar el siguiente script?\nC11=3+4\necho \"1 - \" $C11\ntypeset -i C11\necho \"2 - \" $C11\nC11=\"SSSSSSSS\"\necho \"3 - \" $C11\nC11=3+4\necho \"4 - \" $C11": [
+    ],
+    [
+      "\u00bfCu\u00e1l es el resultado de ejecutar el siguiente script?\nC11=3+4\necho \"1 - \" $C11\ntypeset -i C11\necho \"2 - \" $C11\nC11=\"SSSSSSSS\"\necho \"3 - \" $C11\nC11=3+4\necho \"4 - \" $C11",
+      [
         [
           "1 - 3+4\n2 - 3+4\n3 - SSSSSSSS\n4 - 7",
           false
@@ -239,6 +249,6 @@
           false
         ]
       ]
-    }
+    ]
   ]
 }
