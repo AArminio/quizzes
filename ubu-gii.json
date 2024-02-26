@@ -1,0 +1,244 @@
+{
+  "Cuestionario de Linux de Prueba": [
+    {
+      "Se\u00f1alar qu\u00e9 fichero representar\u00eda la partici\u00f3n primaria 2 del tercer disco duro": [
+        [
+          "/dev/sdb3",
+          false
+        ],
+        [
+          "/dev/hdc2",
+          true
+        ],
+        [
+          "Ninguna de las respuestas anteriores es correcta",
+          false
+        ],
+        [
+          "/dev/hdb2",
+          false
+        ],
+        [
+          "/dev/sr3_2",
+          false
+        ]
+      ]
+    },
+    {
+      "\u00bfQu\u00e9 comando permite mostrar informaci\u00f3n sobre los usuarios del sistema?": [
+        [
+          "finger ",
+          true
+        ],
+        [
+          "moduser -i",
+          false
+        ],
+        [
+          "Ninguna de las otras respuestas es correcta",
+          false
+        ],
+        [
+          "userser -i",
+          false
+        ],
+        [
+          "shusers -i",
+          false
+        ]
+      ]
+    },
+    {
+      "\u00bfCu\u00e1l es el resultado del siguiente script?\n#!/bin/bash\nNUM=0\nuntil [ $NUM -gt 10 ]; do\n   echo \"\\$NUM: $NUM\"\n   let NUM=$NUM+1\ndone": [
+        [
+          "Se escribe el valor de una variable 11 veces, despu\u00e9s de incrementar su valor.",
+          false
+        ],
+        [
+          "Se escribe el valor de una variable 10 veces, despu\u00e9s de incrementar su valor.",
+          true
+        ],
+        [
+          "Se escribe el valor de una variable 9 veces, despu\u00e9s de incrementar su valor.",
+          false
+        ],
+        [
+          "Ninguna de las otras respuestas es correcta.",
+          false
+        ],
+        [
+          "Da un error",
+          false
+        ]
+      ]
+    },
+    {
+      "Si se tiene un fichero llamado fich.txt con los siguientes permisos rwxrwxrwx y se quieres que todos los usuarios del sistema puedan leer el fichero, pero que solamente el propietario pueda escribir y ejecutar, \u00bfqu\u00e9 orden he de utilizar?": [
+        [
+          "Todas son correctas",
+          false
+        ],
+        [
+          "chmod +wxr fich.txt",
+          false
+        ],
+        [
+          "chmod -wx+r fich.txt",
+          false
+        ],
+        [
+          "chmod 644 fich.txt",
+          false
+        ],
+        [
+          "chmod go-wx fich.txt",
+          true
+        ]
+      ]
+    },
+    {
+      "\u00bfQu\u00e9 comandos est\u00e1n relacionados con el archivo \"/etc/group\"?": [
+        [
+          "Ninguna de las otras respuestas es correcta. ",
+          false
+        ],
+        [
+          "No existen tales comandos ya que se hace a trav\u00e9s de la utilidad que genera el usuario.",
+          false
+        ],
+        [
+          "Los comandos:\n- Groupmod - Modificar grupos.\n- Gpasswd nombregrupo - Dar contrase\u00f1a al grupo.",
+          false
+        ],
+        [
+          "Los comandos:\n- groupadd nombregrupo - A\u00f1adir grupos\n- groupdel nombregrupo - Eliminar grupos. No se puede eliminar un grupo si al menos un usuario le tiene asignado como grupo primario.",
+          false
+        ],
+        [
+          "Los comandos:\n- groupadd nombregrupo - A\u00f1adir grupos\n- groupdel nombregrupo - Eliminar grupos. No se puede eliminar un grupo si al menos un usuario le tiene asignado como grupo primario.\n- Groupmod - Modificar grupos.\n- Gpasswd nombregrupo - Dar contrase\u00f1a al grupo.",
+          true
+        ]
+      ]
+    },
+    {
+      "\u00bfQu\u00e9 extensi\u00f3n deber\u00eda tener un fichero fich1.c cuando est\u00e1 comprimido y empaquetado?": [
+        [
+          ".c.gz",
+          false
+        ],
+        [
+          ".c.tar.gz",
+          false
+        ],
+        [
+          ".tar.gz",
+          true
+        ],
+        [
+          "Ninguna de las otras respuestas es correcta.",
+          false
+        ],
+        [
+          ".c.tar",
+          false
+        ]
+      ]
+    },
+    {
+      "\u00bfQu\u00e9 comando se debe ejecutar para poder ver por pantalla y guardar en el fichero fich1 la informaci\u00f3n que aparece en la columna 8 al ejecutar ps -ef (procesos en ejecuci\u00f3n)?": [
+        [
+          "ps -ef | cut -d' ' -f8 | tee > fich1",
+          false
+        ],
+        [
+          "ps -ef | cut -d' ' -f8 | tee fich1",
+          false
+        ],
+        [
+          "ps -ef | sed 's/\\s\\+/,/g' | cut -d , -f8 | tee fich1",
+          true
+        ],
+        [
+          "Ninguna de las otras respuestas es correcta",
+          false
+        ],
+        [
+          "ps -ef | cut -d' ' -f8 | tee >> fich1",
+          false
+        ]
+      ]
+    },
+    {
+      "Para poner en primer plano un trabajo utilizar\u00e9 el comando": [
+        [
+          "Ninguna de las otras respuestas es correcta",
+          false
+        ],
+        [
+          "fg -bg &(n\u00famero_trabajo)",
+          false
+        ],
+        [
+          "bg n\u00famero_trabajo",
+          false
+        ],
+        [
+          "fg n\u00famero_trabajo",
+          true
+        ],
+        [
+          "job n\u00famero_trabajo",
+          false
+        ]
+      ]
+    },
+    {
+      "Las \u00f3rdenes ejecutadas mediante los tres formatos...:\n1 - ord1;ord2;ord3  \n2 - (ord1;ord2;ord3)\n3 - ord1 & ord2 & ord3": [
+        [
+          "... tienen el mismo resultado la 1 y 2 y no funciona la 3.\n ",
+          false
+        ],
+        [
+          "... tienen el mismo resultado la 1 y 3 y no funciona la 2.",
+          false
+        ],
+        [
+          "... tienen el mismo resultado",
+          true
+        ],
+        [
+          "Ninguna de las otras respuestas es correcta.",
+          false
+        ],
+        [
+          "... no tienen el mismo resultado",
+          false
+        ]
+      ]
+    },
+    {
+      "\u00bfCu\u00e1l es el resultado de ejecutar el siguiente script?\nC11=3+4\necho \"1 - \" $C11\ntypeset -i C11\necho \"2 - \" $C11\nC11=\"SSSSSSSS\"\necho \"3 - \" $C11\nC11=3+4\necho \"4 - \" $C11": [
+        [
+          "1 - 3+4\n2 - 3+4\n3 - SSSSSSSS\n4 - 7",
+          false
+        ],
+        [
+          "1 - 3+4\n2 - 3+4\n3 - 1\n4 - 7",
+          false
+        ],
+        [
+          "1 - 3+4\n2 - 7\n3 - 0\n4 - 7",
+          false
+        ],
+        [
+          "1 - 3+4\n2 - 3+4\n3 - 0\n4 - 7",
+          true
+        ],
+        [
+          "Ninguna de las otras respuestas es correcta.",
+          false
+        ]
+      ]
+    }
+  ]
+}
