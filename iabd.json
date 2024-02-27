@@ -10631,6 +10631,116 @@
                     false
                 ]
             ]
+        ],
+        [
+            "¿Para qué se suele hacer la división train-test de los datos en un entrenamiento de un modelo de deep learning?",
+            [
+                [
+                    "Se usa solo parte de los datos para no tener que hacer muchos cálculos",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Se utilizan los datos “train” en el entrenamiento y los datos “test” para la evaluación.",
+                    true
+                ],
+                [
+                    "Se dividen para probar dos modelos diferentes y quedarnos con el mejor.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el objetivo de la regularización en el entrenamiento de una red neuronal profunda?",
+            [
+                [
+                    "Simplificar o aligerar el modelo, limitando su inercia.",
+                    true
+                ],
+                [
+                    "Filtrar las anomalías.",
+                    false
+                ],
+                [
+                    "Hacer que el entrenamiento sea más rápido.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Para iniciar la visualización con TensorBoard, se lanza con la función mágica %tensorboard.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Lo normal, en el entrenamiento de una red neuronal profunda, es que la precisión obtenida en el entrenamiento sea menor de la que tendremos con nuevos datos.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué herramienta de TensorBoard es de utilidad a la hora de aplicar optimización de hiperparámetros en un entrenamiento de deep learning?",
+            [
+                [
+                    "NeuroBoard.",
+                    false
+                ],
+                [
+                    "Hparams.",
+                    true
+                ],
+                [
+                    "Optiparams.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la forma más básica de detectar el overfitting?",
+            [
+                [
+                    "Aplicar el método evaluate al modelo utilizando los datos de test reservados.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    true
+                ],
+                [
+                    "Mirar el número de segundos que ha durado el entrenamiento y multiplicarlos por 5.",
+                    false
+                ],
+                [
+                    "Mirar si se enciende una luz verde en la esquina superior del ordenador durante el entrenamiento.",
+                    false
+                ]
+            ]
         ]
     ]
 }
