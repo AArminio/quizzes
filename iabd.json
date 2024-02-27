@@ -5807,6 +5807,153 @@
                     false
                 ]
             ]
+        ],
+        [
+            "SEMMA es:",
+            [
+                [
+                    "Un proceso cíclico.",
+                    false
+                ],
+                [
+                    "Una metodología para el proceso de minería de datos que goza de una cierta oficialidad al provenir de un proyecto de la Unión Europea.",
+                    false
+                ],
+                [
+                    "El acrónimo de una lista de pasos que se emplean en muchas ocasiones a modo de metodología para la minería de datos.",
+                    true
+                ],
+                [
+                    "Un proceso de para minería de datos con 6 fases.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En Python:",
+            [
+                [
+                    "No necesitamos declarar el tipo de datos de las variables.",
+                    true
+                ],
+                [
+                    "Asignamos valores a variables mediante <-.",
+                    false
+                ],
+                [
+                    "Mostramos valores mediante la función eco.",
+                    false
+                ],
+                [
+                    "Debemos declarar el tipo de datos de las variables antes de utilizarlas asignarles valores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "R es:",
+            [
+                [
+                    "Un lenguaje de programación interpretado de código abierto creado específicamente para facilitar el análisis de datos.",
+                    true
+                ],
+                [
+                    "Un lenguaje de programación interpretado de bajo nivel creado específicamente para facilitar el análisis de datos.",
+                    false
+                ],
+                [
+                    "Un lenguaje de programación de alto nivel, interpretado y propósito general.",
+                    false
+                ],
+                [
+                    "Un lenguaje de programación compilado de código abierto creado específicamente para facilitar el análisis de datos.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los arrays de NumPy:",
+            [
+                [
+                    "Son bidimensionales.",
+                    false
+                ],
+                [
+                    "Son multidimensionales sin necesidad de ser rectangulares.",
+                    false
+                ],
+                [
+                    "Son multidimensionales y rectangulares.",
+                    true
+                ],
+                [
+                    "Son monodimensionales.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Un algoritmo es:",
+            [
+                [
+                    "Un conjunto de instrucciones que realizadas en orden permiten solucionar un problema.",
+                    true
+                ],
+                [
+                    "Un conjunto de instrucciones a emplear como base para crear un diagrama de flujo.",
+                    false
+                ],
+                [
+                    "Cualquier serie de comandos para una computadora.",
+                    false
+                ],
+                [
+                    "Un conjunto de instrucciones que realizadas en paralelo permiten solucionar un problema.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Uno de los siguientes no es uno de los pasos de CRISP-DM:",
+            [
+                [
+                    "Modelado.",
+                    false
+                ],
+                [
+                    "Comprensión de los datos.",
+                    false
+                ],
+                [
+                    "Modificación de los datos.",
+                    true
+                ],
+                [
+                    "Comprensión del negocio.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Para importar la librería Pandas en Python usaremos una línea como la siguiente:",
+            [
+                [
+                    "import pandas.pd",
+                    false
+                ],
+                [
+                    "load pandas",
+                    false
+                ],
+                [
+                    "export pandas as pd",
+                    false
+                ],
+                [
+                    "import pandas as pd",
+                    true
+                ]
+            ]
         ]
     ],
     "SBD05": [
