@@ -3800,6 +3800,105 @@
                     false
                 ]
             ]
+        ],
+        [
+            "¿Cómo se llama el máximo responsable de las políticas de uso y control de los datos en una empresa?",
+            [
+                [
+                    "GDPR",
+                    false
+                ],
+                [
+                    "CTO",
+                    false
+                ],
+                [
+                    "CDO",
+                    true
+                ],
+                [
+                    "CIO",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Uno de los beneficios de los Data Lakes frente a los Datawarehouses es que permiten procesar cualquier tipo de dato, no sólo datos estructurados. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los datos que llegan a un Data Lake suelen pasar por un proceso de validación, limpieza o normalización para poder ser explotados. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los datos que llegan a un Data Lake suelen pasar por un proceso de validación, limpieza o normalización para poder ser explotados. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Un plan de capacidad requiere conocer qué necesidades de datos tendrá una plataforma. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un entorno multitenancy es importante definir una estructura de directorios clara. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la adopción de un Hadoop on-premise, no es muy importante dimensionar adecuadamente la plataforma porque es escalable. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
         ]
     ],
     "SBD01": [
