@@ -1561,6 +1561,195 @@
                     false
                 ]
             ]
+        ],
+        [
+            "\u00bfQu\u00e9 se busca predecir en una regresi\u00f3n (en el contexto del Aprendizaje Autom\u00e1tico Supervisado)?",
+            [
+                [
+                    "Un valor num\u00e9rico",
+                    true
+                ],
+                [
+                    "Un conjunto de instancias con similitudes",
+                    false
+                ],
+                [
+                    "Una categoría predominante",
+                    false
+                ],
+                [
+                    "El precio de un inmueble",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Si quieres entrenar un modelo de Inteligencia Artificial mediante Aprendizaje Autom\u00e1tico para predecir un diagn\u00f3stico m\u00e9dico ¿qu\u00e9 problema utilizar\u00e1s?",
+            [
+                [
+                    "Regresi\u00f3n",
+                    false
+                ],
+                [
+                    "Clasificaci\u00f3n",
+                    true
+                ],
+                [
+                    "Clusterizaci\u00f3n",
+                    false
+                ],
+                [
+                    "Detecci\u00f3n de anomal\u00edas",
+                    false
+                ]
+            ]
+        ],
+        [
+            "\u00bfQu\u00e9 se busca predecir en una clasificaci\u00f3n (en el contexto del Aprendizaje Autom\u00e1tico Supervisado)?",
+            [
+                [
+                    "Una categor\u00eda predominante",
+                    false
+                ],
+                [
+                    "Un conjunto de instancias con similitudes",
+                    false
+                ],
+                [
+                    "Un valor num\u00e9rico",
+                    false
+                ],
+                [
+                    "La categor\u00eda a la que pertenece el campo objetivo de la instancia dada",
+                    true
+                ]
+            ]
+        ],
+        [
+            "\u00bfQu\u00e9 son las instancias cuando hablamos de Aprendizaje Autom\u00e1tico?",
+            [
+                [
+                    "Cada uno de los elementos que forman el conjunto de datos que se proporcionan para dicho Aprendizaje Autom\u00e1tico",
+                    true
+                ],
+                [
+                    "El conjunto de resultados que esperamos obtener",
+                    false
+                ],
+                [
+                    "Los documentos necesarios para solicitar el permiso de realizar dicho Aprendizaje Autom\u00e1tico",
+                    false
+                ],
+                [
+                    "El tiempo que hay que esperar para que la Inteligencia Artificial entrene el modelo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El Machine Learning (Aprendizaje Autom\u00e1tico) genera un gran inter\u00e9s en toda la sociedad, especialmente desde el año…",
+            [
+                [
+                    "2009",
+                    false
+                ],
+                [
+                    "2000",
+                    false
+                ],
+                [
+                    "2016",
+                    true
+                ],
+                [
+                    "2022",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué tres tipos de problemas se puede dividir el Aprendizaje Automático No Supervisado?",
+            [
+                [
+                    "Regresión, Clasificación y Refuerzo.",
+                    false
+                ],
+                [
+                    "Clustering, Detección de Anomalías y Asociaciones",
+                    true
+                ],
+                [
+                    "Similitudes, Diferencias y Asociaciones",
+                    false
+                ],
+                [
+                    "Árbol de decisión, Bayesianos y Reducción",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es lo que se busca en los problemas de Detección de Anomalías (en el contexto del Aprendizaje Automático No Supervisado)?",
+            [
+                [
+                    "Detectar instancias que se diferencian de las demás",
+                    true
+                ],
+                [
+                    "Detectar qué grupos o clusters son los más poblados",
+                    false
+                ],
+                [
+                    "Encontrar relaciones entre los diferentes valores que toman los campos de una instancia",
+                    false
+                ],
+                [
+                    "Reducir el coste del entrenamiento de la Inteligencia Artificial",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el objetivo del Aprendizaje Automático No Supervisado?",
+            [
+                [
+                    "Encontrar alguna estructura o forma de organizar los datos históricos no etiquetados previamente.",
+                    true
+                ],
+                [
+                    "Ser capaz de hacer predicciones a partir de los datos históricos proporcionados.",
+                    false
+                ],
+                [
+                    "Que los robots aprendan solos.",
+                    false
+                ],
+                [
+                    "Dominar el mundo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es objetivo del Culstering (en el contexto del Aprendizaje Automático No Supervisado)?",
+            [
+                [
+                    "Ordenar y limpiar las instancias defectuosas para hacer un posterior entrenamiento supervisado.",
+                    false
+                ],
+                [
+                    "Hacer predicciones.",
+                    false
+                ],
+                [
+                    "Generar un mapa clasificatorio.",
+                    false
+                ],
+                [
+                    "Generar agrupaciones o clusters buscando las instancias que son similares entre sí.",
+                    true
+                ]
+            ]
         ]
     ],
     "MIA05": [
@@ -2949,7 +3138,7 @@
     ],
     "BDA04": [
         [
-            "Para monitorizar un cl\u00faster Hadoop, en primer lugar hay que ver las m\u00e9tricas relacionadas con el sistema operativo: CPU, memoria, disco y red. \u00bfVerdadero o falso?",
+            "Para monitorizar un clúster Hadoop, en primer lugar hay que ver las métricas relacionadas con el sistema operativo: CPU, memoria, disco y red. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -2962,7 +3151,7 @@
             ]
         ],
         [
-            "El servicio Namenode UI permite ver cu\u00e1nto espacio est\u00e1 ocupando HDFS. \u00bfVerdadero o falso?",
+            "El servicio Namenode UI permite ver cuánto espacio está ocupando HDFS. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -2975,7 +3164,7 @@
             ]
         ],
         [
-            "Ambari permite iniciar una instalaci\u00f3n de Hadoop en un conjunto de servidores. \u00bfVerdadero o falso?",
+            "Ambari permite iniciar una instalación de Hadoop en un conjunto de servidores. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -2988,7 +3177,7 @@
             ]
         ],
         [
-            "Ganglia se puede complementar con Nagios para la gesti\u00f3n de alertas. \u00bfVerdadero o falso?",
+            "Ganglia se puede complementar con Nagios para la gestión de alertas. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3001,7 +3190,7 @@
             ]
         ],
         [
-            "El servicio ResourceManager UI permite ver los logs de ejecuci\u00f3n de las aplicaciones. \u00bfVerdadero o falso?",
+            "El servicio ResourceManager UI permite ver los logs de ejecución de las aplicaciones. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3014,7 +3203,7 @@
             ]
         ],
         [
-            "El servicio ResourceManager UI es sencillo, pero permite monitorizar y modificar par\u00e1metros de configuraci\u00f3n de YARN. \u00bfVerdadero o falso?",
+            "El servicio ResourceManager UI es sencillo, pero permite monitorizar y modificar parámetros de configuración de YARN. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3027,7 +3216,7 @@
             ]
         ],
         [
-            "Ambari incluye toda o casi toda la funcionalidad de Namenode UI. \u00bfVerdadero o falso?",
+            "Ambari incluye toda o casi toda la funcionalidad de Namenode UI. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3040,7 +3229,7 @@
             ]
         ],
         [
-            "Ganglia permite parar los servidores del cl\u00faster, pero no permite parar servicios concretos de Hadoop, como HDFS o Hive. \u00bfVerdadero o falso?",
+            "Ganglia permite parar los servidores del clúster, pero no permite parar servicios concretos de Hadoop, como HDFS o Hive. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3053,7 +3242,7 @@
             ]
         ],
         [
-            "Desde Cloudera Manager podr\u00eda simular la ca\u00edda de un servidor para hacer pruebas de tolerancia a fallos. \u00bfVerdadero o falso?",
+            "Desde Cloudera Manager podría simular la caída de un servidor para hacer pruebas de tolerancia a fallos. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3066,7 +3255,7 @@
             ]
         ],
         [
-            "\u00bfC\u00f3mo se llama el principal fichero de configuraci\u00f3n para el servicio YARN?",
+            "¿Cómo se llama el principal fichero de configuración para el servicio YARN?",
             [
                 [
                     "yarn-config.xml",
@@ -3087,7 +3276,7 @@
             ]
         ],
         [
-            "Ganglia se ejecuta en un nodo master o en un nodo frontera de un cl\u00faster. \u00bfVerdadero o falso?",
+            "Ganglia se ejecuta en un nodo master o en un nodo frontera de un clúster. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3100,7 +3289,7 @@
             ]
         ],
         [
-            "\u00bfC\u00f3mo se llama el principal fichero de configuraci\u00f3n para el servicio Hive?",
+            "¿Cómo se llama el principal fichero de configuración para el servicio Hive?",
             [
                 [
                     "hive-site.xml",
@@ -3121,7 +3310,7 @@
             ]
         ],
         [
-            "En Ambari puedo tener cuadros de mando a medida para monitorizar las m\u00e9tricas de salud que m\u00e1s me interesen. \u00bfVerdadero o falso?",
+            "En Ambari puedo tener cuadros de mando a medida para monitorizar las métricas de salud que más me interesen. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3134,7 +3323,7 @@
             ]
         ],
         [
-            "\u00bfC\u00f3mo se llama el principal fichero de configuraci\u00f3n para el servicio HDFS?",
+            "¿Cómo se llama el principal fichero de configuración para el servicio HDFS?",
             [
                 [
                     "core-config.xml",
@@ -3155,7 +3344,7 @@
             ]
         ],
         [
-            "Cloudera Manager tiene m\u00e1s o menos la misma funcionalidad que Ambari. \u00bfVerdadero o falso?",
+            "Cloudera Manager tiene más o menos la misma funcionalidad que Ambari. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3168,7 +3357,7 @@
             ]
         ],
         [
-            "Utilizando el comando top se puede ver el consumo de memoria de los diferentes procesos en el sistema operativo. \u00bfVerdadero o falso?",
+            "Utilizando el comando top se puede ver el consumo de memoria de los diferentes procesos en el sistema operativo. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3181,7 +3370,7 @@
             ]
         ],
         [
-            "Ganglia es una herramienta de Apache y del ecosistema Hadoop espec\u00edfica para monitorizar cl\u00fasters de servidores. \u00bfVerdadero o falso?",
+            "Ganglia es una herramienta de Apache y del ecosistema Hadoop específica para monitorizar clústers de servidores. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3194,7 +3383,7 @@
             ]
         ],
         [
-            "El servicio ResourceManager UI permite modificar las colas de ejecuci\u00f3n de aplicaciones en YARN. \u00bfVerdadero o falso?",
+            "El servicio ResourceManager UI permite modificar las colas de ejecución de aplicaciones en YARN. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3207,7 +3396,7 @@
             ]
         ],
         [
-            "Cloudera Manager sal\u00edo al mercado varios a\u00f1os antes que Ambari. \u00bfVerdadero o falso?",
+            "Cloudera Manager salió al mercado varios años antes que Ambari. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3220,7 +3409,85 @@
             ]
         ],
         [
-            "Ambari ofrece la posibilidad de que aplicaciones externas se comuniquen con ella para arrancar o parar servicios de forma autom\u00e1tica. \u00bfVerdadero o falso?",
+            "Ambari ofrece la posibilidad de que aplicaciones externas se comuniquen con ella para arrancar o parar servicios de forma autom\u00e1tica. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El servicio Namenode UI es sencillo, pero permite monitorizar y modificar parámetros de configuración de HDFS. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Utilizando el comando vmstat se puede ver el consumo de CPU de los diferentes procesos en el sistema operativo. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Si no existiera Ambari o Cloudera Manager, habría que modificar la configuración de todos los ficheros de configuración a mano, por ejemplo, con el comando vi. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En Ambari se puede realizar la ingesta de unos ficheros como administrador, para que luego los usuarios del clúster puedan utilizarlos. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Utilizando el comando dstat se puede ver el consumo de red de los diferentes procesos en el sistema operativo. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El servicio Namenode UI permite navegar por el sistema de ficheros de HDFS. ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
@@ -3531,6 +3798,105 @@
                 [
                     "Operacionales",
                     false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama el máximo responsable de las políticas de uso y control de los datos en una empresa?",
+            [
+                [
+                    "GDPR",
+                    false
+                ],
+                [
+                    "CTO",
+                    false
+                ],
+                [
+                    "CDO",
+                    true
+                ],
+                [
+                    "CIO",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Uno de los beneficios de los Data Lakes frente a los Datawarehouses es que permiten procesar cualquier tipo de dato, no sólo datos estructurados. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los datos que llegan a un Data Lake suelen pasar por un proceso de validación, limpieza o normalización para poder ser explotados. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los datos que llegan a un Data Lake suelen pasar por un proceso de validación, limpieza o normalización para poder ser explotados. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Un plan de capacidad requiere conocer qué necesidades de datos tendrá una plataforma. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un entorno multitenancy es importante definir una estructura de directorios clara. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la adopción de un Hadoop on-premise, no es muy importante dimensionar adecuadamente la plataforma porque es escalable. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
                 ]
             ]
         ]
@@ -5540,6 +5906,153 @@
                     false
                 ]
             ]
+        ],
+        [
+            "SEMMA es:",
+            [
+                [
+                    "Un proceso cíclico.",
+                    false
+                ],
+                [
+                    "Una metodología para el proceso de minería de datos que goza de una cierta oficialidad al provenir de un proyecto de la Unión Europea.",
+                    false
+                ],
+                [
+                    "El acrónimo de una lista de pasos que se emplean en muchas ocasiones a modo de metodología para la minería de datos.",
+                    true
+                ],
+                [
+                    "Un proceso de para minería de datos con 6 fases.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En Python:",
+            [
+                [
+                    "No necesitamos declarar el tipo de datos de las variables.",
+                    true
+                ],
+                [
+                    "Asignamos valores a variables mediante <-.",
+                    false
+                ],
+                [
+                    "Mostramos valores mediante la función eco.",
+                    false
+                ],
+                [
+                    "Debemos declarar el tipo de datos de las variables antes de utilizarlas asignarles valores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "R es:",
+            [
+                [
+                    "Un lenguaje de programación interpretado de código abierto creado específicamente para facilitar el análisis de datos.",
+                    true
+                ],
+                [
+                    "Un lenguaje de programación interpretado de bajo nivel creado específicamente para facilitar el análisis de datos.",
+                    false
+                ],
+                [
+                    "Un lenguaje de programación de alto nivel, interpretado y propósito general.",
+                    false
+                ],
+                [
+                    "Un lenguaje de programación compilado de código abierto creado específicamente para facilitar el análisis de datos.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los arrays de NumPy:",
+            [
+                [
+                    "Son bidimensionales.",
+                    false
+                ],
+                [
+                    "Son multidimensionales sin necesidad de ser rectangulares.",
+                    false
+                ],
+                [
+                    "Son multidimensionales y rectangulares.",
+                    true
+                ],
+                [
+                    "Son monodimensionales.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Un algoritmo es:",
+            [
+                [
+                    "Un conjunto de instrucciones que realizadas en orden permiten solucionar un problema.",
+                    true
+                ],
+                [
+                    "Un conjunto de instrucciones a emplear como base para crear un diagrama de flujo.",
+                    false
+                ],
+                [
+                    "Cualquier serie de comandos para una computadora.",
+                    false
+                ],
+                [
+                    "Un conjunto de instrucciones que realizadas en paralelo permiten solucionar un problema.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Uno de los siguientes no es uno de los pasos de CRISP-DM:",
+            [
+                [
+                    "Modelado.",
+                    false
+                ],
+                [
+                    "Comprensión de los datos.",
+                    false
+                ],
+                [
+                    "Modificación de los datos.",
+                    true
+                ],
+                [
+                    "Comprensión del negocio.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Para importar la librería Pandas en Python usaremos una línea como la siguiente:",
+            [
+                [
+                    "import pandas.pd",
+                    false
+                ],
+                [
+                    "load pandas",
+                    false
+                ],
+                [
+                    "export pandas as pd",
+                    false
+                ],
+                [
+                    "import pandas as pd",
+                    true
+                ]
+            ]
         ]
     ],
     "SBD05": [
@@ -7186,6 +7699,532 @@
             ]
         ]
     ],
+    "SAA04": [
+        [
+            "¿Cómo representa gráficamente BigML un modelo entrenado con el algoritmo “cluster”?",
+            [
+                [
+                    "Con cuadrados",
+                    false
+                ],
+                [
+                    "Con círculos",
+                    true
+                ],
+                [
+                    "Con gráficas X/Y en las que se pueden mostrar diferentes categorías en relación con el campo objetivo",
+                    false
+                ],
+                [
+                    "Con un diagrama de árbol",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML, en los modelos de entrenados con el algoritmo “cluster” no es posible hacer una evaluación posterior del modelo",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Para qué sirve la vista Scatterplot de los datasets en la plataforma BigML?",
+            [
+                [
+                    "Es lo mismo que los histogramas, pero con una palabra más sofisticada",
+                    false
+                ],
+                [
+                    "Para nada. No existe esa vista en BigML",
+                    false
+                ],
+                [
+                    "Para repasar relaciones entre las diferentes categorías de nuestro dataset, confrontándolas de dos en dos y ver las gráficas que generan",
+                    true
+                ],
+                [
+                    "La vista Scatterplot no está accesible en el apartado del dataset. Pertenece al entorno de evaluación del modelo ya entrenado",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Siempre que hagamos un modelo de Inteligencia Artificial (tanto con BigML como con cualquier otra plataforma) es conveniente reservar un 20% de los datos sin usarlos en la fase de entrenamiento para poder hacer posteriormente una evaluación realista del modelo.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuántos MB (mega bytes) puede tener una base de datos como máximo para poder trabajar con ella en la versión gratuita de BigML?",
+            [
+                [
+                    "8MB",
+                    false
+                ],
+                [
+                    "12MB",
+                    false
+                ],
+                [
+                    "4MB",
+                    false
+                ],
+                [
+                    "16MB",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En BigML al terminar un entrenamiento de aprendizaje automático ves diferentes representaciones gráficas del modelo dependiendo del algoritmo que hayas utilizado en dicho entrenamiento.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "A mayor número de instancias y categorías en un dataset mayor es el tiempo de cálculo en el entrenamiento.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML puedes iniciar entrenamientos de dos formas:",
+            [
+                [
+                    "Ninguna de las respuestas anteriores son válidas",
+                    false
+                ],
+                [
+                    "Mentira, solo hay una única forma",
+                    false
+                ],
+                [
+                    "De manera rápida (usando parámetros genéricos por la propia plataforma) o definiendo tú los parámetros disponibles para cada algoritmo",
+                    true
+                ],
+                [
+                    "Supervisada y Por refuerzo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿BigML sirve para analizar los datos con los que se va a trabajar antes de hacer un entrenamiento de Aprendizaje Automático?",
+            [
+                [
+                    "Sí, aunque no es la función principal de la plataforma",
+                    true
+                ],
+                [
+                    "No",
+                    false
+                ],
+                [
+                    "No, aunque te puedes descargar el archivos para hacer ese análisis por tu cuenta",
+                    false
+                ],
+                [
+                    "Es la función principal de esta plataforma",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML la vista “confidence” que se puede visualizar en un modelo ya entrenado con el algoritmo de Árbol de Decisión representa:",
+            [
+                [
+                    "La confitería del modelo",
+                    false
+                ],
+                [
+                    "La confidencia del modelo",
+                    false
+                ],
+                [
+                    "Las respuestas anteriores son todas correctas",
+                    false
+                ],
+                [
+                    "La confiabilidad del modelo",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En la plataforma BigML podemos seleccionar varias categorías a la vez como campo objetivo para realizar un entrenamiento.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Para utilizar la plataforma BigML es obligatorio pagar una suscripción.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo te puedes crear una cuenta en BigML?",
+            [
+                [
+                    "Con tu usuario Google",
+                    false
+                ],
+                [
+                    "Con tu usuario GitHub",
+                    false
+                ],
+                [
+                    "Con tu usuario de Amazon",
+                    false
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo puedes trabajar en la plataforma BigML con bases de datos propias (aportadas por ti)?",
+            [
+                [
+                    "Enviando el archivo de dicha base de datos a los administradores de la plataforma por correo electrónico y solicitando que la den de alta en el apartado “Datasets”.",
+                    false
+                ],
+                [
+                    "Cargando directamente el archivo de dicha base de datos en el apartado “Datasets”.",
+                    false
+                ],
+                [
+                    "Cargando el archivo de dicha base de datos en el apartado “Source” y luego generando el dataset correspondiente.",
+                    true
+                ],
+                [
+                    "No se puede",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Es posible editar el nombre de las categorías de un dataset en BigML?",
+            [
+                [
+                    "Sí, después de haber hecho el entrenamiento.",
+                    false
+                ],
+                [
+                    "Sí, en cualquier fase.",
+                    false
+                ],
+                [
+                    "Sí, antes de lanzar el entrenamiento.",
+                    true
+                ],
+                [
+                    "No",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML, una vez terminado entrenamientos supervisados con algoritmo de Árbol de Decisión podemos hacer predicciones:",
+            [
+                [
+                    "Introduciendo dato a dato un nuevo caso.",
+                    false
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    true
+                ],
+                [
+                    "Cargando a través de una base de dato múltiples casos a la vez.",
+                    false
+                ],
+                [
+                    "Introduciendo a la vez todos los datos de una nueva instancia",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué necesitas en BigML para poder hacer la evaluación de un modelo ya entrenado?",
+            [
+                [
+                    "Mucha paciencia.",
+                    false
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    false
+                ],
+                [
+                    "Introducir el mismo caso varias veces seguidas para ver si salen resultados distintos.",
+                    false
+                ],
+                [
+                    "Una base de datos que incluya también el campo objetivo en el entrenamiento, para que la herramienta pueda comparar caso a caso el resultado real con el pronosticado por el modelo",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Podemos utilizar el mismo dataset para hacer entrenamientos con algoritmos diferentes?",
+            [
+                [
+                    "Sí, de hecho es habitual en muchos casos para comparar niveles de exactitud y precisión alcanzados, para quedarse con el mejor modelo.",
+                    true
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    false
+                ],
+                [
+                    "No es recomendable.",
+                    false
+                ],
+                [
+                    "No.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Puede haber datos erróneos o perdidos en un dataset aunque no nos lo indique BigML en la visualización de dicho dataset?",
+            [
+                [
+                    "Sí, cuando BigML falla",
+                    false
+                ],
+                [
+                    "Sí, cuando en la base de datos se hayan rellenado casillas vacías de forma automática con ceros u otra información genérica.",
+                    true
+                ],
+                [
+                    "No.",
+                    false
+                ],
+                [
+                    "Normalmente no.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML la vista “prediction” que se puede visualizar en un modelo ya entrenado con el algoritmo de Árbol de Decisión representa:",
+            [
+                [
+                    "Las tres respuestas anteriores son válidas",
+                    false
+                ],
+                [
+                    "Los valores del campo objetivo que ha encontrado para cada caso.",
+                    true
+                ],
+                [
+                    "La predicción del tiempo",
+                    false
+                ],
+                [
+                    "La relación entre los datos esperados respecto a los predichos en la fase del dataset.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En BigML solo puedes hacer entrenamientos a partir de los datasets que te ofrecen en la propia plataforma",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Si encuentro un dataset en la plataforma BigML que me gusta, ¿puedo descargar la base de datos correspondiente en formato .csv?",
+            [
+                [
+                    "Sí",
+                    true
+                ],
+                [
+                    "Solo si el dataset ha sido incorporado a la plataforma por los administradores de la misma.",
+                    false
+                ],
+                [
+                    "No",
+                    false
+                ],
+                [
+                    "Sí, solicitándolo por mail a los administradores de la plataforma.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es BigML?",
+            [
+                [
+                    "Un tipo de algoritmo para aprendizaje automático.",
+                    false
+                ],
+                [
+                    "Una herramienta para simular redes neuronales.",
+                    false
+                ],
+                [
+                    "Ninguna de las respuestas anteriores es correcta.",
+                    false
+                ],
+                [
+                    "Una plataforma online que permite plantear y resolver problemas de aprendizaje automático.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En un entrenamiento de tipo “no supervisado” en BigML realizado con el algoritmo “cluster” podemos decidir hacerlo con K-Means (eligiendo nosotros el número de clusters) o con G-Means (dejando al propio modelo que decida cuántos clusters definir).",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Existen tutoriales para aprender a utilizar BigML?",
+            [
+                [
+                    "Sí, en la propia plataforma hay un buen número de vídeos tutoriales.",
+                    true
+                ],
+                [
+                    "Sí, pero hechos por particulares y dispersos por Youtube.",
+                    false
+                ],
+                [
+                    "No se sabe.",
+                    false
+                ],
+                [
+                    "No.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Se puede dividir en BigML un dataset para realizar el entrenamiento con una parte de los datos y reservar la otra para hacer posteriormente una evaluación del modelo ya entrenado?",
+            [
+                [
+                    "Sí, pudiendo definir exactamente qué tanto porciento de datos dedicas en cada parte.",
+                    true
+                ],
+                [
+                    "No",
+                    false
+                ],
+                [
+                    "Sí, pero te obligan a que sea siempre una separación del 80% para entrenamiento y 20% para evaluación.",
+                    false
+                ],
+                [
+                    "Sólo si se solicita a los administradores de la plataforma cuando les envías la base de datos por mail.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué datos de las categorías de unl dataset podemos previsualizar antes de decidir adquirirlo?",
+            [
+                [
+                    "Ninguno. Vamos a ciegas.",
+                    false
+                ],
+                [
+                    "Su nombre, tipología, cantidad, datos perdidos, datos erróneos y un histograma de distribución.",
+                    true
+                ],
+                [
+                    "Todas las respuestas anteriores son válidas.",
+                    false
+                ],
+                [
+                    "Su nombre y cantidad.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué significan los términos “Accuracy” y “Precision” que podemos encontrar en las evaluaciones de modelos ya entrenados en la plataforma BigML?",
+            [
+                [
+                    "Automático y Precisión.",
+                    false
+                ],
+                [
+                    "Exactitud y Precisión.",
+                    true
+                ],
+                [
+                    "Ajuste y Precisión.",
+                    false
+                ],
+                [
+                    "Salud y Precisión.",
+                    false
+                ]
+            ]
+        ]
+    ],
     "PIA01": [
         [
             "¿Cual de estas opciones contribuye a enriquecer tu experiencia como desarrollador de IA?",
@@ -8750,6 +9789,1054 @@
                 ],
                 [
                     "Matplotlib",
+                    false
+                ]
+            ]
+        ]
+    ],
+    "PIA05": [
+        [
+            "¿Cómo se llama la técnica que nos permite encontrar o identificar el mínimo de la función de coste en una iteración del entrenamiento?",
+            [
+                [
+                    "Aislamiento del mínimo.",
+                    false
+                ],
+                [
+                    "Retorno del jedi",
+                    false
+                ],
+                [
+                    "Derivada multivarianza.",
+                    false
+                ],
+                [
+                    "Descenso del gradiente.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la diferencia clave de una red neuronal profunda respecto a otros modelos vistos?",
+            [
+                [
+                    "La estructura por capas.",
+                    true
+                ],
+                [
+                    "El cálculo de la distancia a los K vecinos más cercanos",
+                    false
+                ],
+                [
+                    "La utilización de la descomposición por serie de Fourier.",
+                    false
+                ],
+                [
+                    "Que se ejecuta en un ordenador.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la operación que realiza el perceptrón?",
+            [
+                [
+                    "La función lineal.",
+                    true
+                ],
+                [
+                    "Multiplicar el coeficiente 'a' por 'y'.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Usar coeficientes de tipo irracional multiplicando a 'x'.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la unidad básica de una red neuronal?",
+            [
+                [
+                    "La ecuación cuadrática.",
+                    false
+                ],
+                [
+                    "La función de coste.",
+                    false
+                ],
+                [
+                    "Los coeficientes 'pesos' o 'weights'.",
+                    false
+                ],
+                [
+                    "El perceptrón.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál sería el orden de las capas en un modelo de DNN (red neuronal profunda)?",
+            [
+                [
+                    "Capa de entrada, capas internas y capa de salida.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Capa de entrada, capa de salida y capas de visualización.",
+                    false
+                ],
+                [
+                    "Capa de entrada, capa de cálculo del error y una nueva capa de entrada.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuándo es necesario utilizar la capa Flatten en un modelo de DNN?",
+            [
+                [
+                    "Cuando los datos de entrada no son un array de una dimensión.",
+                    true
+                ],
+                [
+                    "Cuando las variables de entrada no son números enteros.",
+                    false
+                ],
+                [
+                    "Si estamos en un problema de detección de anomalías.",
+                    false
+                ],
+                [
+                    "Si la siguiente capa es de tipo Flubber.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué tipo de problemas no sería necesario contar con función de activación en el perceptrón?",
+            [
+                [
+                    "En problemas con dos o tres variables de entrada.",
+                    false
+                ],
+                [
+                    "En general no es necesaria.",
+                    false
+                ],
+                [
+                    "En problemas de tipo lineal.",
+                    true
+                ],
+                [
+                    "En problemas de tipo exponencial.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué clase utilizamos para crear las capas de un modelo DNN (red neuronal profunda)?",
+            [
+                [
+                    "LogisticRegression.",
+                    false
+                ],
+                [
+                    "Sequential.",
+                    true
+                ],
+                [
+                    "Neural.",
+                    false
+                ],
+                [
+                    "Layer.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué clase utilizamos para crear una red neuronal simple?",
+            [
+                [
+                    "Layer.",
+                    false
+                ],
+                [
+                    "Dense.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Network.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de activación es la más utilizada?",
+            [
+                [
+                    "Todas ellas.",
+                    true
+                ],
+                [
+                    "Relu.",
+                    false
+                ],
+                [
+                    "Softmax.",
+                    false
+                ],
+                [
+                    "Sigmoid.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de coste es la más indicada para problemas de clasificación binaria?",
+            [
+                [
+                    "Categorical Crossentropy.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Binary Crossentropy.",
+                    true
+                ],
+                [
+                    "Sparse Categorical Crossentropy.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de coste es la más indicada para problemas de clasificación múltiple con variables de salida de tipo categórico en formato one-hot encoding?",
+            [
+                [
+                    "Sparse Categorical Crossentropy.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Categorical Crossentropy.",
+                    true
+                ],
+                [
+                    "Binary Crossentropy.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función de coste es la más indicada para problemas de clasificación binaria o múltiple pero con variables de salida en formato de números enteros?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Sparse Categorical Crossentropy.",
+                    true
+                ],
+                [
+                    "Categorical Crossentropy.",
+                    false
+                ],
+                [
+                    "Binary Crossentropy.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué método permite configurar parámetros para el entrenamiento?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "compile()",
+                    true
+                ],
+                [
+                    "layer()",
+                    false
+                ],
+                [
+                    "training()",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué método se encarga de llevar a cabo el entrenamiento de la DNN?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "train()",
+                    false
+                ],
+                [
+                    "fit()",
+                    true
+                ],
+                [
+                    "summary()",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué parámetro clave debemos pasarle a una capa Dense obligatoriamente?",
+            [
+                [
+                    "y, el vector de los datos de salida.",
+                    false
+                ],
+                [
+                    "Weghts, el valor de partida para los coeficientes",
+                    false
+                ],
+                [
+                    "X, el vector de los datos de entrada",
+                    false
+                ],
+                [
+                    "Units, el número de perceptrones o neuronas de la red.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Que representa el parámetro epochs, en el método fit()?",
+            [
+                [
+                    "El número de neuronas del modelo.",
+                    false
+                ],
+                [
+                    "El número de capas del modelo",
+                    false
+                ],
+                [
+                    "El número de muestras en que dividimos el dataset",
+                    false
+                ],
+                [
+                    "El número de iteraciones de ejecución del optimizador.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué representa la función de coste o Loss?",
+            [
+                [
+                    "El valor medio del error entre las variables de salida del modelo y las etiquetas reales.",
+                    true
+                ],
+                [
+                    "El valor medio de las diferencias entre los valores de entrada al modelo",
+                    false
+                ],
+                [
+                    "El valor estimado de la capacidad de cómputo necesaria para resolver el problema",
+                    false
+                ],
+                [
+                    "El valor del coste en euros de ejecutar el modelo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué tipo de valor del ratio de aprendizaje puede provocar inestabilidad en el entrenamiento de un modelo?",
+            [
+                [
+                    "Es demasiado alto.",
+                    true
+                ],
+                [
+                    "Es igual al ratio de error",
+                    false
+                ],
+                [
+                    "Es de tipo asíncrono",
+                    false
+                ],
+                [
+                    "Es demasiado bajo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué valores van variando a medida que se va dando el entrenamiento y su configuración en cada iteración nos van dando un valor concreto de Loss?",
+            [
+                [
+                    "Los valores de y.",
+                    false
+                ],
+                [
+                    "Los coeficientes w o 'pesos' del modelo",
+                    true
+                ],
+                [
+                    "Los valores de X.",
+                    false
+                ],
+                [
+                    "Los valores de las potencias de X.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un problema de clasificación binaria, ¿cuántas neuronas o perceptrones debe tener la capa de salida?",
+            [
+                [
+                    "Diez.",
+                    false
+                ],
+                [
+                    "Una",
+                    true
+                ],
+                [
+                    "Ninguna.",
+                    false
+                ],
+                [
+                    "Dos.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un problema de clasificación binaria, qué función de activación se suele utilizar en la capa de salida?",
+            [
+                [
+                    "Sigmoid.",
+                    true
+                ],
+                [
+                    "Relu.",
+                    false
+                ],
+                [
+                    "Adam.",
+                    false
+                ],
+                [
+                    "MSE.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El número de neuronas que debe tener cada capa viene perfectamente determinado por una tabla que se puede consultar en la documentación de Keras.",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El objetivo del entrenamiento de una red neuronal profunda es encontrar el mínimo global de la función de coste o Loss.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El optimizador Adam presenta un mejor comportamiento general y se recomienda utilizarlo en tus primeros entrenamientos.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El optimizador RMSprop converge más lentamente hacia el mínimo.",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En deep learning, lo más común es recurrir a cálculos de entropía cruzada para la minimización del error.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La función de activación Relu se suele utilizar siempre en las capas internas de un modelo basado en redes neuronales profundas.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La función de activación se aplica sobre el resultado del cálculo lineal en el perceptrón.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Las funciones de activación permiten resolver problemas no lineales aplicando cálculos lineales, gracias al encendido o apagado de distintos perceptrones.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ]
+    ],
+    "PIA06": [
+        [
+            "¿Cuál de éstas es la técnica más utilizada y efectiva para prevenir el overfitting en un entrenamiento de red neuronal profunda?",
+            [
+                [
+                    "Droping.",
+                    false
+                ],
+                [
+                    "Dorop.",
+                    false
+                ],
+                [
+                    "Dropout.",
+                    true
+                ],
+                [
+                    "Drawning.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El dropout rate es un parámetro de la clase Dropout",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El “overfitting” se da en un modelo de deep learning cuando los pesos de la red neuronal han llegado al mejor valor posible y aciertan siempre al 100%.",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "TensorBoard permite visualizar las métricas de Loss y accuracy tras el entrenamiento pero también durante el mismo.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué consiste la técnica de prevención del overfitting conocida como dropout?",
+            [
+                [
+                    "En multiplicar por 2 las salidas de varias neuronas al azar.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "En deshacerse de la salida de algunas neuronas al azar en cada capa antes de que entren en la siguiente.",
+                    true
+                ],
+                [
+                    "En doblar la red varias veces para quedarnos con una sola capa.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué función sirve para comprobar la precisión real de un modelo de deep learning en Keras?",
+            [
+                [
+                    "precission()",
+                    false
+                ],
+                [
+                    "evaluate()",
+                    true
+                ],
+                [
+                    "monitoring()",
+                    false
+                ],
+                [
+                    "comprobar()",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se identifican las dos técnicas de regularización más comunes en Keras?",
+            [
+                [
+                    "Todas las anteriores",
+                    false
+                ],
+                [
+                    "L1 y L2.",
+                    true
+                ],
+                [
+                    "R1 y R2.",
+                    false
+                ],
+                [
+                    "U1 y U2.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué rango de valores suele estar el dropout rate?",
+            [
+                [
+                    "Entre 10 y 50.",
+                    false
+                ],
+                [
+                    "Entre 0 y 100.",
+                    false
+                ],
+                [
+                    "Entre 0,1 y 0,2.",
+                    false
+                ],
+                [
+                    "Entre 0,2 y 0,5.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué técnica nos permite monitorizar el posible overfitting en un entrenamiento con Keras?",
+            [
+                [
+                    "Reservar datos de validación del dataset y utilizarlos en fit, como parámetro “validation_data”.",
+                    true
+                ],
+                [
+                    "Aumentar mucho el número de epochs.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Cambiar los datos de entrenamiento y los de test en cada epoch alternativamente.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál de estas funcionalidades es característica de Tensorboard?",
+            [
+                [
+                    "Representación del modelo de tipo grafo.",
+                    false
+                ],
+                [
+                    "Todas las anteriores.",
+                    true
+                ],
+                [
+                    "Monitorizar de forma visual las métricas del entrenamiento.",
+                    false
+                ],
+                [
+                    "Histogramas de los coeficientes del modelo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una de las mejores formas de prevenir el overfitting es contar con una gran cantidad de datos, para minimizar el efecto de las anomalías y que el modelo sea lo más general posible.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Aplicando la técnica de dropout, el loss de los datos de validación mejora se suele mantener en valores más bajos que en el caso de aplicar regularización a un modelo de deep learning.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Si iniciamos TensorBoard antes del entrenamiento, lo podremos monitorizar mientras éste va transcurriendo.",
+            [
+                [
+                    "Verdadero.",
+                    true
+                ],
+                [
+                    "Falso.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama la técnica que limita el valor de los coeficientes de una red neuronal profunda para evitar el overfitting?",
+            [
+                [
+                    "Regularización.",
+                    true
+                ],
+                [
+                    "Trasposición.",
+                    false
+                ],
+                [
+                    "Planificación.",
+                    false
+                ],
+                [
+                    "Rutarización.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama el efecto debido a un exceso de particularización de los coeficientes del modelo de deep learning durante el entrenamiento?",
+            [
+                [
+                    "Overfitting o sobre-entrenamiento.",
+                    true
+                ],
+                [
+                    "Difracción.",
+                    false
+                ],
+                [
+                    "Dispersión.",
+                    false
+                ],
+                [
+                    "Entonación.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Para qué sirve la técnica de Batch Normalization o normalización por lotes?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Para filtrar mejor las anomalías.",
+                    false
+                ],
+                [
+                    "Para depurar los errores del modelo.",
+                    false
+                ],
+                [
+                    "Para mejorar la convergencia del gradiente.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Es bueno, para evitar el overfitting en el deep learning, empezar por el modelo más reducido posible y luego ir aumentando capas o neuronas si es necesario?",
+            [
+                [
+                    "Sí, cuanto más pequeño el modelo, menos error acumula.",
+                    false
+                ],
+                [
+                    "No, da igual.",
+                    false
+                ],
+                [
+                    "Sí, un modelo muy reducido tiene menos tendencia a “almacenar” información muy específica del entrenamiento.",
+                    true
+                ],
+                [
+                    "No, lo mejor es empezar por una red con muchas capas y muchas neuronas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El dropout rate es la fracción de variables que quedan sin anular en la capa de red neuronal a la que se aplica el dropout",
+            [
+                [
+                    "Verdadero.",
+                    false
+                ],
+                [
+                    "Falso.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama el kit de herramientas de visualización de parámetros de entrenamiento de modelos de deep learning lanzado por Tensorflow?",
+            [
+                [
+                    "VisualFlow.",
+                    false
+                ],
+                [
+                    "TensorPanel.",
+                    false
+                ],
+                [
+                    "PanelFlow.",
+                    false
+                ],
+                [
+                    "TensorBoard.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se aplica la técnica de dropout en Keras?",
+            [
+                [
+                    "Se incluye el parámetro dropout.",
+                    false
+                ],
+                [
+                    "No hace falta hacer nada, se aplica por defecto.",
+                    false
+                ],
+                [
+                    "Se añade una capa de la clase Dropout después de una de tipo Dense.",
+                    true
+                ],
+                [
+                    "Se llama a la extensión Apply_Dropout al principio del código del notebook.",
+                    false
+                ],
+                [
+                    "True en el método compile",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Para qué se suele hacer la división train-test de los datos en un entrenamiento de un modelo de deep learning?",
+            [
+                [
+                    "Se usa solo parte de los datos para no tener que hacer muchos cálculos",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Se utilizan los datos “train” en el entrenamiento y los datos “test” para la evaluación.",
+                    true
+                ],
+                [
+                    "Se dividen para probar dos modelos diferentes y quedarnos con el mejor.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el objetivo de la regularización en el entrenamiento de una red neuronal profunda?",
+            [
+                [
+                    "Simplificar o aligerar el modelo, limitando su inercia.",
+                    true
+                ],
+                [
+                    "Filtrar las anomalías.",
+                    false
+                ],
+                [
+                    "Hacer que el entrenamiento sea más rápido.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Para iniciar la visualización con TensorBoard, se lanza con la función mágica %tensorboard.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Lo normal, en el entrenamiento de una red neuronal profunda, es que la precisión obtenida en el entrenamiento sea menor de la que tendremos con nuevos datos.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué herramienta de TensorBoard es de utilidad a la hora de aplicar optimización de hiperparámetros en un entrenamiento de deep learning?",
+            [
+                [
+                    "NeuroBoard.",
+                    false
+                ],
+                [
+                    "Hparams.",
+                    true
+                ],
+                [
+                    "Optiparams.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la forma más básica de detectar el overfitting?",
+            [
+                [
+                    "Aplicar el método evaluate al modelo utilizando los datos de test reservados.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    true
+                ],
+                [
+                    "Mirar el número de segundos que ha durado el entrenamiento y multiplicarlos por 5.",
+                    false
+                ],
+                [
+                    "Mirar si se enciende una luz verde en la esquina superior del ordenador durante el entrenamiento.",
                     false
                 ]
             ]
