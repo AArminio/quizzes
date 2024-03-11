@@ -2116,6 +2116,192 @@
                     true
                 ]
             ]
+        ],
+        [
+            "En el campo de la medicina todavía no se ha conseguido desarrollar ninguna aplicación o programa basado en visión artificial que ayude en el diagnóstico. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿De cuántos parámetros es la red de GPT3?",
+            [
+                [
+                    "175 mil millones",
+                    true
+                ],
+                [
+                    "1000",
+                    false
+                ],
+                [
+                    "100",
+                    false
+                ],
+                [
+                    "1 millón",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La aplicación de Deep Dream puede ser usada por:",
+            [
+                [
+                    "Solo por artistas que estén acreditados por alguna escuela de arte.",
+                    false
+                ],
+                [
+                    "Solo por empresas de diseño.",
+                    false
+                ],
+                [
+                    "Por cualquier persona que pueda acceder a un superordenador.",
+                    false
+                ],
+                [
+                    "Por cualquier persona que se registre en su web.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿En qué año se publicó el modelo de Deep Dream?",
+            [
+                [
+                    "En 2021.",
+                    false
+                ],
+                [
+                    "Se creó en 2014, pero fue publicado en 2015.",
+                    true
+                ],
+                [
+                    "En 2019.",
+                    false
+                ],
+                [
+                    "En 2017.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué campos de estudio deben colaborar en un sistema de Procesamiento de Lenguaje Natural?",
+            [
+                [
+                    "La ciencia de datos y la ciencia social.",
+                    false
+                ],
+                [
+                    "La inteligencia artificial y la lingüística.",
+                    true
+                ],
+                [
+                    "Las ciencias de la computación y la ingeniería industrial.",
+                    false
+                ],
+                [
+                    "La inteligencia artificial y la literatura.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué técnica se basa el funcionamiento de GauGAN?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "En la difusión lógica binaria.",
+                    false
+                ],
+                [
+                    "En la Normalización Espacial Adaptativa.",
+                    true
+                ],
+                [
+                    "En la técnica representativa de óleo digital.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué ámbito de la inteligencia artificial pertenece el modelo GPT3?",
+            [
+                [
+                    "Al de la conducción autónoma.",
+                    false
+                ],
+                [
+                    "Al de modelos predictivos.",
+                    false
+                ],
+                [
+                    "Al reconocimiento facial.",
+                    false
+                ],
+                [
+                    "Al de generación de textos.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Un sistema de reconocimiento facial identifica los puntos de referencia faciales para distinguir un rostro de otros objetos. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En el campo de la medicina todavía no se ha conseguido desarrollar ninguna aplicación o programa basado en visión artificial que ayude en el diagnóstico. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿En qué consiste la tokenización en los modelos de NLP?",
+            [
+                [
+                    "En separar palabras del texto en entidades llamadas tokens.",
+                    true
+                ],
+                [
+                    "En asignar un valor monetario al gasto computacional.",
+                    false
+                ],
+                [
+                    "En recrear las palabras más frecuentes.",
+                    false
+                ],
+                [
+                    "En memorizar sinónimos.",
+                    false
+                ]
+            ]
         ]
     ],
     "BDA01": [
