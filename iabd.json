@@ -6243,15 +6243,15 @@
     ],
     "SBD05": [
         [
-            "Cuando hablamos de gr\u00e1ficos circulares",
+            "Cuando hablamos de gráficos circulares",
             [
                 [
                     "Si hay varias series lo mejor es dibujarlas todas en el mismo diagrama",
-                    null
+                    false
                 ],
                 [
                     "Dibujar distintas series dentro de un mismo diagrama no suele dar muy buenos resultados visuales",
-                    null
+                    true
                 ],
                 [
                     "Permiten mostrar datos con 3 dimensiones empleando el tama\u00f1o del c\u00edrculo como tercera dimensi\u00f3n",
@@ -6259,12 +6259,12 @@
                 ],
                 [
                     "Son sin\u00f3nimo de los de tipo d\u00f3nut",
-                    null
+                    false
                 ]
             ]
         ],
         [
-            "Una de las siguientes no es una de las m\u00e9tricas comunes a emplear cuando se crea un cuadro de mando",
+            "Una de las siguientes no es una de las métricas comunes a emplear cuando se crea un cuadro de mando",
             [
                 [
                     "Facturaci\u00f3n",
@@ -6327,7 +6327,7 @@
             ]
         ],
         [
-            "Un gr\u00e1fico de barras apiladas",
+            "Un gráfico de barras apiladas",
             [
                 [
                     "Puede mostrarse en horizontal o en vertical",
@@ -6348,7 +6348,7 @@
             ]
         ],
         [
-            "Cuando hablamos de visualizaci\u00f3n de datos, los indicadores",
+            "Cuando hablamos de visualización de datos, los indicadores",
             [
                 [
                     "Indican valores de beneficio, margen, ventas, compras o cantidad de unidades en almac\u00e9n",
@@ -6369,7 +6369,7 @@
             ]
         ],
         [
-            "Los gr\u00e1ficos de cajas",
+            "Los gráficos de cajas",
             [
                 [
                     "Muestran m\u00e1ximos, m\u00ednimos y medianas",
@@ -6390,7 +6390,7 @@
             ]
         ],
         [
-            "Que una herramienta de Inteligencia de Negocio tenga una funcionaliad de planificaci\u00f3n de informes significa",
+            "Que una herramienta de Inteligencia de Negocio tenga una funcionaliad de planificación de informes significa",
             [
                 [
                     "Que la herramienta incluya un calendario en el cual planificar en qu\u00e9 momentos ser\u00e1 emplada por cada usuario",
@@ -6411,7 +6411,7 @@
             ]
         ],
         [
-            "Al crear un cuadro de mando, el nivel de experiencia de quienes ser\u00e1n sus usuarios",
+            "Al crear un cuadro de mando, el nivel de experiencia de quienes serán sus usuarios",
             [
                 [
                     "Es clave a la hora de determinar c\u00f3mo actuales deben ser los datos",
@@ -6516,7 +6516,7 @@
             ]
         ],
         [
-            "Que una m\u00e9trica sea accionable significa",
+            "Que una métrica sea accionable significa",
             [
                 [
                     "Que implique acciones por parte de los clientes",
@@ -6537,7 +6537,7 @@
             ]
         ],
         [
-            "Que una herramienta de Inteligencia de Negocio tenga una funcionaliad de soporte m\u00f3vil significa",
+            "Que una herramienta de Inteligencia de Negocio tenga una funcionaliad de soporte móvil significa",
             [
                 [
                     "Que la herramienta permita programar qu\u00e9 d\u00edas se env\u00edan los informes desde un terminal m\u00f3vil o una tablet",
@@ -6642,7 +6642,7 @@
             ]
         ],
         [
-            "Un gr\u00e1fico de l\u00edneas",
+            "Un gráfico de líneas",
             [
                 [
                     "Es equivalente a uno de puntos con en el que cada posible valor de y para la x es conocido gracias a una funci\u00f3n",
@@ -6658,6 +6658,174 @@
                 ],
                 [
                     "No guarda ninguna relaci\u00f3n con un gr\u00e1fico de puntos",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una de las siguientes no es una característica a considerar típicamente en las herramientas para Inteligencia de Negocio:",
+            [
+                [
+                    "Capacidad para la replicación de datos",
+                    true
+                ],
+                [
+                    "Seguridad",
+                    false
+                ],
+                [
+                    "Capacidad para crear cuadros de mando",
+                    false
+                ],
+                [
+                    "Capacidad para el autoservicio de informes",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Trabajando con Power BI, si queremos relacionar dos campos de distintas tablas:",
+            [
+                [
+                    "Power BI creará automáticamente la relación si tienen el mismo nombre, y si no lo hacemos manualmente en la vista 'Modelo'.",
+                    true
+                ],
+                [
+                    "Sólo podemos hacerlo poniéndoles el mismo nombre a los campos para que Power BI lo detecte y cree automáticamente la relación",
+                    false
+                ],
+                [
+                    "No puede hacerse",
+                    false
+                ],
+                [
+                    "Debe indicarse mediante clave externa en los esquemas de las propias tablas que importamos",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Cuando en un cuadro de mando de Power BI hacemos clic sobre una porción en un gráfico circular:",
+            [
+                [
+                    "Cambia automáticamente la configuración de colores del cuadro de mando",
+                    false
+                ],
+                [
+                    "Toda la información se filtra de modo que se excluye la referente al significado de la porción seleccionada",
+                    false
+                ],
+                [
+                    "No ocurre nada.",
+                    false
+                ],
+                [
+                    "Toda la información se filtra de modo que sólo vemos la referente al significado de la porción seleccionada",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Cuando definimos requisitos para Inteligencia de Negocio, los 'Hechos' son",
+            [
+                [
+                    "Las acciones a tomar",
+                    false
+                ],
+                [
+                    "Las dimensiones del negocio sobre las cuales se puede desear tomar porciones",
+                    false
+                ],
+                [
+                    "Los valores que se quieren analizar o reportar",
+                    false
+                ],
+                [
+                    "Los eventos del negocio acerca de los cuales querremos generar informes o producir cualquier tipo de analítica",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Una de los siguientes es un ejemplo de 'Dimensiones' a la hora de definir requisitos para Inteligencia de Negocio:",
+            [
+                [
+                    "Por adelantado",
+                    false
+                ],
+                [
+                    "Por entendido",
+                    false
+                ],
+                [
+                    "Por descontado",
+                    false
+                ],
+                [
+                    "Por cliente",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Una de las siguientes es una de las desventajas típicamente asociadas a las herramientas de Inteligencia de Negocio en la nube:",
+            [
+                [
+                    "Por defecto sólo muestran información contenida en el ERP",
+                    false
+                ],
+                [
+                    "Son soluciones caras, tanto de adquirir como de poner en marcha",
+                    false
+                ],
+                [
+                    "Su puesta en marcha supone un mayor riesgo económico, ya que se paga por uso",
+                    false
+                ],
+                [
+                    "Algunas soluciones son demasiado simples",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Al crear un cuadro de mando:",
+            [
+                [
+                    "Mostrar la información relevante, el estilo y la apariencia están al mismo nivel de importancia.",
+                    false
+                ],
+                [
+                    "Lo más importante es mostrar la información relevante, a ser posible con buen estilo y apariencia.",
+                    true
+                ],
+                [
+                    "Lo más importante es conseguir una frecuencia de actualización con la que el usuario quede satisfecho.",
+                    false
+                ],
+                [
+                    "Lo más importante es cuidar el estilo y la apariencia, aunque haya que prescindir de parte de la información.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Uno de los siguientes no es uno de los factores típicamente a considerar antes de crear un cuadro de mando:",
+            [
+                [
+                    "Qué combinación de colores es la más apropiada",
+                    true
+                ],
+                [
+                    "Con qué tipo de datos se está trabajando.",
+                    false
+                ],
+                [
+                    "Cómo se accederá al cuadro de mandos.",
+                    false
+                ],
+                [
+                    "Cómo de experimentados son los usuarios.",
                     false
                 ]
             ]
