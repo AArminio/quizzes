@@ -11027,5 +11027,531 @@
                 ]
             ]
         ]
+    ],
+    "PIA07": [
+        [
+            "¿Qué estamos utilizando si importamos el módulo VGG19 en Keras?",
+            [
+                [
+                    "Regularización.",
+                    false
+                ],
+                [
+                    "Normalización.",
+                    false
+                ],
+                [
+                    "Un modelo pre-entrenado.",
+                    true
+                ],
+                [
+                    "Dropout.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la operación convolucional, utilizamos",
+            [
+                [
+                    "Una matriz de las mismas dimensiones que la imagen de entrada.",
+                    false
+                ],
+                [
+                    "Una constante que se va multiplicando por cada pixel).",
+                    false
+                ],
+                [
+                    "Un vector con todo ceros menos un uno en la posición correspondiente a la posición de la imagen dentro del dataset.",
+                    false
+                ],
+                [
+                    "Una ventana o matriz que se va desplazando sobre la imagen y aplicando producto tensorial sobre los píxeles de la ventana en cada posición.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En Keras, ¿qué clase nos permite instanciar una capa max-pooling?",
+            [
+                [
+                    "M-pool.",
+                    false
+                ],
+                [
+                    "MaxPooling2D.",
+                    true
+                ],
+                [
+                    "El max-pooling se aplica por defecto, sin tener que instanciar nada.",
+                    false
+                ],
+                [
+                    "No es una clase porque no es una capa del modelo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué caracteriza a una neurona de una red neuronal con recurrencia?",
+            [
+                [
+                    "Siempre aplica los mismos pesos, recurrentemente.",
+                    false
+                ],
+                [
+                    "Se activa de forma permanente, independientemente de los valores de las variables de entrada.",
+                    false
+                ],
+                [
+                    "Utiliza como variables de entrada, no solo las de salida de la capa anterior, sino también su propia salida en la etapa temporal de cómputo anterior.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La capa de max-pooling no afecta ni modifica la dimensión de profundidad de la red",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La capa max-pooling se añade para aumentar el número de nodos de la red y hacerla así más potente.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Las capas de tipo convolucional no llevan función de activación.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "'Feature Extraction' es una técnica en la que utilizamos un modelo pre-entrenado para extraer los patrones principales que dicho modelo detecta en las imágenes que le estamos pasando.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué clase de Keras nos permite instanciar una capa neuronal recurrente?",
+            [
+                [
+                    "ResNet.",
+                    false
+                ],
+                [
+                    "RecurrentLayer.",
+                    false
+                ],
+                [
+                    "SimpleRNN.",
+                    true
+                ],
+                [
+                    "Dense.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Como se denominan las redes que se combinan en una red GAN?",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Red convolucional y red densa.",
+                    false
+                ],
+                [
+                    "Generador y Discriminador.",
+                    true
+                ],
+                [
+                    "Red derecha y red izquierda.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la operación convolucional, el mapa de salida es:",
+            [
+                [
+                    "Un tensor de 2 o más dimensiones.",
+                    true
+                ],
+                [
+                    "Un escalar resultado de la suma de todos los pixeles de la imagen de entrada.",
+                    false
+                ],
+                [
+                    "No hay salida en este tipo de operaciones.",
+                    false
+                ],
+                [
+                    "Un vector de tantos elementos como pixeles tenga la imagen de entrada.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Otro efecto que se evita gracias a las capas max-pooling es la pérdida de información del contorno de la imagen.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué parámetro hace que la red convolucional produzca un “desdoble” o aumento de número de coeficientes en el modelo?",
+            [
+                [
+                    "stride",
+                    false
+                ],
+                [
+                    "units",
+                    false
+                ],
+                [
+                    "output_depth",
+                    true
+                ],
+                [
+                    "epochs",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un modelo convolucional, ¿qué es necesario añadir a las capas convolucionales y de pooling?",
+            [
+                [
+                    "Nada. El modelo está completo solo con esos dos tipos de capas.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Algunas capas neuronales de tipo Dense al final.",
+                    true
+                ],
+                [
+                    "Una capa de tipo recurrente en el centro justo de la red.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En el “Fine-tunning” utilizamos un modelo pre-entrenado, que será entrenado de nuevo, congelando las capas de la red neuronal que ponemos al final.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué técnica se utiliza para evitar el efecto borde en la operación convolucional?",
+            [
+                [
+                    "Regularización.",
+                    false
+                ],
+                [
+                    "Padding.",
+                    true
+                ],
+                [
+                    "Batch Normalization.",
+                    false
+                ],
+                [
+                    "Categorización.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es necesario añadir entre el bloque convolucional y las capas tipo Dense en un modelo convolucional?",
+            [
+                [
+                    "Una capa de tipo Flatten, para pasar de tensor a vector.",
+                    true
+                ],
+                [
+                    "Un punto de reseteo del modelo.",
+                    false
+                ],
+                [
+                    "Un modelo de tipo regresión logística.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El funcionamiento de una red neuronal convolucional se acerca bastante al funcionamiento de:",
+            [
+                [
+                    "Una operación de giro y traslación.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Un filtro.",
+                    true
+                ],
+                [
+                    "La operación de separación de canales de color.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué redes han revolucionado el campo del procesamiento de lenguaje natural?",
+            [
+                [
+                    "Redes neuronales recurrentes.",
+                    true
+                ],
+                [
+                    "Redes neuronales convolucionales.",
+                    false
+                ],
+                [
+                    "Redes Bayesianas.",
+                    false
+                ],
+                [
+                    "Redes de Pier-Lussac.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el efecto que provoca que la imagen de salida sea de menores dimensiones que la de entrada?",
+            [
+                [
+                    "El efecto de Coriolis.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "El efecto mariposa.",
+                    false
+                ],
+                [
+                    "El efecto borde.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La principal ventaja de las redes neuronales convolucionales es que se establece un orden jerárquico en las capas o bloques a la hora de reconocer elementos de una imagen.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué se refiere el parámetro de “profundidad” en una capa convolucional?",
+            [
+                [
+                    "Al número de filtros que se van a aplicar sobre la misma imagen y que dará lugar a ese número de imágenes filtradas de salida.",
+                    true
+                ],
+                [
+                    "Al alto de la imagen.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Al ancho de la imagen.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué redes han revolucionado el campo del reconocimiento de imagen y visión artificial?",
+            [
+                [
+                    "Redes de Pier-Lussac.",
+                    false
+                ],
+                [
+                    "Redes Bayesianas.",
+                    false
+                ],
+                [
+                    "Redes neuronales recurrentes.",
+                    false
+                ],
+                [
+                    "Redes neuronales convolucionales.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la clase, en Keras, que nos permite incluir una capa de tipo convolucional?",
+            [
+                [
+                    "ConvolutionalLayer.",
+                    false
+                ],
+                [
+                    "Conv2D.",
+                    true
+                ],
+                [
+                    "CL",
+                    false
+                ],
+                [
+                    "ConvNet.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Las redes convolucionales pueden reconocer patrones independientemente del espacio?",
+            [
+                [
+                    "Sí, reconocen objetos en una imagen si esa imagen se usó en el entrenamiento.",
+                    false
+                ],
+                [
+                    "No, las redes convolucionales no sirven para reconocimiento de imagen.",
+                    false
+                ],
+                [
+                    "Sí, aunque en el entrenamiento no hubiese imágenes con un objeto en una esquina de la imagen, la red puede reconocer el objeto en una esquina de una imagen nueva.",
+                    true
+                ],
+                [
+                    "No. Solo reconocen patrones completos de una imagen",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Al aplicar una capa de max-pooling no se puede utilizar stride",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿De qué dimensiones suelen ser las ventanas que se usan en las capas convolucionales?",
+            [
+                [
+                    "3x3 o 5x5.",
+                    true
+                ],
+                [
+                    "10x10.",
+                    false
+                ],
+                [
+                    "1x1.",
+                    false
+                ],
+                [
+                    "No se usa ninguna ventana en la operación convolucional.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué efecto tiene poner un parámetro strides = 2 en la capa convolucional?",
+            [
+                [
+                    "El filtro se irá desplazando saltando dos pixeles.",
+                    true
+                ],
+                [
+                    "El mapa de salida será de dimensiones 2x2.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "El filtro tendrá dimensiones 2x2.",
+                    false
+                ]
+            ]
+        ]
     ]
 }
