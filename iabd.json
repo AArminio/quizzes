@@ -4087,6 +4087,428 @@
             ]
         ]
     ],
+    "BDA Ordinaria 2022/2023": [
+        [
+            "¿Cómo se llama el sistema de almacenamiento de Hadoop?",
+            [
+                [
+                    "GFS.",
+                    false
+                ],
+                [
+                    "DBFS.",
+                    false
+                ],
+                [
+                    "HDFS.",
+                    true
+                ],
+                [
+                    "FS.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué tipo de escalado es el más apropiado para Hadoop?",
+            [
+                [
+                    "Escalado vertical.",
+                    false
+                ],
+                [
+                    "Escalado horizontal.",
+                    true
+                ],
+                [
+                    "Escalado tangencial.",
+                    false
+                ],
+                [
+                    "Hadoop no escala.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la función del paso de \"shuffle\" en MapReduce?",
+            [
+                [
+                    "Ordenar los datos de salida de los nodos \"map\" antes de enviarlos a los nodos \"reduce\".",
+                    true
+                ],
+                [
+                    "Dividir los datos de entrada en trozos más pequeños para procesarlos de forma distribuida.",
+                    false
+                ],
+                [
+                    "Realizar la operación de reducción en los datos de entrada.",
+                    false
+                ],
+                [
+                    "Realizar una operación de mapeo en los datos de entrada.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué componente de Hadoop permite sincronizar el estado de los diferentes servicios distribuidos de Hadoop?",
+            [
+                [
+                    "Apache Hive.",
+                    false
+                ],
+                [
+                    "Apache ZooKeeper.",
+                    true
+                ],
+                [
+                    "Apache HBase.",
+                    false
+                ],
+                [
+                    "Apache Flume.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué comando HDFS se utiliza para copiar un archivo del sistema de archivos distribuido de Hadoop al sistema local?",
+            [
+                [
+                    "hadoop fs -ls",
+                    false
+                ],
+                [
+                    "hadoop fs -mkdir",
+                    false
+                ],
+                [
+                    "hadoop fs -put",
+                    false
+                ],
+                [
+                    "hadoop fs -get",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo consigue HDFS tener tolerancia a fallos?",
+            [
+                [
+                    "Dividiendo los ficheros en bloques.",
+                    false
+                ],
+                [
+                    "Almacenando los bloques en diferentes nodos.",
+                    false
+                ],
+                [
+                    "Replicando los bloques en varios nodos.",
+                    false
+                ],
+                [
+                    "Todas las anteriores.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En las primeras versión de HADOOP cuál de estas afirmaciones NO es cierta:",
+            [
+                [
+                    "Restringía mucho el tipo de aplicaciones que los desarrolladores podían realizar.",
+                    false
+                ],
+                [
+                    "La concurrencia en la ejecución de aplicaciones no estaba bien resuelta.",
+                    false
+                ],
+                [
+                    "El procesamiento y el almacenamiento eran independientes.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué nodo se ejecuta el ApplicationMaster?",
+            [
+                [
+                    "En el nodo maestro.",
+                    false
+                ],
+                [
+                    "En el Datanode.",
+                    false
+                ],
+                [
+                    "En un nodo worker.",
+                    true
+                ],
+                [
+                    "En el ResourceManager.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuáles son las fases de ejecución de un trabajo MapReduce?",
+            [
+                [
+                    "map, suffle, reduce, order",
+                    false
+                ],
+                [
+                    "map, order, suffle, reduce",
+                    false
+                ],
+                [
+                    "map, suffle, order, reduce",
+                    true
+                ],
+                [
+                    "map, reduce, suffle, order",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el método que se utiliza para emitir pares clave-valor en el mapper de MRJob?",
+            [
+                [
+                    "yield (key, value)",
+                    true
+                ],
+                [
+                    "output.collect(key, value)",
+                    false
+                ],
+                [
+                    "emit(key, value)",
+                    false
+                ],
+                [
+                    "print(key, value)",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Señala si son o no ciertas las siguientes afirmaciones:\nI.- Las consultas de Hive se traducen a procesos MapReduce.\nII.- Los datos en Hive se almacenan en una estructura relacional.",
+            [
+                [
+                    "I cierta, II cierta",
+                    false
+                ],
+                [
+                    "I cierta, II falsa",
+                    true
+                ],
+                [
+                    "I falsa, II cierta",
+                    false
+                ],
+                [
+                    "I falsa, II falsa",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué operador se utiliza para proyectar o seleccionar columnas de datos en Apache Pig?",
+            [
+                [
+                    "SELECT",
+                    false
+                ],
+                [
+                    "JOIN",
+                    false
+                ],
+                [
+                    "COGROUP",
+                    false
+                ],
+                [
+                    "FOREACH",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Señala si son o no ciertas las siguientes afirmaciones sobre la siguiente consulta:\nSELECT * FROM airports LIMIT 10\nI.- La sintaxis es vális en Hive.\nII.- La sintaxis es vális en Pig.",
+            [
+                [
+                    "I cierta, II cierta",
+                    false
+                ],
+                [
+                    "I cierta, II falsa",
+                    true
+                ],
+                [
+                    "I falsa, II cierta",
+                    false
+                ],
+                [
+                    "I falsa, II falsa",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Señala si son o no ciertas las siguientes afirmaciones:\nI.- Una transformación sobre un \"dataframe\" de Spark devuelve otro \"dataframe\".\nII.- Una acción sobre un \"dataframe\" de Spark devuelve otro \"dataframe\".",
+            [
+                [
+                    "I cierta, II cierta",
+                    false
+                ],
+                [
+                    "I cierta, II falsa",
+                    true
+                ],
+                [
+                    "I falsa, II cierta",
+                    false
+                ],
+                [
+                    "I falsa, II falsa",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el objetivo principal de Apache Ambari?",
+            [
+                [
+                    "Añade capacidades de tiempo real en un clúster Haoop.",
+                    false
+                ],
+                [
+                    "Añade una capa de seguridad en un clúster Haoop.",
+                    false
+                ],
+                [
+                    "Simplifica la administración de clústeres Hadoop.",
+                    true
+                ],
+                [
+                    "Ninguna de la anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El modelo tradicional basado en herramientas de ETL, Datawarehouses y herramientas de Business Intelligence y Data Mining es un buen modelo para realizar análisis de los datos para la toma de decisiones, pero tiene varios problemas asociados:",
+            [
+                [
+                    "I.- Sólo permite analizar datos estructurados, y cada vez hay un mayor número de fuentes de datos no estructuradas que se quieren analizar: logs de aplicaciones, transcripciones de conversaciones, imágenes, vídeos, etc.",
+                    false
+                ],
+                [
+                    "II.- Requiere mucha intervención de los equipos de tecnología o desarrollo, desde la construcción de los procesos ETL hasta la creación de los cuadros de mando o informes. Esto hace que desde que el negocio tiene un necesidad hasta que dispone de la herramienta para cubrir esa necesidad, el proceso puede durar demasiado tiempo.",
+                    false
+                ],
+                [
+                    "I y II son ciertas.",
+                    true
+                ],
+                [
+                    "I o II son falsas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué quiere decir la afirmación de que Hadoop es multitenancy?\nI.- Que Hadoop permite que múltiples usuarios de diferente tipo utilicen la plataforma.\nII.- Que Hadoop permite trabajar con muchos ficheros de cualquier tipo.",
+            [
+                [
+                    "I cierta, II cierta",
+                    true
+                ],
+                [
+                    "I cierta, II falsa",
+                    false
+                ],
+                [
+                    "I falsa, II cierta",
+                    false
+                ],
+                [
+                    "I falsa, II falsa",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Señala si son o no ciertas las siguientes afirmaciones:\nI.- La implementación de un Data Lake es más económica que la de un Datawarehouse.\nII.- Un Datawarehouse sólo almacena datos estructurados, mientras que un Data Lake puede almacenar cualquier tipo de dato.",
+            [
+                [
+                    "I cierta, II cierta",
+                    true
+                ],
+                [
+                    "I cierta, II falsa",
+                    false
+                ],
+                [
+                    "I falsa, II cierta",
+                    false
+                ],
+                [
+                    "I falsa, II falsa",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál de las siguientes afirmaciones NO es correcta en relación con los Data Lakes?",
+            [
+                [
+                    "Hadoop es una buena plataforma para implementar un Data Lake.",
+                    false
+                ],
+                [
+                    "Los Data Lakes intentan ser un repositorio de datos único para toda la empresa.",
+                    false
+                ],
+                [
+                    "Frente a los Datawarehouses tradicionales, un Data Lake ofrece más funcionalidad.",
+                    false
+                ],
+                [
+                    "Un Data Lake es más fácil de gestionar que un Datawarehouse.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál de las siguientes afirmaciones sobre EMR NO es correcta?",
+            [
+                [
+                    "EMR permite arrancar clústers Hadoop rápidamente, por lo que es muy útil para hacer pruebas con Hadoop.",
+                    false
+                ],
+                [
+                    "EMR permite configurar qué componentes del ecosistema Hadoop arrancar.",
+                    false
+                ],
+                [
+                    "EMR puede adaptar el número de servidores a la carga real que esté soportando, por lo que sólo pagas por el uso real.",
+                    false
+                ],
+                [
+                    "EMR, que son las siglas de Elastic MapReduce, sólo permite MapReduce como framework para procesar datos.",
+                    true
+                ]
+            ]
+        ]
+    ],
     "SBD01": [
         [
             "De entre las 5 Vs que definen el reto de Big Data, la V de veracidad tiene que ver con",
