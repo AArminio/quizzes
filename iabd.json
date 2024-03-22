@@ -9001,6 +9001,527 @@
             ]
         ]
     ],
+    "SAA05": [
+        [
+            "¿Cómo se calcula el “recall” de un modelo entrenado?",
+            [
+                [
+                    "dividiendo el número de casos de una clase identificados correctamente por todos los casos de esa clase identificados por el modelo.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Dividiendo el número de casos correctamente clasificados de todas las clases por el número total de casos",
+                    false
+                ],
+                [
+                    "dividiendo el número de casos de una clase identificados correctamente por todos los casos reales de dicha clase",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La técnica de submuestreo para casos de clasificación no balanceada consiste en",
+            [
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "añadir errores a propósito en la clase mayoritaria para confundir al modelo",
+                    false
+                ],
+                [
+                    "añadir casos a la clase minoritaria para igualar el número de casos entre clases",
+                    false
+                ],
+                [
+                    "eliminar casos de la clase mayoritaria para igualar el número de casos entre clases",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En la predicción de un modelo de aprendizaje automático, ¿qué es un falso positivo?",
+            [
+                [
+                    "Es un caso que se predice como negativo pero en realidad es positivo",
+                    false
+                ],
+                [
+                    "Es un caso que se predice como positivo y realmente es positivo",
+                    false
+                ],
+                [
+                    "Es un caso que se predice como positivo pero en realidad es negativo",
+                    true
+                ],
+                [
+                    "Es un caso que se predice como negativo y realmente es negativo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se calcula el “accuracy” de un modelo entrenado?",
+            [
+                [
+                    "dividiendo el número de casos de una clase identificados correctamente por todos los casos de esa clase identificados por el modelo.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Dividiendo el número de casos correctamente clasificados de todas las clases por el número total de casos.",
+                    true
+                ],
+                [
+                    "dividiendo el número de casos de una clase identificados correctamente por todos los casos reales de dicha clase.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La optimización de hiper-parámetros se realiza normalmente mediante la utilización de un proceso de búsqueda cuyo objetivo consiste en encontrar la mejor selección de valores para un conjunto finito de hiper-parámetros con el objetivo de generar el mejor modelo posi",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la predicción de un modelo de aprendizaje automático, ¿qué es un falso negativo?",
+            [
+                [
+                    "Es un caso que se predice como negativo pero en realidad es positivo.",
+                    true
+                ],
+                [
+                    "Es un caso que se predice como positivo y realmente es positivo.",
+                    false
+                ],
+                [
+                    "Es un caso que se predice como positivo pero en realidad es negativo",
+                    false
+                ],
+                [
+                    "Es un caso que se predice como negativo y realmente es negativo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "A la hora de buscar los hiperparámetros óptimos para tener un buen modelo…",
+            [
+                [
+                    "se busca que el proceso sea muy rápido",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "se suele utilizar la métrica de accuracy para guiar el proceso",
+                    true
+                ],
+                [
+                    "Se suele hacer a ciegas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es la validación cruzada a la hora de evaluar un modelo?",
+            [
+                [
+                    "Consiste en calcular el error de los datos de entrenamiento en vez de utilizar los de test",
+                    false
+                ],
+                [
+                    "Consiste en cruzar los datos que tenemos con los de otro compañero y calcular cada uno el error del otro.",
+                    false
+                ],
+                [
+                    "Consiste en repetir y calcular la media aritmética obtenida de las medidas de evaluación sobre diferentes particiones del conjunto de datos.",
+                    true
+                ],
+                [
+                    "Consiste en calcular la métrica de evaluación y buscar su valor simétrico respecto del eje horizontal.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué métrica de evaluación de modelos de regresión penaliza los errores grandes?",
+            [
+                [
+                    "El error cuadrático medio.",
+                    true
+                ],
+                [
+                    "El error medio absoluto.",
+                    false
+                ],
+                [
+                    "El accuracy",
+                    false
+                ],
+                [
+                    "El recall",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la técnica Random Search para buscar los hiperparámetros óptimos",
+            [
+                [
+                    "se modifican aleatoriamente las soluciones previamente generadas en el espacio de búsqueda.",
+                    true
+                ],
+                [
+                    "se utilizan los hiperparámetros recomendados por el diseñador del modelo",
+                    false
+                ],
+                [
+                    "se utilizan valores de hiperparámetros distribuidos en el espacio de búsqueda siguiendo una distribución con forma de red.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Cuando tenemos un dataset con desequilibrio, suele ocurrir que obtenemos un alto valor de precisión en la clase mayoritaria y un bajo recall en la clase minoritaria.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se calcula el valor de la métrica “precision” de un modelo entrenado?",
+            [
+                [
+                    "Dividiendo el número de casos correctamente clasificados de todas las clases por el número total de casos.",
+                    false
+                ],
+                [
+                    "dividiendo el número de casos de una clase identificados correctamente por todos los casos de esa clase identificados por el modelo.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "dividiendo el número de casos de una clase identificados correctamente por todos los casos reales de dicha clase",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En los modelos de aprendizaje automático para casos de regresión, hay que considerar los datos anómalos y si queremos penalizar errores grandes o no.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la detección de anomalías en conjuntos de datos, tenemos que",
+            [
+                [
+                    "Las anomalías siempre van a ser errores que se han cometido al recoger los datos mal.",
+                    false
+                ],
+                [
+                    "Las anomalías pueden representar casos o eventos sospechosos que requieren atención.",
+                    true
+                ],
+                [
+                    "No se puede saber qué es un caso normal y qué es una anomalía.",
+                    false
+                ],
+                [
+                    "Lo mejor es eliminar las anomalías del dataset",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La técnica de sobremuestreo para casos de clasificación no balanceada consiste en",
+            [
+                [
+                    "añadir errores a propósito en la clase mayoritaria para confundir al modelo",
+                    false
+                ],
+                [
+                    "eliminar casos de la clase mayoritaria para igualar el número de casos entre clases",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "añadir casos a la clase minoritaria para igualar el número de casos entre clases.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué algoritmo de detección de anomalías se basa en que éstas son fáciles de separar?",
+            [
+                [
+                    "Redes neuronales profundas",
+                    false
+                ],
+                [
+                    "Isolation Forest",
+                    true
+                ],
+                [
+                    "Regresión logística.",
+                    false
+                ],
+                [
+                    "KNN",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la validación cruzada aleatoria, el bloque de validación se escoge:",
+            [
+                [
+                    "buscando el caso con el valor más alto de entropía",
+                    false
+                ],
+                [
+                    "seleccionando el último caso entrenado.",
+                    false
+                ],
+                [
+                    "de forma aleatoria",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En un problema de clasificación ¿Para qué sirve la matriz de confusión?",
+            [
+                [
+                    "Para saber qué operaciones matemáticas aplicar para corregir el modelo",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores",
+                    false
+                ],
+                [
+                    "Para saber si los errores se dan más prediciendo una clase o la otra",
+                    true
+                ],
+                [
+                    "Para confundir al modelo y que salga más resiliente.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Aplicar técnicas de tipo “ensemble” ayuda a mejorar la precisión de un modelo, pero debe ser un modelo con los datos muy bien balanceados.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La principal desventaja de la validación cruzada dejando uno fuera es",
+            [
+                [
+                    "que hay riesgo de perder información",
+                    false
+                ],
+                [
+                    "que es muy probable que haya overfitting",
+                    false
+                ],
+                [
+                    "que se van perdiendo datos a lo largo del proceso",
+                    false
+                ],
+                [
+                    "que es un proceso muy costoso computacionalmente",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En los modelos de aprendizaje automático no es problema que los datos estén desbalanceados si se utiliza la métrica correcta para evaluarlo.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Para qué es necesario evaluar un modelo de aprendizaje automático?",
+            [
+                [
+                    "Para saber si las predicciones que nos de son buenas y nos podemos fiar.",
+                    true
+                ],
+                [
+                    "Para obtener un coeficiente por el que hay que multiplicar todos los valores del dataset y actualizarlo.",
+                    false
+                ],
+                [
+                    "Para poder puntuar el dataset y que otros científicos sepan si es bueno o no.",
+                    false
+                ],
+                [
+                    "Para saber si los datos tienen mucho sesgo",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué sectores encontramos problemas de clasificación muy desbalanceados?",
+            [
+                [
+                    "En el ámbito del fraude.",
+                    false
+                ],
+                [
+                    "En todos ellos",
+                    true
+                ],
+                [
+                    "En el área de la salud",
+                    false
+                ],
+                [
+                    "En el estudio de un funnel de marketing.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la validación cruzada de k iteraciones, el valor de k corresponde a",
+            [
+                [
+                    "El número total de los datos del dataset.",
+                    false
+                ],
+                [
+                    "El número de casos en cada muestra.",
+                    false
+                ],
+                [
+                    "El número de iteraciones que se van a hacer.",
+                    true
+                ],
+                [
+                    "El coeficiente de reducción que se aplica al error.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la técnica Grid Search para buscar los hiperparámetros óptimos",
+            [
+                [
+                    "se utilizan valores de hiperparámetros distribuidos en el espacio de búsqueda siguiendo una distribución con forma de red.",
+                    true
+                ],
+                [
+                    "se utilizan los hiperparámetros recomendados por el diseñador del modelo.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "se modifican aleatoriamente las soluciones previamente generadas en el espacio de búsqueda.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es un problema de clasificación no balanceado?",
+            [
+                [
+                    "es un problema en el que el conjunto de datos tiene muchos más casos de una clase que de otra u otras",
+                    true
+                ],
+                [
+                    "aquel en el que ningún modelo consigue entrenarse adecuadamente.",
+                    false
+                ],
+                [
+                    "son problemas en los que no necesitamos datos externos",
+                    false
+                ],
+                [
+                    "aquel en el que hay muchísimos datos disponibles",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El proceso de optimización de hiperparámetros no consume apenas recursos computacionales.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ]
+    ],
     "PIA01": [
         [
             "¿Cual de estas opciones contribuye a enriquecer tu experiencia como desarrollador de IA?",
