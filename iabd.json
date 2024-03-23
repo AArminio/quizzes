@@ -561,7 +561,7 @@
             ]
         ],
         [
-            "Cualquier asistente virtual actual (Siri, Ok Google, Alexa\u2026) se puede clasificar como una Inteligencia Artificial",
+            "Cualquier asistente virtual actual (Siri, Ok Google, Alexa...) se puede clasificar como una Inteligencia Artificial",
             [
                 [
                     "Teoría de la Mente",
@@ -1179,7 +1179,7 @@
             ]
         ],
         [
-            "Si queremos desarrollar un Sistema Experto de Inteligencia Artificial Clásica necesitamos\u2026",
+            "Si queremos desarrollar un Sistema Experto de Inteligencia Artificial Clásica necesitamos...",
             [
                 [
                     "Un equipo de científicos muy inteligentes",
@@ -1263,7 +1263,7 @@
             ]
         ],
         [
-            "Los sistemas expertos planteados por la Inteligencia Artificial Clásica sólo son abarcables\u2026",
+            "Los sistemas expertos planteados por la Inteligencia Artificial Clásica sólo son abarcables...",
             [
                 [
                     "Siempre, en cualquier tipo de tarea o problema",
@@ -1347,7 +1347,7 @@
             ]
         ],
         [
-            "Cuando el conocimiento o \"inteligencia\" que se quiere informatizar se basa en una correlación\u2026",
+            "Cuando el conocimiento o “inteligencia” que se quiere informatizar se basa en una correlación...",
             [
                 [
                     "Las tres respuestas anteriores son correctas",
@@ -1364,6 +1364,137 @@
                 [
                     "Necesitamos recurrir a otra manera de abordar la Inteligencia Artificial",
                     false
+                ]
+            ]
+        ],
+        [
+            "¿Qué tipo de estructura sigue una regla de producción en un sistema experto?",
+            [
+                [
+                    "Es un comando simple",
+                    false
+                ],
+                [
+                    "Es una estructura condicional del tipo IF-THEN",
+                    true
+                ],
+                [
+                    "Es una operación matemática de tipo aritmético",
+                    false
+                ],
+                [
+                    "Es una estructura basada en una lista de datos",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la segunda fase de un proceso de desarrollo de Inteligencia Artificial Clásica?",
+            [
+                [
+                    "Comprobar el buen funcionamiento del sistema e iterar el proceso si es necesario.",
+                    false
+                ],
+                [
+                    "Informatizar las reglas",
+                    false
+                ],
+                [
+                    "Convertir el conocimiento humano en reglas",
+                    true
+                ],
+                [
+                    "Que el experto humano defina todos los elementos de la tarea que se quiere enseñar a la máquina.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es un Sistema Experto?",
+            [
+                [
+                    "Es un programa informático que se ha desarrollado a partir de nuestro conocimiento sobre una cuestión, y que consigue que el ordenador muestre un comportamiento equivalente al que tendría un experto humano sobre el mismo tema.",
+                    true
+                ],
+                [
+                    "Es un conjunto de ordenadores especializados en un tipo concreto de Inteligencia Artificial.",
+                    false
+                ],
+                [
+                    "Es un ordenador muy potente que se ha programado basándose en el criterio de un experto en informática para desarrollar Inteligencia Artificial.",
+                    false
+                ],
+                [
+                    "Es un método de selección de ingenieros para encontrar a los más inteligentes.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la cuarta fase de un proceso de desarrollo de Inteligencia Artificial Clásica?",
+            [
+                [
+                    "Convertir el conocimiento humano en reglas.",
+                    false
+                ],
+                [
+                    "Que el experto humano defina todos los elementos de la tarea que se quiere enseñar a la máquina.",
+                    false
+                ],
+                [
+                    "Informatizar las reglas.",
+                    false
+                ],
+                [
+                    "Comprobar el buen funcionamiento del sistema e iterar el proceso si es necesario.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Los sistemas expertos probabilísticos están basados en:",
+            [
+                [
+                    "El principio de incertidumbre de Heissenberg",
+                    false
+                ],
+                [
+                    "Ninguno de los anteriores",
+                    false
+                ],
+                [
+                    "El Teorema de Bayes",
+                    true
+                ],
+                [
+                    "El Teorema de Pitágoras",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Las reglas de producción en un sistema experto son estructuras simples de un único elemento. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En el mecanismo de encadenamiento hacia atrás se parte de hechos para llegar a resultados. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
                 ]
             ]
         ]
