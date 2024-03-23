@@ -13131,5 +13131,481 @@
                 ]
             ]
         ]
+    ],
+    "PIA09": [
+        [
+            "¿Qué es el lienzo del modelo de negocio o Business Model Canvas?",
+            [
+                [
+                    "Es el plan de las finanzas y contabilidad de un negocio que ya está en funcionamiento.",
+                    false
+                ],
+                [
+                    "Es un esquema de nueve módulos en los que se plasma de forma sintetizada los parámetros clave de la idea de negocio.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Es un documento de muchas páginas con todos los aspectos del negocio debidamente desarrollados.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué capa de servicio de la nube ofrece recursos de servidor en bruto a través de la red?",
+            [
+                [
+                    "PaaS (Platform as a Service)",
+                    false
+                ],
+                [
+                    "SaaS (Software as a Service)",
+                    false
+                ],
+                [
+                    "IaaS (Infraestructure as a Service)",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El modelo de negocio es una herramienta previa al plan de negocio que te permitirá definir con claridad qué vas a ofrecer al mercado, cómo lo vas a hacer, a quién se lo vas a vender, cómo se lo vas a vender y de qué forma vas a generar ingresos.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué se refiere el concepto de Industria 4.0?",
+            [
+                [
+                    "Al sector industrial de la fabricación de ropa, que tiene el código 4.",
+                    false
+                ],
+                [
+                    "A una fábrica que tiene 4 naves o más.",
+                    false
+                ],
+                [
+                    "A la automatización de procesos en la industria que se han optimizado con tecnologías como la robótica, el internet de las cosas, la nube y la inteligencia artificial.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Los sensores de un robot son los elementos que transforman la energía eléctrica en movimiento.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La robótica industrial lleva, desde sus comienzos, sin variar demasiado en su alcance y aplicaciones. Está muy lejos de igualar el trabajo del ser humano.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el concepto clave de la tecnología Blockchain?",
+            [
+                [
+                    "Que utiliza internet.",
+                    false
+                ],
+                [
+                    "Que solo se puede usar con un ordenador.",
+                    false
+                ],
+                [
+                    "La descentralización.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Todas las nubes se convierten en públicas cuando los entornos se dividen y se redistribuyen entre varios usuarios.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La convergencia digital que se dio en el ámbito de las comunicaciones que antes estaban separadas en voz telefónica, datos y video…",
+            [
+                [
+                    "pasó a llamarse comunicaciones reunidas.",
+                    false
+                ],
+                [
+                    "propició que todos los dispositivos comenzasen a usar el protocolo IP",
+                    true
+                ],
+                [
+                    "no duró mucho.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El Edge Computing comprende el conjunto de técnicas orientadas al tratamiento, análisis y explotación de los datos en un nodo conectado a la nube pero en el entorno local más cercano al cliente.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué capa de servicio de la nube ofrece aplicaciones completas bajo demanda?",
+            [
+                [
+                    "PaaS (Platform as a Service)",
+                    false
+                ],
+                [
+                    "IaaS (Infraestructure as a Service)",
+                    false
+                ],
+                [
+                    "SaaS (Software as a Service)",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Se puede programar inteligencia artificial en un ordenador cuántico?",
+            [
+                [
+                    "No, es imposible escribir un algoritmo cuántico para aprendizaje automático.",
+                    false
+                ],
+                [
+                    "No, aunque hay algoritmos de aprendizaje automático cuántico, nunca se podrán ejecutar en un ordenador cuántico.",
+                    false
+                ],
+                [
+                    "Sí, ya hay aplicaciones que lo usan.",
+                    false
+                ],
+                [
+                    "Sí, ya es posible escribir algoritmos cuánticos de aprendizaje automático, y pronto se ejecutarán en ordenadores cuánticos.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Se utiliza la robótica en la agricultura?",
+            [
+                [
+                    "Sí, tanto en vigilancia como en tratamiento y recolección de cosechas…",
+                    true
+                ],
+                [
+                    "No, los robots pueden dañar las cosechas.",
+                    false
+                ],
+                [
+                    "No, aún no está tan avanzada la robótica.",
+                    false
+                ],
+                [
+                    "Sí, pero solo en vigilancia.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuáles son los principales tipos de nubes que se utilizan?",
+            [
+                [
+                    "Nubes públicas, semi-públicas y federaciones de datos",
+                    false
+                ],
+                [
+                    "Nubes públicas, privadas e hÍbridas.",
+                    true
+                ],
+                [
+                    "Nubes oficiales y nubes no oficiales.",
+                    false
+                ],
+                [
+                    "Nubes abiertas y cerradas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La computación en la nube consiste en la disponibilidad de recursos de computación y contenidos digitales a través de la red de internet, encontrándose éstos en un estado semi-deslocalizado.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El concepto actual de convergencia tecnológica se refiere a",
+            [
+                [
+                    "la gente que se ha vuelto cyborg.",
+                    false
+                ],
+                [
+                    "unificar todos los mapas del mundo.",
+                    false
+                ],
+                [
+                    "la sinergia entre las distintas tecnologías exponenciales.",
+                    true
+                ],
+                [
+                    "la tendencia de que todo el mundo piense con una sola mente digital única.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿A qué se refiere la palabra “cloud” aplicada al ámbito digital?",
+            [
+                [
+                    "A una aplicación de Microsoft que se llama así.",
+                    false
+                ],
+                [
+                    "A la computación en la nube.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    true
+                ],
+                [
+                    "A un tipo de ataque cibernético que solo se hace los días de lluvia.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una empresa que utiliza la computación en la nube o “cloud”, tiene un nivel de seguridad muy bajo y su infraestructura se cae continuamente.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Las nubes se vuelven privadas cuando la infraestructura de TI subyacente se destina a un solo cliente con acceso completamente aislado.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es un token, en el ámbito blockchain?",
+            [
+                [
+                    "Es el ente que queda reconocido para administrar la red.",
+                    false
+                ],
+                [
+                    "Se refiere a cada nodo que tiene una copia de la cadena.",
+                    false
+                ],
+                [
+                    "Es la criptomoneda asociada a esa red.",
+                    true
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál de estos elementos podemos considerar que es el “cerebro” de un robot?",
+            [
+                [
+                    "Los sensores.",
+                    false
+                ],
+                [
+                    "Los robots no tienen “cerebro”.",
+                    false
+                ],
+                [
+                    "La unidad de control o placa controladora.",
+                    true
+                ],
+                [
+                    "Los actuadores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué capa de servicio de la nube ofrece un entorno de desarrollo con módulos de servicio?",
+            [
+                [
+                    "PaaS (Platform as a Service)",
+                    true
+                ],
+                [
+                    "SaaS (Software as a Service)",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "IaaS (Infraestructure as a Service)",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Con cuál de estas tecnologías converge principalmente el IoT?",
+            [
+                [
+                    "Cloud",
+                    false
+                ],
+                [
+                    "Robótica",
+                    false
+                ],
+                [
+                    "Con todas ellas.",
+                    true
+                ],
+                [
+                    "Telecomunicaciones",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En la computación cuántica, los qubits solo pueden adoptar los estados de 0 o 1.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿A qué parte de la arquitectura de un robot pertenece el sensor de luz?",
+            [
+                [
+                    "A la de Diseño.",
+                    false
+                ],
+                [
+                    "A la del software.",
+                    false
+                ],
+                [
+                    "A ninguna. Los robots no llevan sensores de luz.",
+                    false
+                ],
+                [
+                    "A la de la electrónica o hardware.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "El concepto de convergencia digital, tradicionalmente se ha referido a",
+            [
+                [
+                    "Un partido político.",
+                    false
+                ],
+                [
+                    "La interconexión de tecnologías de la computación e información, contenido multimedia y redes de comunicaciones a través de internet.",
+                    true
+                ],
+                [
+                    "La conjunción de todos los lenguajes de programación.",
+                    false
+                ],
+                [
+                    "La brecha entre la gente que sabía usar internet y la que no.",
+                    false
+                ]
+            ]
+        ]
     ]
 }
