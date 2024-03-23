@@ -892,6 +892,82 @@
                     false
                 ]
             ]
+        ],
+        [
+            "La Inteligencia Artificial Convencional se basa en:",
+            [
+                [
+                    "el aprendizaje autónomo.",
+                    false
+                ],
+                [
+                    "Todas las respuestas anteriores son correctas.",
+                    false
+                ],
+                [
+                    "el análisis formal y estadístico del comportamiento humano ante diferentes problemas.",
+                    true
+                ],
+                [
+                    "la estadística evolucionada.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La Inteligencia Artificial Débil ya existe y muchas máquinas a nuestro alrededor cuentan con ella. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Hay algún tipo de Inteligencia Artificial en la actualidad que se pueda considerar como Inteligencia Artificial con Memoria Limitada (según la clasificación de Hintze)?",
+            [
+                [
+                    "No, ninguna de las Inteligencias Artificiales actuales llega a usar Memoria Limitada aún",
+                    false
+                ],
+                [
+                    "Sí, Deep Blue, tenía Memoria Limitada",
+                    false
+                ],
+                [
+                    "Sí, los coches autónomos que “recuerdan” la velocidad y dirección de otros vehículos o viandantes, y tienen en cuenta esa información cuando tienen que cambiar de carril, por ejemplo.",
+                    true
+                ],
+                [
+                    "Sí, los brazos robóticos de una fábrica.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La clasificación de IA según la/s tarea/s que resuelve contempla estas opciones:",
+            [
+                [
+                    "Ninguna de las anteriores es correcta",
+                    false
+                ],
+                [
+                    "Débil y Fuerte",
+                    true
+                ],
+                [
+                    "Computacional, Hintze",
+                    false
+                ],
+                [
+                    "Débil, Media, Fuerte, Muy Fuerte",
+                    false
+                ]
+            ]
         ]
     ],
     "MIA03": [
