@@ -1826,7 +1826,7 @@
             ]
         ],
         [
-            "¿En qué materias se basa el Aprendizaje Automático (Machine Learning) acutal?",
+            "¿En qué materias se basa el Aprendizaje Automático (Machine Learning) actual?",
             [
                 [
                     "Reconocimiento de patrones, Física cuántica, Procesamiento de datos y Estadística aplicada",
@@ -2960,6 +2960,126 @@
         ],
         [
             "Hadoop no es un sistema eficiente para casos de uso de poca volumetría ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la herramienta o componente del ecosistema Hadoop con la que los Data Scientists realizan análisis interactivos?",
+            [
+                [
+                    "Ambari",
+                    false
+                ],
+                [
+                    "Hive",
+                    false
+                ],
+                [
+                    "HDFS",
+                    false
+                ],
+                [
+                    "Zeppelin",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La arquitectura de Hadoop se basa en tener nodos worker, que hacen el trabajo, y nodos master que coordinan ese trabajo. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El coste de Hadoop es similar al de las bases de datos relacionales, la diferencia está en que Hadoop es escalable. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Google está utilizando Hadoop para la generación de los índices de búsqueda ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Hadoop es un proyecto liderado por la empresa Cloudera. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Los nodos frontera realizan parte del trabajo de procesamiento con los datos en una plataforma Hadoop. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál de las siguientes distribuciones Hadoop se encuentra activa hoy en día:",
+            [
+                [
+                    "Sólo existen distribuciones en cloud",
+                    false
+                ],
+                [
+                    "Cloudera.",
+                    true
+                ],
+                [
+                    "MAPR",
+                    false
+                ],
+                [
+                    "Hortonworks.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Se suele considerar a Doug Cutting como el \"padre de Hadoop\". ¿Verdadero o falso?",
             [
                 [
                     "Verdadero",
