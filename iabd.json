@@ -12664,5 +12664,472 @@
                 ]
             ]
         ]
+    ],
+    "PIA08": [
+        [
+            "¿En qué consiste el web scrapping?",
+            [
+                [
+                    "Es un tema de estilos muy común en los blogs actuales",
+                    false
+                ],
+                [
+                    "Es una técnica para mejorar el posicionamiento de una web en buscadores.",
+                    false
+                ],
+                [
+                    "Es una técnica para extraer información de una web concreta, mediante un script que imita la navegación de un humano.",
+                    true
+                ],
+                [
+                    "Se da cuando una web tiene muchos bugs y salen todos de repente.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es el “feature engineering” en la fase de diseño y programación de un modelo de machine learning?",
+            [
+                [
+                    "Es el proceso de búsqueda de un dataset por internet.",
+                    false
+                ],
+                [
+                    "Es el conjunto de transformación que aplicamos a las variables de entrada para que la información pueda ser más clara o útil para el modelo.",
+                    true
+                ],
+                [
+                    "Es la técnica que usamos para optimizar los hiper-parámetros de un modelo.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Las metodologías Design Thinking y Design Sprint ponen el foco en el marketing y ventas más que en la construcción del prototipo",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Existe un buscador de datasets que ha lanzado Facebook",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Cada iteración en un proyecto gestionado con Scrum tiene que:",
+            [
+                [
+                    "Ser llevada a cabo por un equipo distinto al de la anterior iteración",
+                    false
+                ],
+                [
+                    "Proporcionar solo una parte del producto.",
+                    false
+                ],
+                [
+                    "Proporcionar un resultado completo.",
+                    true
+                ],
+                [
+                    "Coincidir con un ciclo de facturación de la empresa.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Un proyecto bajo la filosofía “agile” es un proceso mediante el cual un equipo puede gestionar un proyecto dividiéndolo en varias etapas e involucrando la colaboración constante de las partes interesadas y una mejora e iteración continuas en cada etapa.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "La administración no comparte los datos de sus estudios bajo ningún concepto, pues iría contra la ley 12/1993 de la información de los estados.",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué elemento de la planificación de un proyecto nos indica lo que se quiere conseguir?",
+            [
+                [
+                    "Los indicadores",
+                    false
+                ],
+                [
+                    "Los objetivos.",
+                    true
+                ],
+                [
+                    "Las tareas.",
+                    false
+                ],
+                [
+                    "Ninguno de los anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué entorno se despliega el proyecto ya para ser utilizado por el cliente?",
+            [
+                [
+                    "En el entorno de desarrollo.",
+                    false
+                ],
+                [
+                    "En el de producción.",
+                    true
+                ],
+                [
+                    "En el entorno QA.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Entre la aplicación cliente y el modelo, suele haber una etapa de procesamiento de los datos, para que entren al modelo en el formato adecuado.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la característica principal del método kanban?",
+            [
+                [
+                    "Todo el proyecto debe llevarse a cabo en una semana.",
+                    false
+                ],
+                [
+                    "No se puede utilizar tecnología, todo debe hacerse con lápiz y papel.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "El trabajo se representa en tableros",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué caracteriza a las metodologías ágiles?",
+            [
+                [
+                    "Ya casi no se usan.",
+                    false
+                ],
+                [
+                    "Solo se pueden aplicar al entorno del deporte.",
+                    false
+                ],
+                [
+                    "El producto se va adaptando a las necesidades del cliente en sucesivas iteraciones del proyecto.",
+                    true
+                ],
+                [
+                    "Que las aplica gente muy entrenada",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Se le puede pedir a una consultora que capte los datos que necesitamos, pero suele ser caro.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál de estas metodologías pertenece al Manifiesto “Agile”?",
+            [
+                [
+                    "Scrum",
+                    true
+                ],
+                [
+                    "Neurodidáctica.",
+                    false
+                ],
+                [
+                    "Wakanda.",
+                    false
+                ],
+                [
+                    "Classical Design.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué es el “Design Thinking”?",
+            [
+                [
+                    "Es como se conoce actualmente al proceso de entrenar un modelo de inteligencia artificial?",
+                    false
+                ],
+                [
+                    "No existe ese concepto como tal.",
+                    false
+                ],
+                [
+                    "Es una metodología para diseño y planificación de una solución.",
+                    true
+                ],
+                [
+                    "Es un nuevo algoritmo de generación de imágenes.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el factor que condiciona la elección del algoritmo?",
+            [
+                [
+                    "El algoritmo favorito del jefe.",
+                    false
+                ],
+                [
+                    "El número máximo de parámetros que puede alojar.",
+                    false
+                ],
+                [
+                    "El problema que estamos tratando.",
+                    true
+                ],
+                [
+                    "El tiempo que hace que no lo usas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué elemento de la planificación de un proyecto nos indica que éste realmente sirve para lo que se necesitaba?",
+            [
+                [
+                    "Los objetivos.",
+                    false
+                ],
+                [
+                    "Los indicadores.",
+                    true
+                ],
+                [
+                    "Ninguno de los anteriores.",
+                    false
+                ],
+                [
+                    "Las tareas.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la primera fase del método Design Sprint?",
+            [
+                [
+                    "Define.",
+                    false
+                ],
+                [
+                    "Decide.",
+                    false
+                ],
+                [
+                    "Sketch.",
+                    false
+                ],
+                [
+                    "Understand.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué fracción de la carga de trabajo e importancia del proyecto representan los datos?",
+            [
+                [
+                    "40%",
+                    false
+                ],
+                [
+                    "20%.",
+                    false
+                ],
+                [
+                    "60%.",
+                    false
+                ],
+                [
+                    "80%.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "La metodología Scrum utiliza:",
+            [
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "Ciclos temporales cortos",
+                    true
+                ],
+                [
+                    "No tiene reglas respecto al tiempo",
+                    false
+                ],
+                [
+                    "Ciclos temporales largos",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una vez desplegado, el modelo utilizará para sus predicciones:",
+            [
+                [
+                    "Los datos de test que habíamos reservado.",
+                    false
+                ],
+                [
+                    "El modelo puede hacer predicciones sin necesidad de tener datos.",
+                    false
+                ],
+                [
+                    "Nuevos datos que vienen desde el cliente.",
+                    true
+                ],
+                [
+                    "Una mezcla de datos nuevos con datos de entrenamiento, para que el modelo no hiperventile.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué entorno se llevan a cabo las pruebas de un proyecto?",
+            [
+                [
+                    "En una máquina virtual creada en el ordenador del informático.",
+                    false
+                ],
+                [
+                    "En el entorno API.",
+                    false
+                ],
+                [
+                    "Ninguna de las anteriores.",
+                    false
+                ],
+                [
+                    "En el entorno de desarrollo.",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la plataforma que cuenta con un mayor número de datasets públicos actualmente?",
+            [
+                [
+                    "Windows.",
+                    false
+                ],
+                [
+                    "Ninguno de los anteriores.",
+                    false
+                ],
+                [
+                    "Kaggle.",
+                    true
+                ],
+                [
+                    "UCI.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Las configuraciones “serverless” de los proveedores de computación en la nube no son adecuadas para alojar proyectos de inteligenci artificial.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿En qué consiste el concepto de “open data” o datos abiertos?",
+            [
+                [
+                    "Las empresas están obligadas por ley a exponer todos los datos de sus clientes de forma pública.",
+                    false
+                ],
+                [
+                    "Que los datos estén siempre en archivos de formato .open",
+                    false
+                ],
+                [
+                    "Se abren por la mitad los datasets y nos quedamos solo con los datos centrales.",
+                    false
+                ],
+                [
+                    "La administración y otras organizaciones comparten datos de sus estudios internos para que se puedan aprovechar por parte de la sociedad.",
+                    true
+                ]
+            ]
+        ]
     ]
 }
