@@ -3970,6 +3970,163 @@
                     false
                 ]
             ]
+        ],
+        [
+            "Apache Spark es una tecnología que sustituye a Hadoop. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "Una partición de una tabla es un subconjunto de los registros de la tabla que comparten el valor de alguna columna en común. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Apache Spark puede leer y procesar datos que se encuentran en una base de datos relacional. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama el componente que ofrece, desde una web, acceso a los ficheros de HDFS y poder lanzar consultas Hive?",
+            [
+                [
+                    "Hue",
+                    true
+                ],
+                [
+                    "Hive",
+                    false
+                ],
+                [
+                    "Impala",
+                    false
+                ],
+                [
+                    "Spark",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Qué componente del ecosistema Hadoop permite utilizar sintaxis SQL para manejar datos que están almacenado en HBase?",
+            [
+                [
+                    "Oozie",
+                    false
+                ],
+                [
+                    "Phoenix",
+                    true
+                ],
+                [
+                    "Storm",
+                    false
+                ],
+                [
+                    "Pig",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Para ingestar datos que se generan en tiempo real, ¿qué componente de Hadoop se utiliza?",
+            [
+                [
+                    "Storm",
+                    false
+                ],
+                [
+                    "Spark",
+                    false
+                ],
+                [
+                    "Flink",
+                    false
+                ],
+                [
+                    "Flume",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Qué componente del ecosistema Hadoop permite ver los ficheros HDFS como si fueran tablas de una base de datos relacional?",
+            [
+                [
+                    "YARN",
+                    false
+                ],
+                [
+                    "Oozie",
+                    false
+                ],
+                [
+                    "Hive",
+                    true
+                ],
+                [
+                    "Ambari",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es la sentencia de Hive con la que se borra una nueva tabla?",
+            [
+                [
+                    "DELETE TABLE",
+                    false
+                ],
+                [
+                    "DROP TABLE",
+                    true
+                ],
+                [
+                    "DEL TABLE",
+                    false
+                ],
+                [
+                    "FORMAT TABLE",
+                    false
+                ]
+            ]
+        ],
+        [
+            "HBase es una base de datos NoSQL. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
         ]
     ],
     "BDA04": [
