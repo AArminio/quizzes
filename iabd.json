@@ -3090,6 +3090,48 @@
                     false
                 ]
             ]
+        ],
+        [
+            "¿Qué tipo de escalado es el más apropiado para Hadoop?",
+            [
+                [
+                    "Escalado horizontal",
+                    true
+                ],
+                [
+                    "Hadoop no escala",
+                    false
+                ],
+                [
+                    "Escalado vertical",
+                    false
+                ],
+                [
+                    "Escalado tangencial",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama la solución Hadoop que ofrece Amazon Web Services?",
+            [
+                [
+                    "HDInsight",
+                    false
+                ],
+                [
+                    "EMR",
+                    true
+                ],
+                [
+                    "Dataproc",
+                    false
+                ],
+                [
+                    "Amazon Web Services no ofrece una solución Hadoop",
+                    false
+                ]
+            ]
         ]
     ],
     "BDA02": [
@@ -3398,6 +3440,176 @@
         ],
         [
             "YARN puede ejecutar aplicaciones de procesamiento en streaming.",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el comando de HDFS para ver el contenido de un directorio?",
+            [
+                [
+                    "cp",
+                    false
+                ],
+                [
+                    "read_dir",
+                    false
+                ],
+                [
+                    "mkdir",
+                    false
+                ],
+                [
+                    "ls",
+                    true
+                ]
+            ]
+        ],
+        [
+            "En HDFS, lo ideal es poner un factor de replicación alto a los ficheros que son críticos o muy importantes",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama el nodo que coordina la ejecución de trabajos en YARN?",
+            [
+                [
+                    "NameNode",
+                    false
+                ],
+                [
+                    "ResourceManager",
+                    true
+                ],
+                [
+                    "Scheduler",
+                    false
+                ],
+                [
+                    "NodeManager",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el comando de HDFS para crear un directorio?",
+            [
+                [
+                    "rmdir",
+                    false
+                ],
+                [
+                    "mkdir",
+                    true
+                ],
+                [
+                    "create dir",
+                    false
+                ],
+                [
+                    "make_dir",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuál es el tamaño por defecto de un bloque en HDFS?",
+            [
+                [
+                    "64 GB",
+                    false
+                ],
+                [
+                    "128 GB",
+                    false
+                ],
+                [
+                    "64 MB",
+                    false
+                ],
+                [
+                    "128 MB",
+                    true
+                ]
+            ]
+        ],
+        [
+            "¿Se puede configurar qué nivel de prioridad tiene una tarea en YARN?",
+            [
+                [
+                    "No, esto sólo se configura desde HDFS",
+                    false
+                ],
+                [
+                    "Sí, si paras el resto de tareas",
+                    false
+                ],
+                [
+                    "Sí, mediante la configuración del Scheduler",
+                    true
+                ],
+                [
+                    "No, YARN va ejecutando las tareas según le llegan",
+                    false
+                ]
+            ]
+        ],
+        [
+            "En HDFS, sólo los ficheros grandes se dividen en bloques",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "YARN ha caído en desuso al aparecer Spark",
+            [
+                [
+                    "Verdadero",
+                    false
+                ],
+                [
+                    "Falso",
+                    true
+                ]
+            ]
+        ],
+        [
+            "MapReduce permite que los desarrolladores no tengan que preocuparse en muchos aspectos de la computación ditribuida",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El factor de replicación reduce la capacidad de almacenamiento real de un clúster HDFS",
             [
                 [
                     "Verdadero",
