@@ -4542,7 +4542,7 @@
             ]
         ],
         [
-            "¿A qué se refiere el concepto \"industrialización\" en relación con las actividades de ingeniería de datos?",
+            "¿A qué se refiere el concepto “industrialización” en relación con las actividades de ingeniería de datos?",
             [
                 [
                     "A llevar todas las plataformas a la nube",
@@ -4890,6 +4890,61 @@
                 [
                     "Falso",
                     true
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llaman los datos que llegan a un Data Lake y que son almacenados tal cual, sin ser transformados?",
+            [
+                [
+                    "Raw data",
+                    true
+                ],
+                [
+                    "Datos de origen",
+                    false
+                ],
+                [
+                    "Refined data",
+                    false
+                ],
+                [
+                    "Golden source",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cómo se llama la disciplina que tradicionalmente ha creado modelos predictivos sobre los datos del Datawarehouse?",
+            [
+                [
+                    "Data Mining",
+                    true
+                ],
+                [
+                    "Data Exploration",
+                    false
+                ],
+                [
+                    "Data Discovery",
+                    false
+                ],
+                [
+                    "ETL",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Data Governance es el conjunto de procesos, roles, políticas, estándares y métricas que garantizan el uso eficiente y efectivo de los datos, alineado con los objetivos de las empresas. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
                 ]
             ]
         ]
