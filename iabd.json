@@ -14292,11 +14292,11 @@
                 ],
                 [
                     "A la computación en la nube.",
-                    false
+                    true
                 ],
                 [
                     "Ninguna de las anteriores.",
-                    true
+                    false
                 ],
                 [
                     "A un tipo de ataque cibernético que solo se hace los días de lluvia.",
