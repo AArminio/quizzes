@@ -11915,11 +11915,11 @@
             [
                 [
                     "Ninguna de las anteriores",
-                    true
+                    false
                 ],
                 [
                     "Era parte de la librería Scipy",
-                    false
+                    true
                 ],
                 [
                     "Era parte de la librería estándar de Python.",
