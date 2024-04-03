@@ -159,7 +159,14 @@
     [
       "La extracci\u00f3n l\u00f3gica podr\u00eda alterar la evidencia al ser manipulada. \u00bfVerdadero o falso?",
       [
-        "La respuesta correcta es: Verdadero"
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
       ]
     ],
     [
@@ -186,7 +193,14 @@
     [
       "Los dispositivos m\u00f3viles requieren de conectores y cables especificos para ser analizados. \u00bfVerdadero o falso?",
       [
-        "La respuesta correcta es: Verdadero"
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
       ]
     ],
     [
@@ -205,13 +219,27 @@
     [
       "La extracci\u00f3n mediante JTAG y Hex dump funciona a bajo nivel. \u00bfVerdadero o falso?",
       [
-        "La respuesta correcta es: Verdadero"
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
       ]
     ],
     [
       "iOS de Apple es un sistema cerrado. \u00bfVerdadero o falso?",
       [
-        "La respuesta correcta es: Verdadero"
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
       ]
     ],
     [
@@ -5464,13 +5492,27 @@
     [
       "El TOP10 de OWASP tiene el objetivo de identificar riesgos. \u00bfVerdadero o falso?",
       [
-        "La respuesta correcta es: Verdadero"
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
       ]
     ],
     [
       "Los requisitos del ASVS se fijaron con el objetivo de tener una m\u00e9trica a nivel de seguridad. \u00bfVerdadero o falso?",
       [
-        "La respuesta correcta es: Verdadero"
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
       ]
     ],
     [
