@@ -1791,6 +1791,330 @@
       ]
     ]
   ],
+  "BRS08. Examen": [
+    [
+      "\u00bfQu\u00e9 debemos monitorizar en el arranque del sistema?",
+      [
+        [
+          "Jerarqu\u00eda de procesos",
+          true
+        ],
+        [
+          "N\u00famero de usuarios",
+          false
+        ],
+        [
+          "Consumo de disco",
+          false
+        ]
+      ]
+    ],
+    [
+      "Qu\u00e9 tecnolog\u00eda nos proporciona el acceso m\u00e1s segura al sistema de manera remota sin que la informaci\u00f3n tenga que almacenarse en el dispositivo desde el que nos conectamos.",
+      [
+        [
+          "VDI/VGI",
+          true
+        ],
+        [
+          "Telnet",
+          false
+        ],
+        [
+          "RDP",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfPor qu\u00e9 es necesario establecer la secuencia de arranque de un equipo?",
+      [
+        [
+          "Para que el usuario pueda elegirlo",
+          false
+        ],
+        [
+          "Para evitar que se cargue en el sistema un SO no controlado",
+          true
+        ],
+        [
+          "Para que sea m\u00e1s r\u00e1pido",
+          false
+        ]
+      ]
+    ],
+    [
+      "El Bluetooth activado contituye un riesgo para la fuga de informaci\u00f3n del sistema. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 medida de seguridad aplicar\u00edas a la BIOS?",
+      [
+        [
+          "Activar todos los puertos",
+          false
+        ],
+        [
+          "Comprar una pila de mayor duraci\u00f3n",
+          false
+        ],
+        [
+          "Comprobar la integridad del firmware",
+          true
+        ]
+      ]
+    ],
+    [
+      "Realizar el dise\u00f1o del sistema en base a un cat\u00e1logo de productos que cumplen una acreditaci\u00f3n de seguridad no beneficia al sistema. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Desde el punto de vista de la seguridad, el particionado del disco duro nos permite",
+      [
+        [
+          "No ser\u00e1 necesario actualizar el sistema tan frecuentemente",
+          false
+        ],
+        [
+          "Tener m\u00e1s organizado el disco duro",
+          false
+        ],
+        [
+          "Proteger la informaci\u00f3n m\u00e1s sensible",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de los siguiente no es un riesgo de tener los USB activados?",
+      [
+        [
+          "Eleva el riesgo de fuega de informaci\u00f3n y de infecci\u00f3n",
+          false
+        ],
+        [
+          "Aumenta la concienciaci\u00f3nd de los usuarios",
+          true
+        ],
+        [
+          "Permite conecar dispositivos \"rogue\" para captura de informaci\u00f3n, lineas de conexi\u00f3n no controladas, despliegue de malware,...",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEs considerada segura la UEFI de un fabricante que no publica actualizaciones de seguridad de su firmware?. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Que tipo de malware se instala en el arranque del sistema",
+      [
+        [
+          "adware",
+          false
+        ],
+        [
+          "spoofing",
+          false
+        ],
+        [
+          "rootkit",
+          true
+        ]
+      ]
+    ]
+  ],
+  "BRS09. Examen": [
+    [
+      "\u00bfC\u00f3mo se denomina la estrategia de reducir los servicios de un sistema a los m\u00ednimos necesarios?",
+      [
+        [
+          "Privilegios m\u00ednimos",
+          false
+        ],
+        [
+          "Reducci\u00f3n de la superficie de exposici\u00f3n",
+          true
+        ],
+        [
+          "Medida compensatoria",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 medida de refuerzo implementar\u00edas para el acceso remoto de un administrador?",
+      [
+        [
+          "Acceso 2AF",
+          false
+        ],
+        [
+          "Contrase\u00f1a m\u00ednima de 30 caracteres",
+          true
+        ],
+        [
+          "Entrar con la cuenta de m\u00e1ximos privilegios",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 herramienta de sysinternal nos permite monitorizar los procesos?",
+      [
+        [
+          "NTFSInfo",
+          false
+        ],
+        [
+          "Whois",
+          false
+        ],
+        [
+          "Procmon",
+          true
+        ]
+      ]
+    ],
+    [
+      "Para qu\u00e9 puede ser utilizado el cliente de telnet como herramienta de testeo",
+      [
+        [
+          "Bruteforce",
+          false
+        ],
+        [
+          "Fingerprint",
+          true
+        ],
+        [
+          "DoS",
+          false
+        ]
+      ]
+    ],
+    [
+      "Identifica el mecanismo de Windows que impide la ejecuci\u00f3n de c\u00f3digo fuera de la direcciones reservadas.",
+      [
+        [
+          "Nomemory",
+          false
+        ],
+        [
+          "DEP",
+          true
+        ],
+        [
+          "IOCs",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1ntos canales establece el protocolo FTP?",
+      [
+        [
+          "2",
+          true
+        ],
+        [
+          "4",
+          false
+        ],
+        [
+          "1",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfExiste una versi\u00f3n segura del protocolo FTP? . \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "Los sistemas MDM me ayudar\u00e1n a controlar la seguridad de",
+      [
+        [
+          "Firewall",
+          false
+        ],
+        [
+          "Dispositivos m\u00f3viles",
+          true
+        ],
+        [
+          "Proxy",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCon un antivirus estamos a salvo de cualquier ataque? . \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          false
+        ],
+        [
+          "Falso",
+          true
+        ]
+      ]
+    ],
+    [
+      "Qu\u00e9 dispositivo nos ayudar\u00e1 a recoger informaci\u00f3n de la red para enviarlo a un IDS",
+      [
+        [
+          "IPS",
+          false
+        ],
+        [
+          "Tap",
+          true
+        ],
+        [
+          "Router",
+          false
+        ]
+      ]
+    ]
+  ],
   "Examen para HE01": [
     [
       "\u00bfQu\u00e9 tipo de informaci\u00f3n podemos recopilar en las redes sociales?",
@@ -3723,6 +4047,218 @@
       ]
     ]
   ],
+  "Examen para IC06": [
+    [
+      "\u00bfQu\u00e9 capa de la Torre ISO-OSI se compone de los servicios de comunicaci\u00f3n est\u00e1ndar a disposici\u00f3n de cualquier usuario?",
+      [
+        [
+          "Capa Aplicaci\u00f3n.",
+          true
+        ],
+        [
+          "Capa Transporte.",
+          false
+        ],
+        [
+          "Capa Red.",
+          false
+        ],
+        [
+          "Capa Presentaci\u00f3n.",
+          false
+        ],
+        [
+          "Capa Sesi\u00f3n.",
+          false
+        ],
+        [
+          "Capa Enlace de Datos.",
+          false
+        ],
+        [
+          "Capa F\u00edsica.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 entidad t\u00e9cnica utiliza Snort para enviar la informaci\u00f3n de logging a una m\u00e1quina remota?",
+      [
+        [
+          "Un Linux Pipe.",
+          false
+        ],
+        [
+          "Un Socket.",
+          false
+        ],
+        [
+          "Una Linux Facility.",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfQu\u00e9 capa de la Torre ISO-OSI asegura que la informaci\u00f3n se transfiere de forma comprensible para un sistema?",
+      [
+        [
+          "Capa Sesi\u00f3n.",
+          false
+        ],
+        [
+          "Capa Enlace de Datos.",
+          false
+        ],
+        [
+          "Capa Presentaci\u00f3n.",
+          true
+        ],
+        [
+          "Capa Red.",
+          false
+        ],
+        [
+          "Capa F\u00edsica.",
+          false
+        ],
+        [
+          "Capa Aplicaci\u00f3n.",
+          false
+        ],
+        [
+          "Capa Transporte.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn qu\u00e9 posici\u00f3n de una regla Snort se sit\u00faa la \"Direcci\u00f3n IP Origen\"?",
+      [
+        [
+          "Trailer.",
+          false
+        ],
+        [
+          "Header.",
+          true
+        ],
+        [
+          "No Aplica.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCon qu\u00e9 reglas de detecci\u00f3n puede trabajar Snort?",
+      [
+        [
+          "Con las reglas personalizadas si se arranca en Modo Custom.",
+          false
+        ],
+        [
+          "Siempre funciona con las reglas de la comunidad y las personalizadas a la vez.",
+          true
+        ],
+        [
+          "Con las reglas de la comunidad si se arranca en Modo Community.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn qu\u00e9 posici\u00f3n de una regla Snort se sit\u00faan las \"Opciones\"?",
+      [
+        [
+          "Trailer.",
+          true
+        ],
+        [
+          "Header.",
+          false
+        ],
+        [
+          "No Aplica.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn qu\u00e9 posici\u00f3n de una regla Snort se sit\u00faa la \"Direcci\u00f3n de la Operaci\u00f3n\"?",
+      [
+        [
+          "No Aplica.",
+          false
+        ],
+        [
+          "Trailer.",
+          false
+        ],
+        [
+          "Header.",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es la misi\u00f3n de Snort en el SOC?",
+      [
+        [
+          "Almacenamiento de la informaci\u00f3n.",
+          false
+        ],
+        [
+          "Detecci\u00f3n y Prevenci\u00f3n de Intrusiones.",
+          true
+        ],
+        [
+          "Filtrado de la informaci\u00f3n de los logs.",
+          false
+        ],
+        [
+          "Monitorizaci\u00f3n de la informaci\u00f3n.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfPara qu\u00e9 sirve el protocolo ICMP?",
+      [
+        [
+          "Para ninguna opci\u00f3n de las anteriores.",
+          false
+        ],
+        [
+          "Para comprobar la alcanzabilidad de una m\u00e1quina.",
+          true
+        ],
+        [
+          "Para transmitir informaci\u00f3n de se\u00f1alizaci\u00f3n.",
+          false
+        ],
+        [
+          "Para implementar las primitivas de mantenimiento remoto.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfEn qu\u00e9 posici\u00f3n de una regla Snort se sit\u00faa la \"Acci\u00f3n de la Regla\"?",
+      [
+        [
+          "Trailer.",
+          false
+        ],
+        [
+          "No Aplica.",
+          false
+        ],
+        [
+          "Header.",
+          true
+        ]
+      ]
+    ]
+  ],
   "Examen para NDC01": [
     [
       "\u00bfCu\u00e1l de los siguientes elementos puede ser un tercero relacionado con una organizaci\u00f3n?",
@@ -4462,6 +4998,202 @@
         ],
         [
           "Derecho a la limitaci\u00f3n de tratamiento.",
+          false
+        ]
+      ]
+    ]
+  ],
+  "Examen para NDC05": [
+    [
+      "Los procesos de identificar, proteger, detectar, responder y recuperar... \u00bfa que marco pertenecen?",
+      [
+        [
+          "Modelo CobIT",
+          false
+        ],
+        [
+          "ISO 27001.",
+          false
+        ],
+        [
+          "Marco SCF.",
+          false
+        ],
+        [
+          "NIST cibersecurity framework.",
+          true
+        ]
+      ]
+    ],
+    [
+      "Un proceso Procesos aprobado y con pol\u00edticas definidas, actualizados regularmente de acuerdo con el perfil de riesgo de la organizaci\u00f3n. \u00bfEn que nivel de madurez se encuentra?",
+      [
+        [
+          "Adaptativo.",
+          false
+        ],
+        [
+          "Repetible.",
+          true
+        ],
+        [
+          "Informado.",
+          false
+        ],
+        [
+          "Parcial.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l es la norma ISO sobre continuidad de negocio?",
+      [
+        [
+          "ISO 37301.",
+          false
+        ],
+        [
+          "ISO 22301.",
+          true
+        ],
+        [
+          "ISO 27001.",
+          false
+        ],
+        [
+          "ISO 19600.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCual de los siguientes son conjunto de buenas pr\u00e1cticas para la gesti\u00f3n de los sistemas de informaci\u00f3n de las compa\u00f1\u00edas?",
+      [
+        [
+          "SCF.",
+          false
+        ],
+        [
+          "NIST cibersecurity framework.",
+          false
+        ],
+        [
+          "CobIT.",
+          true
+        ],
+        [
+          "CIS CSF.",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de los siguientes no es una autoridad competente de cara a la vigilancia del cumplimiento de la directiva NIS?",
+      [
+        [
+          "Centro Nacional de Protecci\u00f3n de Infraestructuras Cr\u00edticas (CNPIC).",
+          false
+        ],
+        [
+          "Centro Criptol\u00f3gico Nacional (CCN).",
+          false
+        ],
+        [
+          "Secretar\u00eda de Estado para el Avance Digital, del Ministerio de Energ\u00eda, Turismo y Agenda Digital.",
+          false
+        ],
+        [
+          "INCIBE.",
+          true
+        ]
+      ]
+    ],
+    [
+      "El per\u00edodo de tiempo permitido tras un incidente dentro del cual se reanuda un producto, servicio o actividad o se recuperan recursos se denomina",
+      [
+        [
+          "Objetivo de punto de recuperaci\u00f3n (RPO).",
+          false
+        ],
+        [
+          "Periodo m\u00e1ximo tolerable de interrupci\u00f3n (MTPD).",
+          false
+        ],
+        [
+          "Objetivo de tiempo de recuperaci\u00f3n (RTO).",
+          true
+        ],
+        [
+          "Requisitos m\u00ednimos de continuidad de negocio (MBCO).",
+          false
+        ]
+      ]
+    ],
+    [
+      "\u00bfCu\u00e1l de los siguientes no es un objetivo de la directiva NIS?",
+      [
+        [
+          "La homogeneizaci\u00f3n de las medidas de seguridad entre organizaciones de diferentes pa\u00edses.",
+          false
+        ],
+        [
+          "El establecimiento de un marco de comunicaci\u00f3n entre las diferenes instituciones para la compartici\u00f3n de informaci\u00f3n de seguridad.",
+          false
+        ],
+        [
+          "La mejora de los procesos de respuesta a eventos e incidencias de seguridad.",
+          false
+        ],
+        [
+          "La formaci\u00f3n de un conjunto de profesionales que dara servicio a las administraciones p\u00fablicas europeas.",
+          true
+        ]
+      ]
+    ],
+    [
+      "\u00bfQue tres grupos de medidas hay en el anexo 2 del Esquema nacional de seguridad?",
+      [
+        [
+          "Medidas de protecci\u00f3n, deteccion y organizaci\u00f3n.",
+          false
+        ],
+        [
+          "Marco preventivo, detectivo y operativo.",
+          false
+        ],
+        [
+          "Marco detectivo, operativo, y organizativo.",
+          false
+        ],
+        [
+          "Marco Organizativo, operacional y medidas de protecci\u00f3n.",
+          true
+        ]
+      ]
+    ],
+    [
+      "La directiva NIS recoge las medidas para garantizar un nivel de seguridad elevado en entidades tanto del sector privado como del sector p\u00fablico en toda Europa. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
+          false
+        ]
+      ]
+    ],
+    [
+      "La ultima versi\u00f3n de la ISO 27002 es del a\u00f1o 2022. \u00bfVerdadero o falso?",
+      [
+        [
+          "Verdadero",
+          true
+        ],
+        [
+          "Falso",
           false
         ]
       ]
