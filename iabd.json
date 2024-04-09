@@ -5161,7 +5161,7 @@
             ]
         ],
         [
-            "Señala si son o no ciertas las siguientes afirmaciones:\u000aI.- Las consultas de Hive se traducen a procesos MapReduce.\u000aII.- Los datos en Hive se almacenan en una estructura relacional.",
+            "Señala si son o no ciertas las siguientes afirmaciones:\u000dI.- Las consultas de Hive se traducen a procesos MapReduce.\u000dII.- Los datos en Hive se almacenan en una estructura relacional.",
             [
                 [
                     "I cierta, II cierta",
@@ -5203,7 +5203,7 @@
             ]
         ],
         [
-            "Señala si son o no ciertas las siguientes afirmaciones sobre la siguiente consulta:\u000aSELECT * FROM airports LIMIT 10\u000aI.- La sintaxis es vális en Hive.\u000aII.- La sintaxis es vális en Pig.",
+            "Señala si son o no ciertas las siguientes afirmaciones sobre la siguiente consulta:\u000dSELECT * FROM airports LIMIT 10\u000dI.- La sintaxis es vális en Hive.\u000dII.- La sintaxis es vális en Pig.",
             [
                 [
                     "I cierta, II cierta",
@@ -5224,7 +5224,7 @@
             ]
         ],
         [
-            "Señala si son o no ciertas las siguientes afirmaciones:\u000aI.- Una transformación sobre un \"dataframe\" de Spark devuelve otro \"dataframe\".\u000aII.- Una acción sobre un \"dataframe\" de Spark devuelve otro \"dataframe\".",
+            "Señala si son o no ciertas las siguientes afirmaciones:\u000dI.- Una transformación sobre un \"dataframe\" de Spark devuelve otro \"dataframe\".\u000dII.- Una acción sobre un \"dataframe\" de Spark devuelve otro \"dataframe\".",
             [
                 [
                     "I cierta, II cierta",
@@ -5287,7 +5287,7 @@
             ]
         ],
         [
-            "¿Qué quiere decir la afirmación de que Hadoop es multitenancy?\u000aI.- Que Hadoop permite que múltiples usuarios de diferente tipo utilicen la plataforma.\u000aII.- Que Hadoop permite trabajar con muchos ficheros de cualquier tipo.",
+            "¿Qué quiere decir la afirmación de que Hadoop es multitenancy?\u000dI.- Que Hadoop permite que múltiples usuarios de diferente tipo utilicen la plataforma.\u000dII.- Que Hadoop permite trabajar con muchos ficheros de cualquier tipo.",
             [
                 [
                     "I cierta, II cierta",
@@ -5308,7 +5308,7 @@
             ]
         ],
         [
-            "Señala si son o no ciertas las siguientes afirmaciones:\u000aI.- La implementación de un Data Lake es más económica que la de un Datawarehouse.\u000aII.- Un Datawarehouse sólo almacena datos estructurados, mientras que un Data Lake puede almacenar cualquier tipo de dato.",
+            "Señala si son o no ciertas las siguientes afirmaciones:\u000dI.- La implementación de un Data Lake es más económica que la de un Datawarehouse.\u000dII.- Un Datawarehouse sólo almacena datos estructurados, mientras que un Data Lake puede almacenar cualquier tipo de dato.",
             [
                 [
                     "I cierta, II cierta",
