@@ -10394,11 +10394,11 @@
                 ],
                 [
                     "Participar en competiciones sobre machine learning",
-                    false
+                    true
                 ],
                 [
                     "Hacer networking con otros profesionales de la inteligencia artificial",
-                    true
+                    false
                 ],
                 [
                     "Ver pelis futuristas con robots inteligentes",
