@@ -7361,11 +7361,11 @@
             [
                 [
                     "Son multidimensionales",
-                    null
+                    false
                 ],
                 [
                     "Son equivalentes a las listas pero permitiendo distintos tipos de datos",
-                    null
+                    true
                 ],
                 [
                     "Son equivalentes a los arrays pero permitiendo distintos tipos de datos",
@@ -7373,7 +7373,7 @@
                 ],
                 [
                     "Pueden almacenar distintos tipos de datos",
-                    null
+                    false
                 ]
             ]
         ],
