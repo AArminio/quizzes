@@ -5919,6 +5919,27 @@
                     false
                 ]
             ]
+        ],
+        [
+            "¿Cuáles son rasgos típicos de las estructuras de datos empleadas para OLAP?",
+            [
+                [
+                    "Almacenamiento en unidades SSD para un acceso más rápido.",
+                    false
+                ],
+                [
+                    "Almacenamiento en memoria RAM de estructuras multidimensionales",
+                    true
+                ],
+                [
+                    "Almacenamiento en memoria RAM de datos previamente normalizados",
+                    false
+                ],
+                [
+                    "Estructuras multidimensionales que se almacenan en sistemas distribuidos tipo HDFS o S3",
+                    false
+                ]
+            ]
         ]
     ],
     "SBD02": [
@@ -6510,15 +6531,15 @@
                 ],
                 [
                     "No juega ningún papel en relación a Gobierno de Datos",
-                    null
+                    false
                 ],
                 [
                     "Es responsable del modelo de datos",
-                    null
+                    true
                 ],
                 [
                     "Tiene como cometido resolver problemas tecnológicos",
-                    null
+                    false
                 ]
             ]
         ],
