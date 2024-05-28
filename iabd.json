@@ -6401,15 +6401,15 @@
             [
                 [
                     "Virtual, basada en middleware, basada en aplicación, manual",
-                    null
+                    false
                 ],
                 [
                     "Virtual, manual, basada en aplicación, basada en middleware",
-                    null
+                    false
                 ],
                 [
                     "Manual, basada en aplicación, basada en middleware, virtual",
-                    null
+                    true
                 ],
                 [
                     "Manual, virtual, basada en aplicación, basada en middleware",
