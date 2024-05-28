@@ -8239,11 +8239,11 @@
             [
                 [
                     "Verdadero",
-                    false
+                    true
                 ],
                 [
                     "Falso",
-                    true
+                    false
                 ]
             ]
         ],
@@ -10415,11 +10415,11 @@
                 ],
                 [
                     "Participar en competiciones sobre machine learning",
-                    false
+                    true
                 ],
                 [
                     "Hacer networking con otros profesionales de la inteligencia artificial",
-                    true
+                    false
                 ],
                 [
                     "Ver pelis futuristas con robots inteligentes",
@@ -11936,11 +11936,11 @@
             [
                 [
                     "Ninguna de las anteriores",
-                    true
+                    false
                 ],
                 [
                     "Era parte de la librería Scipy",
-                    false
+                    true
                 ],
                 [
                     "Era parte de la librería estándar de Python.",
@@ -13985,11 +13985,11 @@
             [
                 [
                     "Verdadero",
-                    true
+                    false
                 ],
                 [
                     "Falso",
-                    false
+                    true
                 ]
             ]
         ],
@@ -14313,11 +14313,11 @@
                 ],
                 [
                     "A la computación en la nube.",
-                    false
+                    true
                 ],
                 [
                     "Ninguna de las anteriores.",
-                    true
+                    false
                 ],
                 [
                     "A un tipo de ataque cibernético que solo se hace los días de lluvia.",
