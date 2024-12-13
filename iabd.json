@@ -56,6 +56,40 @@
             ]
         ],
         [
+            "Una máquina «inteligente» ideal es un agente flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades de éxito en algún objetivo o tarea. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El lenguaje natural en Inteligencia Artificial se entiende como:",
+            [
+                [
+                    "La posibilidad de responder a una pregunta en un lenguaje diferente.",
+                    false
+                ],
+                [
+                    "La capacidad de una computadora para autoprogramarse de forma natural a sí misma.",
+                    false
+                ],
+                [
+                    "La capacidad de comprender y usar el lenguaje como lo hace cualquier humano, con variaciones y diferentes formas de expresar la misma idea.",
+                    true
+                ],
+                [
+                    "La capacidad de procesar cientos de expresiones escritas en segundos.",
+                    false
+                ]
+            ]
+        ],
+        [
             "La imagen que nos presentan la literatura y el cine contemporáneo sobre la Inteligencia Artificial es completamente fiel a la capacidad real que tiene ahora mismo. ¿Verdadero o Falso?",
             [
                 [
