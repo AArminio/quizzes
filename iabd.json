@@ -5475,6 +5475,27 @@
             ]
         ],
         [
+            "Un clúster es:",
+            [
+                [
+                    "Un conjunto de computadoras que pueden seguir funcionando aunque no tengan conexión a red.",
+                    false
+                ],
+                [
+                    "Un conjunto de computadoras que trabajan de forma independiente y están conectadas mediante red.",
+                    false
+                ],
+                [
+                    "Un conjunto de computadoras conectadas mediante red para trabajar como una única unidad.",
+                    true
+                ],
+                [
+                    "Una máquina lo suficientemente potente como para almacenar y procesar grandes cantidades de datos.",
+                    false
+                ]
+            ]
+        ],
+        [
             "Un procesamiento distribuido implica",
             [
                 [
