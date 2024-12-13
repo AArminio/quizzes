@@ -5441,6 +5441,27 @@
             ]
         ],
         [
+            "Las 4 características del principio ACID son",
+            [
+                [
+                    "Aislamiento, Concurrencia, Independencia y Durabilidad.",
+                    false
+                ],
+                [
+                    "Atomicidad, Consistencia, Aislamiento y Durabilidad.",
+                    true
+                ],
+                [
+                    "Atomicidad, Consistencia, Independiencia y Durabilidad.",
+                    false
+                ],
+                [
+                    "Atomicidad, Concurrencia, Aislamiento y Durabilidad.",
+                    false
+                ]
+            ]
+        ],
+        [
             "Un almacén de datos está pensado para poder realizar funciones transaccionales. ¿Verdadero o falso?",
             [
                 [
