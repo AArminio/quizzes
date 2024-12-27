@@ -553,6 +553,96 @@
             ]
         ],
         [
+            "Las redes neuronales son sistemas basados en redes de unidades de computación lineal para simular computación no lineal. ¿Verdadero o Falso? ",
+             [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+
+        ],
+        [
+            "La principal diferencia entre las dos escuelas de pensamiento en el ámbito de la Inteligencia Artificial radica en la ciencia que hay tras los procesos que sigue dicha IA para llegar a los resultados esperados. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "¿Cuantos tipos de Inteligencia Artificial contempla la clasificación de Hinzte?",
+            [
+                [
+                    "2",
+                    false
+                ],
+                [
+                    "3",
+                    false
+                ],
+                [
+                    "4",
+                    true
+                ],
+                [
+                    "5",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Tanto la Inteligencia Artificial Débil como la Fuerte tienen que ver con:",
+            [
+                [
+                    "El proceso de aprendizaje de dicha IA",
+                    false
+                ],
+                [
+                    "La capacidad de memorizar de dicha IA",
+                    false
+                ],
+                [
+                    "La/s tarea/s que es capaz de realizar dicha IA",
+                    true
+                ],
+                [
+                    "El comportamiento de dicha IA",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una máquina reactiva es:",
+            [
+                [
+                    "Una IA que no es capaz de formar recuerdos",
+                    false
+                ],
+                [
+                    "uno de los sistemas más básicos de la IA",
+                    false
+                ],
+                [
+                    "Todas las opciones son correctas",
+                    true
+                ],
+                [
+                    "Una IA que no puede utilizar experiencias pasadas para basar las decisiones actuales",
+                    false
+                ]
+            ]
+        ],
+        [
             "La Inteligencia Artificial Débil también se conoce como",
             [
                 [
