@@ -6144,6 +6144,40 @@
             ]
         ],
         [
+            "HDFS permite almacenar datos sin necesidad de estos tengan que cumplir con un esquema establecido de antemano. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El almacenamiento distribuido en memoria tiene la desventaja de que:",
+            [
+                [
+                    "Trabajar con grandes cantidades de memoria RAM impone requisitos específicos de refrigeración en el centro de datos.",
+                    false
+                ],
+                [
+                    "El acceso a memoria tiene más latencia que si usamos unidades de almacenamiento no volátil.",
+                    false
+                ],
+                [
+                    "No tiene desventajas.",
+                    false
+                ],
+                [
+                    "No ofrece de por sí durabilidad en los datos.",
+                    true
+                ]
+            ]
+        ],
+        [
             "Que una base de datos sea schema-on-read significa",
             [
                 [
