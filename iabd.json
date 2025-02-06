@@ -6665,6 +6665,69 @@
             ]
         ],
         [
+            "Una de las siguientes no es una de las actividades relacionadas con gestión de datos en las que está presente el Gobierno de Datos:",
+            [
+                [
+                    "Optimización de recursos.",
+                    true
+                ],
+                [
+                    "Calidad.",
+                    false
+                ],
+                [
+                    "Integración.",
+                    false
+                ],
+                [
+                    "Documentación.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Una de las siguientes no es una de las principales características de Apache Sqoop:",
+            [
+                [
+                    "Permite conectar con fuentes de datos no estructuradas.",
+                    true
+                ],
+                [
+                    "Permite importaciones en masa.",
+                    false
+                ],
+                [
+                    "Cuenta con interfaz de línea de comandos.",
+                    false
+                ],
+                [
+                    "Cuenta con mecanismos para evitar sobrecargar las fuentes.",
+                    false
+                ]
+            ]
+        ],
+        [
+            "Según el RGPD:",
+            [
+                [
+                    "Un responsable sólo puede encargar un tratamiendo de datos a quien cumpla con garantías técnicas y organizativas para cumplir con el RGPD, y debe existir un contrato escrito entre responsable y encargado.",
+                    true
+                ],
+                [
+                    "Un responsable sólo puede encargar un tratamiendo de datos a quien pueda demostrar experiencia previa en el área, y debe existir un contrato escrito entreresponsable y encargado.",
+                    false
+                ],
+                [
+                    "Un responsable sólo puede encargar un tratamiendo de datos a quien cumpla con garantías técnicas y organizativas para cumplir con el RGPD.",
+                    false
+                ],
+                [
+                    "Un responsable no puede subcontratar ningún tratamiento de datos.",
+                    false
+                ]
+            ]
+        ],
+        [
             "Una de las siguientes no es un tipo de fuente típico en la fase de extracción del proceso ETL",
             [
                 [
