@@ -1117,7 +1117,7 @@
             ]
         ],
         [
-            "El `Silogismo` es uno de los procesos básicos del aprendizaje humano que primero intentaron `imitar` en la Inteligencia Artificial con máquinas. ¿Verdadero o Falso?",
+            "El Silogismo es uno de los procesos básicos del aprendizaje humano que primero intentaron imitar en la Inteligencia Artificial con máquinas. ¿Verdadero o Falso?",
             [
                 [
                     "Verdadero",
@@ -1127,7 +1127,6 @@
                     "Falso",
                     false
                 ],
-
             ]
         ],
         [
