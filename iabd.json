@@ -1138,6 +1138,19 @@
             ]
         ],
         [
+            "La capacidad de cómputo de los ordenadores así como su memoria han sido el factor determinante para pasar de la Inteligencia Artificial teórica a las aplicaciones prácticas de la misma. ¿Verdadero o Falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
             "El Silogismo es uno de los procesos básicos del aprendizaje humano que primero intentaron imitar en la Inteligencia Artificial con máquinas. ¿Verdadero o Falso?",
             [
                 [
