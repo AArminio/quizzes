@@ -1117,6 +1117,27 @@
             ]
         ],
         [
+            "La Inteligencia Artificial, inicialmente, tuvo un desarrollo más teórico que práctico.",
+            [
+                [
+                    "Sí.",
+                    true
+                ],
+                [
+                    "Solo en Estados Unidos.",
+                    false
+                ],
+                [
+                    "Solo en la Unión Soviética.",
+                    false
+                ],
+                [
+                    "No.",
+                    false
+                ]
+            ]
+        ],
+        [
             "El Silogismo es uno de los procesos básicos del aprendizaje humano que primero intentaron imitar en la Inteligencia Artificial con máquinas. ¿Verdadero o Falso?",
             [
                 [
@@ -1125,27 +1146,6 @@
                 ],
                 [
                     "Falso",
-                    false
-                ],
-            ]
-        ],
-        [
-            "La Inteligencia Artificial, inicialmente, tuvo un desarrollo más teórico que práctico.",
-            [
-                [
-                    "Sí",
-                    true
-                ],
-                [
-                    "Solo en Estados Unidos",
-                    false
-                ],
-                [
-                    "Solo en la Unión Soviética",
-                    false
-                ],
-                [
-                    "No",
                     false
                 ]
             ]
@@ -1172,7 +1172,7 @@
             ]
         ],
         [
-            "La Inteligencia Artificial Clásica necesita al menos un humano “experto” en la tarea que se pretenda que dicha Inteligencia Artificial aprenda. ¿Verdadero o Faslo?",
+            "La Inteligencia Artificial Clásica necesita al menos un humano “experto” en la tarea que se pretenda que dicha Inteligencia Artificial aprenda. ¿Verdadero o Falso?",
             [
                 [
                     "Verdadero",
