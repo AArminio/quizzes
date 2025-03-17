@@ -4336,6 +4336,32 @@
             ]
         ],
         [
+            "Después de hacer un cambio de en la configuración de un servicio, suele requerirse un reinicio de dicho servicio.¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
+            "El servicio ResourceManager UI permite ver cuánta memoria está consumiendo todos los contenedores de YARN. ¿Verdadero o falso?",
+            [
+                [
+                    "Verdadero",
+                    true
+                ],
+                [
+                    "Falso",
+                    false
+                ]
+            ]
+        ],
+        [
             "El servicio Namenode UI permite ver cuánto espacio está ocupando HDFS. ¿Verdadero o falso?",
             [
                 [
