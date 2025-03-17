@@ -2264,6 +2264,27 @@
             ]
         ],
         [
+            "¿Qué técnica utiliza DALLE para generar imágenes a partir de una descripción dada?",
+            [
+                [
+                    "Clarification.",
+                    false
+                ],
+                [
+                    "Normalization.",
+                    false
+                ],
+                [
+                    "Dispersion.",
+                    false
+                ],
+                [
+                    "Difusion.",
+                    true
+                ]
+            ]
+        ],
+        [
             "El modelo GPT3 también es capaz de escribir programas en lenguaje de programación. ¿Verdadero o Falso?",
             [
                 [
